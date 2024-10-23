@@ -48,7 +48,7 @@
 
 - 可以使用 google 翻译或者 deepl 翻译
 - 或使用[沉浸式翻译](https://immersivetranslate.com/)：
-- [沉浸式翻译Github](https://github.com/immersive-translate/immersive-translate/)
+- [沉浸式翻译 Github](https://github.com/immersive-translate/immersive-translate/)
 - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
 
 ## [搜狗](https://www.sogou.com/):
@@ -62,7 +62,7 @@
 
 ## [Perplexity](https://www.perplexity.ai/)
 
-AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页；类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
+AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用 AI 帮你总结要点，也提供参考网页；类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
 
 - 类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)
 
@@ -104,19 +104,19 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://z-library.sk/)
-  - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
+  - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
 - [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
 
-- [MBA智库百科](https://wiki.mbalib.com/wiki)
+- [MBA 智库百科](https://wiki.mbalib.com/wiki)
 
 ## 软件、项目、工具相关:
 
 - [GitHub](https://github.com/) 托管大量开源软件，项目，工具
-- [GitLab](https://gitlab.com/) 托管大量开源软件，项目，工具，类似于GitHub
+- [GitLab](https://gitlab.com/) 托管大量开源软件，项目，工具，类似于 GitHub
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
-- [Flathub](https://flathub.org/) 收集了大量Linux软件
+- [Flathub](https://flathub.org/) 收集了大量 Linux 软件
 
 ## 数学相关：
 
@@ -152,8 +152,8 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 ## 网络空间安全相关：
 
 - [Hacki](https://news.ycombinator.com) 黑客新闻平台
-- [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit网络空间安全分区
-- [Hello CTF](hello-ctf.com) CTF比赛指南
+- [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit 网络空间安全分区
+- [Hello CTF](hello-ctf.com) CTF 比赛指南
 
 ## 数码相关：
 
@@ -165,8 +165,8 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 
 - 请正在写论文的同学们补充...
 
-# 🔗参考链接
+# 🔗 参考链接
 
-🔗项目频道（TG）：https://t.me/AcWiki
+🔗 项目频道（TG）：https://t.me/AcWiki
 
-🔗交流群组（TG）：https://t.me/AcFourm
+🔗 交流群组（TG）：https://t.me/AcFourm
