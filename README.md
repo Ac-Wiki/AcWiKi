@@ -1,8 +1,8 @@
-# ✨<center>AcWiKi<center>
+# <div align='center' ><font size='140'>✨Ac Wiki</font></div>
 
-**💕属于大学生群体的真·青年大学习**
+**<div align='center'> <font size='70'>💕属于大学生群体的真·青年大学习</font></div>**
 
-> AcWiki 及全体用户用❤️‍🔥制作
+> **<div align='center' ><font size='50'>AcWiki 及全体用户用❤️‍🔥制作</font></div>**
 
 **本项目旨在努力帮助大学生群体学习掌握各项技能，最大程度的打破信息差，同时免去四处寻找各类书籍 / 材料 / 文档模板的困难，助力该群体顺利完成学业与社会的衔接**
 
