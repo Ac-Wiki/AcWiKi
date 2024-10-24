@@ -1,10 +1,9 @@
-# ✨<center>AcWiKi<center>
+# <div align='center' ><font size='140'>✨Ac Wiki</font></div>
 
-**💕属于大学生群体的真·青年大学习**
+**<div align='center'> <font size='70'>💕属于大学生群体的真·青年大学习</font></div>**
 
-> AcWiki 及全体用户用❤️‍🔥制作
-
-**本项目旨在努力帮助大学生群体学习掌握各项技能，最大程度的打破信息差，同时免去四处寻找各类书籍 / 材料 / 文档模板的困难，助力该群体顺利完成学业与社会的衔接**
+> **<div align='center' ><font size='50'>AcWiki 及全体用户用❤️‍🔥制作</font></div>**
+> **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，最大程度的打破信息差，同时免去四处寻找各类书籍 / 材料 / 文档模板的困难，助力该群体顺利完成学业与社会的衔接</font></div>**
 
 **目前您可通过 PR 请求更新内容到本项目，感谢您的参与！如果暂时不熟悉 GitHub 操作，也可以直接将想添加的内容发到[TG 群组](https://t.me/AcFourm)，其他同学会在空余时间补充完善**
 
