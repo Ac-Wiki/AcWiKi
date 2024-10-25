@@ -8,6 +8,9 @@
 
 > **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>** > **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
+
+<div align='center'> <a href="https://hellogithub.com/repository/3bdcd4d189d34008a828e89cccc1ab54" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=3bdcd4d189d34008a828e89cccc1ab54&claim_uid=HLzAGK1ZXD3qYgR" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ---
 
 # 1. 🔊声明
@@ -101,4 +104,4 @@
 
 感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀)ノノ
 
-[![Contributors](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
+[![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
