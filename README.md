@@ -6,7 +6,8 @@
 
 **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
 
-> **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>** > **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+>  **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>**
+**</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
 ---
 
@@ -32,9 +33,10 @@
 
 - ### [学生优惠](https://github.com/Ac-Wiki/AcWiKi/blob/main/01-student-discounts/README.md)
 - ### 生活常识
+- **保持健康**
+- **出境须知**
 - **入职须知**
 - **正确维权**
-- **恋爱前置** - **学会爱自己**
 - **脱单技巧**
 
 ## 2.2. 学术技能
@@ -43,29 +45,28 @@
 
 - **[高效检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)**
 - **学会撰写论文**
-- **[计算机基础技能]**
+- **计算机基础技能**
+- **运用新质生产力**
+- **合理规划时间**
+- **高效学习技巧**
 
 ### 工具平台
 
 - **获取资源**
-- **[提升效率](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
+- **[效率优化](https://github.com/Ac2xi-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
 - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
   #### 校园应用
   - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
   - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**
 
-## 2.3. 考赛介绍
+### 考赛介绍
 
-- **学科评级**
+- **学科等级**
 - **专业技能**
 - **学科竞赛**
 
-## 2.4. 方法总结
 
-- **规划时间**
-- **学习技巧**
-
-## 2.5. 待补充
+## 2.3. 待补充
 
 ---
 
@@ -101,4 +102,4 @@
 
 感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀)ノノ
 
-[![Contributors](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
+[![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
