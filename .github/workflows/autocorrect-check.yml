@@ -30,5 +30,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "fix(typo): Fix Markdown formatting"
-          git pull 
-          git push origin HEAD:main
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
