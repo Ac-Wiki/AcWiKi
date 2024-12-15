@@ -6,19 +6,19 @@
 
 ### 概述
 
-众多Chromium内核（如Chrome、Edge等）与Firefox内核的浏览器有隐私浏览的功能。在隐私模式下，浏览器不会使用Cookies，不会保存浏览记录，可以简单地防止能够接触到这个计算机的用户获取你的隐私。
+众多 Chromium 内核（如 Chrome、Edge 等）与 Firefox 内核的浏览器有隐私浏览的功能。在隐私模式下，浏览器不会使用 Cookies，不会保存浏览记录，可以简单地防止能够接触到这个计算机的用户获取你的隐私。
 
 ### 用法
 
-#### Chrome用户（包括Edge等Chromium内核浏览器，操作逻辑类似）
+#### Chrome 用户（包括 Edge 等 Chromium 内核浏览器，操作逻辑类似）
 
-![Chrome隐私模式](./resources/img1.png)
+![Chrome 隐私模式](./resources/img1.png)
 
-单击这里的`打开新的无痕式窗口`即可。其他Chromium内核浏览器操作逻辑类似
+单击这里的`打开新的无痕式窗口`即可。其他 Chromium 内核浏览器操作逻辑类似
 
-#### Firefox用户
+#### Firefox 用户
 
-![Firefox隐私模式](./resources/img2.png)
+![Firefox 隐私模式](./resources/img2.png)
 
 单击这里的`新建隐私窗口`即可。
 
@@ -28,8 +28,8 @@
 
 ## VPN
 
-VPN，全称**虚拟专用网络**，是指将专用网络延伸至互联网上的一种技术。许多企业用户需要自己搭建VPN以实现机密文件的传递，当然，普通人也能使用到这一技术。
+VPN，全称**虚拟专用网络**，是指将专用网络延伸至互联网上的一种技术。许多企业用户需要自己搭建 VPN 以实现机密文件的传递，当然，普通人也能使用到这一技术。
 
 ## 图片资源
 
-[Chrome隐私模式](./resources/img1.png)、[Firefox隐私模式](./resources/img2.png) 图像来源 [GitHub@Coconut-Aero](https://github.com/Coconut-Aero)
+[Chrome 隐私模式](./resources/img1.png)、[Firefox 隐私模式](./resources/img2.png) 图像来源 [GitHub@Coconut-Aero](https://github.com/Coconut-Aero)
