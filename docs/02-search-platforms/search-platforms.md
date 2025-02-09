@@ -163,7 +163,8 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [Hacki](https://news.ycombinator.com) 黑客新闻平台
 - [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit 网络空间安全分区
-- [Hello CTF](https://hello-ctf.com/) CTF 比赛指南
+- [Hello CTF](https://hello-ctf.com/) CTF 比赛指南、[CTF-wiki](https://ctf-wiki.org/)
+- [微步在线云沙箱](https://s.threatbook.com)、[微步在线情报社区](https://x.threatbook.com)（之前免费，可惜后面推出收费套餐了）
 
 ### 数码
 
