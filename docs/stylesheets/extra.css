@@ -1,0 +1,5 @@
+[id^="vercount_value"] {
+    margin: 1em 0;
+    font-size: 0.8em;
+    color: var(--md-footer-fg-color--light);
+  }

@@ -39,13 +39,14 @@ edit_uri: edit/main/docs/
 theme:
   language: zh
   name: material
-  custom_dir: overrides
+  custom_dir: ./src/overrides
   logo: assets/logo.jpg
   favicon: assets/logo_clear.png
   features:
     - toc.follow # Follow TOC
     - content.action.edit # source edit
     - content.action.view # source view
+    - content.feedback
     - navigation.instant # Instant navigation
     - navigation.instant.progress
     - navigation.top # Top navigation
@@ -76,10 +77,29 @@ extra:
     - icon: simple/telegram
       link: https://t.me/AcFourm
       name: Telegram 群组
+  analytics:
+    provider: custom
+    feedback:
+      title: "本页面对您有帮助吗？"
+      ratings:
+        - icon: material/thumb-up-outline
+          name: 有帮助
+          data: 1
+          note: >-
+            感谢您的反馈！
+        - icon: material/thumb-down-outline
+          name: 有待改进
+          data: 0
+          note: >-
+            请 <a href="..." target="_blank" rel="noopener">加入频道</a> 或 <a href="..." target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
 
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - js/extra.js
+  - js/feedback.js
+  - https://cn.vercount.one/js
 
 markdown_extensions:
   - abbr
@@ -92,12 +112,14 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - pymdownx.betterem
-  - pymdownx.blocks.caption
   - pymdownx.superfences
   - pymdownx.keys
 
 plugins:
-  - search
+  - search:
+      lang: zh
+      separator: '[\s\u200b\-]'
+      jieba_dict: ./src/dict.txt
   - git-revision-date-localized: # commit/Modify date
       timezone: Asia/Shanghai
       enable_creation_date: true
