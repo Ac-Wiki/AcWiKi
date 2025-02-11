@@ -91,7 +91,7 @@ extra:
           name: 有待改进
           data: 0
           note: >-
-            请 <a href="..." target="_blank" rel="noopener">加入频道</a> 或 <a href="..." target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
+            请 <a href="https://t.me/AcWiki" target="_blank" rel="noopener">加入频道</a> 或 <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new?template=Blank+issue" target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
 
 extra_css:
   - stylesheets/extra.css
