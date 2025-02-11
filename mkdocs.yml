@@ -34,21 +34,27 @@ site_description: 属于大学生群体的真·青年大学习
 repo_name: AcWiki
 repo_url: https://github.com/Ac-Wiki/AcWiKi
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 <a href="https://github.com/Ac-Wiki/AcWiKi/" target="_blank">AcWiki</a>
+# copyright: 
 
 theme:
+  language: zh
   name: material
+  custom_dir: overrides
   logo: assets/logo.jpg
   favicon: assets/logo_clear.png
   features:
-    - navigation.footer
+    - toc.follow # Follow TOC
     - content.action.edit # source edit
     - content.action.view # source view
     - navigation.instant # Instant navigation
+    - navigation.instant.progress
+    - navigation.top # Top navigation
+    - navigation.footer
     #- navigation.tabs 后续可考虑启用
     #- navigation.tabs.sticky
-    - toc.follow # Follow TOC
-    - navigation.top # Top navigation
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     # match system theme color
     - media: "(prefers-color-scheme: light)"
@@ -71,18 +77,22 @@ extra:
       link: https://t.me/AcFourm
       name: Telegram 群组
 
+
 extra_javascript:
   - js/extra.js
 
 markdown_extensions:
+  - abbr
   - attr_list
   - admonition #强调块
   - footnotes #脚注
   - md_in_html #支持在 html 中使用 markdown 语法
   - toc:
       permalink: true
+  - tables
   - pymdownx.details
   - pymdownx.betterem
+  - pymdownx.blocks.caption
   - pymdownx.superfences
   - pymdownx.keys
 
