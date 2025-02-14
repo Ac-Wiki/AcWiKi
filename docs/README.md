@@ -156,7 +156,7 @@ QQ 群：搜索 860675581 或 点击链接加入群聊：[https://qm.qq.com/q/WJ
 
 - 对于 Windows 用户：在PowerShell中执行以下命令进入虚拟环境：
   ```pwsh
-  venv\Scripts\activate.bat
+  venv\Scripts\activate
   ``` 
 ## 5.3 安装依赖
 
