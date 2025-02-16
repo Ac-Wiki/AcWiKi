@@ -136,39 +136,47 @@ QQ 群：搜索 860675581 或 点击链接加入群聊：[https://qm.qq.com/q/WJ
 
 ## 5.1 克隆仓库
 
-  确保您安装了git，可于[Git](https://git-scm.com/)下载
-  
-  在终端执行以下命令克隆仓库：
-  ```shell
-    git clone https://github.com/Ac-Wiki/AcWiKi.git
-  ```
+确保您安装了 git，可于[Git](https://git-scm.com/)下载
+
+在终端执行以下命令克隆仓库：
+
+```shell
+  git clone https://github.com/Ac-Wiki/AcWiKi.git
+```
+
 ## 5.2 初始化虚拟环境
 
-  进入仓库根目录，使用以下命令创建虚拟环境
-  ```shell
-  python3 -m venv venv
-  ``` 
+进入仓库根目录，使用以下命令创建虚拟环境
 
-- 对于 Linux / macOS 用户： 在终端中执行以下命令进入虚拟环境：
+```shell
+python3 -m venv venv
+```
+
+- 对于 Linux / macOS 用户：在终端中执行以下命令进入虚拟环境：
+
   ```shell
   source venv/bin/activate
-  ``` 
+  ```
 
-- 对于 Windows 用户：在PowerShell中执行以下命令进入虚拟环境：
+- 对于 Windows 用户：在 PowerShell 中执行以下命令进入虚拟环境：
   ```pwsh
   venv\Scripts\activate.bat
-  ``` 
+  ```
+
 ## 5.3 安装依赖
 
-  仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
-  ```shell
-  pip install -r requirements.txt
-  ```
+仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
+
+```shell
+pip install -r requirements.txt
+```
 
 ## 5.4 构建本地网页
 
-  执行以下命令：
-  ```shell
-  mkdocs serve
-  ```
-  一般情况下，将会部署在本地的`8000`端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:端口号` 即可查看本地网页。
+执行以下命令：
+
+```shell
+mkdocs serve
+```
+
+一般情况下，将会部署在本地的`8000`端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:端口号` 即可查看本地网页。
