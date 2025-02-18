@@ -56,7 +56,7 @@
 - [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft 旗下的开发者云服务平台，**对教育订阅每 12 月提供$100 的免费额度**，以及部分免费服务；
   **[申请须知](https://www.bilibili.com/read/cv22794294/)**
 - [GitHub Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)：结对编程助手;
-- [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月,详细申请过程可以去看知乎Akari的[Github学生认证及学生包保姆级申请指南](https://zhuanlan.zhihu.com/p/382927220)；
+- [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月，详细申请过程可以去看知乎 Akari 的[Github 学生认证及学生包保姆级申请指南](https://zhuanlan.zhihu.com/p/382927220)；
 - [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在 GitHub 学生开发者资源包中;
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：编程语言开发套件，用了都说好；打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
 
@@ -66,6 +66,7 @@
     - 申请过程中会定位，请尽可能在学校位置
     - 上传证件可上传学信网验证报告 (翻译件)
     - 保持足够的耐心多试几次
+
 ### 📒笔记
 
 - [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费教育 Plus 计划**，价值$10/月；

@@ -165,7 +165,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit 网络空间安全分区
 - [Hello CTF](https://hello-ctf.com/) CTF 比赛指南、[CTF-wiki](https://ctf-wiki.org/)
 - [微步在线云沙箱](https://s.threatbook.com)、[微步在线情报社区](https://x.threatbook.com)（之前免费，可惜后面推出收费套餐了）
-- [长亭ip威胁情报](https://rivers.chaitin.cn/ip-intelligence) 可以查看某个ip是否为攻击ip
+- [长亭 ip 威胁情报](https://rivers.chaitin.cn/ip-intelligence) 可以查看某个 ip 是否为攻击 ip
 
 ### 数码
 
@@ -192,9 +192,9 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [科研废物导航](https://yanweb.top/) 这里整合了许多在写论文时会用到的大部分工具<br/>
 
 ??? tip 如何解决知网、万方高昂的“会员费”
-    
+
     一般情况下很多图书馆会购买相关的数据库，你可以先打开你们学校图书馆的网址（或者去询问图书馆或信息化中心的教职工）学校是否购买了相关的数据库文献
-    
+
     如果你的学校没有购买的话，你可以注册一个图书馆的账号，这样你仍然可以“白嫖”到这些资源
 
     这里推荐两个图书馆：浙江图书馆(仅需支付宝蚂蚁信用550分以上即可）和广西壮族自治区图书馆（资源库更全）
