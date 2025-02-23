@@ -21,7 +21,7 @@
 - [https://oi-wiki.org/](https://oi-wiki.org/) 算法竞赛相关知识，开源，MkDocs
 - [https://survivesjtu.github.io/SJTU-Application](https://survivesjtu.github.io/SJTU-Application) 上海交通大学大学飞跃手册，开源，docsify
 - [https://101.lug.ustc.edu.cn/](https://101.lug.ustc.edu.cn/) 中国科学技术大学《Linux 101》在线讲义，开源，MkDocs
-- [https://201.ustclug.org/](https://201.ustclug.org/) 中国科学技术大学《Linux 201》 进阶教程，开源，MkDocs
+- [https://201.ustclug.org/](https://201.ustclug.org/) 中国科学技术大学《Linux 201》进阶教程，开源，MkDocs
 
 - 欢迎按照类似格式补充～
 
@@ -39,7 +39,7 @@
 
 - [https://wiki.52poke.com](https://wiki.52poke.com) 神奇宝贝百科，开源，MediaWiki
 
-- [https://www.fandom.com/](https://www.fandom.com/) Fandom百科，开源，MediaWiki
+- [https://www.fandom.com/](https://www.fandom.com/) Fandom 百科，开源，MediaWiki
 
 - 欢迎按照类似格式补充～
 

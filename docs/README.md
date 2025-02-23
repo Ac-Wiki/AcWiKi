@@ -162,7 +162,7 @@ python3 -m venv venv
 
   ```pwsh
   venv\Scripts\activate
-  ``` 
+  ```
 
 ## 5.3 安装依赖
 
