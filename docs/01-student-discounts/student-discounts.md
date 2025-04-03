@@ -42,7 +42,7 @@
 
 - [网易云音乐](https://y.music.163.com/g/m/at/daydayup230505Astudyup?page=2ade783a2638439591ca02a78c0f85ca&extChannel=sms-3)：可低价开通黑胶会员，相比普通版**优惠¥8/月左右**
 
-- [启航邮免费领网易云会员](https://vip.163.com/projects/campus-vip)：使用 edu 邮箱认证，可免费领取 3 个月云音乐会员。
+- [启航邮免费领邮箱会员](https://vip.163.com/projects/campus-vip)：使用 edu 邮箱认证，可免费领取网易邮箱大师会员。
 
 - [QQ 音乐](https://y.qq.com/jzt/student/index.html?channelId=10036163)：学生认证后可低价开通豪华绿钻，相比普通版**优惠¥7/月左右**，实付￥8/月。
 
