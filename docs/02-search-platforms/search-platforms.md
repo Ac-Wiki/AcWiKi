@@ -76,7 +76,7 @@
 
 AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用 AI 帮你总结要点，也提供参考网页。
 
-- 类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)
+- 类似的还有[kimi](https://kimi.moonshot.cn/)和[秘塔AI搜索](https://metaso.cn/)
 
 #### [Kagi Search](https://kagi.com/welcome)
 

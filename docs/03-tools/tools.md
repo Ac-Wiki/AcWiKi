@@ -43,6 +43,18 @@ via 小众软件
 
 涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
 
+### [HiBitUninstaller](https://www.hibitsoft.ir/Uninstaller.html) 
+
+卸载软件、注册表清理、软件强制卸载等一体化工具
+
+### [SoftCNKiller](https://softcnkiller.blog.csdn.net/article/details/104799162)
+
+下崽器一键删除软件，可以检测大量常见的垃圾牛皮藓并卸载
+
+### [SteamCommunity_302](https://www.dogfight360.com/blog/18682/) 
+
+GitHub访问神器
+
 ## macOS
 
 ### [Alfred](https://www.alfredapp.com/)
@@ -134,6 +146,10 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 
 海外版本为 [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 
+### [termux](https://termux.dev/cn/) 
+
+terminal软件，可以在手机上编程、写小工具等
+
 ## Linux
 
 ### [LazyVim](https://github.com/LazyVim/LazyVim?tab=readme-ov-file)
@@ -145,6 +161,14 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 ### [localsend](https://github.com/localsend/localsend)
 
 LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
+
+### [chsrc](https://github.com/RubyMetric/chsrc) 
+
+一键切换镜像源
+
+### [squoosh](https://squoosh.app/) 
+
+图片压缩
 
 ## 浏览器插件
 
@@ -171,3 +195,19 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 ### [Chrome 插件英雄榜 ](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
 
 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~
+
+### AdGuard
+
+它的[Firefox beta版本](https://agrd.io/extension_firefox_beta)可以直接在墙内环境下安装，其他的都被block了
+
+### [SpcriptCat](https://github.com/scriptscat/scriptcat)
+
+国产开源脚本管理器，目前兼容了大部分油猴和暴力猴脚本
+
+## 其他
+
+顺便推荐两个等宽中文字体
+
+[Maple-font](https://github.com/subframe7536/Maple-font)
+
+[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)

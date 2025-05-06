@@ -60,6 +60,8 @@
   - **隐私担忧**: 账户同步功能需要依赖 Google 账户，如果对隐私有高要求的用户可能会有顾虑。
   - **功能简单**: 没有太多高级功能，如密码锁定等安全增强功能。
 
+### 6.[KeeOtp2](https://github.com/tiuub/KeeOtp2)
+
 ## 总结
 
 - **Microsoft Authenticator** 和 **Google Authenticator** 非常稳定和可靠，适合与它们自家产品和服务生态圈配合使用。
