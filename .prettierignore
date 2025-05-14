@@ -8,5 +8,8 @@ dist
 # Ignore Git directory
 .git
 
+# Ignore Github workflow directory
+.github
+
 # Ignore specific Markdown files (optional)
 # path/to/ignore.md

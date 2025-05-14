@@ -5,6 +5,7 @@ nav:
       - 主要: 01-student-discounts/student-discounts.md
       - 其他:
           - 网易云音乐: 01-student-discounts/others/netease.md
+          - 国家助学贷款: 01-student-discounts/student-assistance/national-student-loan-FAQ.md
   - 搜索引擎:
       - 主要: 02-search-platforms/search-platforms.md
   - 工具:
@@ -14,6 +15,7 @@ nav:
       - 网络安全:
           - 双重身份验证: 03-tools/cyber security/Authenticator.md
           - 密码管理: 03-tools/cyber security/password_manage1.md
+          - 隐私保护: 03-tools/cyber security/privacy.md
       - 奇技淫巧:
           - 校园跑: 03-tools/qi-ji-yin-qiao/campus-running.md
           - 刷课: 03-tools/qi-ji-yin-qiao/pointless-courses.md
@@ -23,6 +25,8 @@ nav:
       - 生活实用小技巧: 05-common-sense-of-life/common-sense-of-life.md
   - 就业:
       - 企业文化: 06-recruit-exercitation/recruit-exercitation.md
+  - 方法论:
+      - 计算机基础技能: 07-computer-basic/computer-basic.md
 
 site_name: AcWiki 大学生的百科全书
 site_url: https://acwiki.pages.dev # 预览站点链接，合并成功后需要切换为主仓库链接
@@ -30,21 +34,28 @@ site_description: 属于大学生群体的真·青年大学习
 repo_name: AcWiki
 repo_url: https://github.com/Ac-Wiki/AcWiKi
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 <a href="https://github.com/Ac-Wiki/AcWiKi/" target="_blank">AcWiki</a>
+# copyright:
 
 theme:
+  language: zh
   name: material
+  custom_dir: ./src/overrides
   logo: assets/logo.jpg
   favicon: assets/logo_clear.png
   features:
-    - navigation.footer
+    - toc.follow # Follow TOC
     - content.action.edit # source edit
     - content.action.view # source view
+    - content.feedback
     - navigation.instant # Instant navigation
+    - navigation.instant.progress
+    - navigation.top # Top navigation
+    - navigation.footer
     #- navigation.tabs 后续可考虑启用
     #- navigation.tabs.sticky
-    - toc.follow # Follow TOC
-    - navigation.top # Top navigation
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     # match system theme color
     - media: "(prefers-color-scheme: light)"
@@ -66,24 +77,49 @@ extra:
     - icon: simple/telegram
       link: https://t.me/AcFourm
       name: Telegram 群组
+  analytics:
+    provider: custom
+    feedback:
+      title: "本页面对您有帮助吗？"
+      ratings:
+        - icon: material/thumb-up-outline
+          name: 有帮助
+          data: 1
+          note: >-
+            感谢您的反馈！
+        - icon: material/thumb-down-outline
+          name: 有待改进
+          data: 0
+          note: >-
+            请 <a href="https://t.me/AcWiki" target="_blank" rel="noopener">加入频道</a> 或 <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new?template=Blank+issue" target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
+
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - js/extra.js
+  - js/feedback.js
+  - https://cn.vercount.one/js
 
 markdown_extensions:
+  - abbr
   - attr_list
   - admonition #强调块
   - footnotes #脚注
   - md_in_html #支持在 html 中使用 markdown 语法
   - toc:
       permalink: true
+  - tables
   - pymdownx.details
   - pymdownx.betterem
   - pymdownx.superfences
   - pymdownx.keys
 
 plugins:
-  - search
+  - search:
+      lang: zh
+      separator: '[\s\u200b\-]'
+      jieba_dict: assets/dict.txt
   - git-revision-date-localized: # commit/Modify date
       timezone: Asia/Shanghai
       enable_creation_date: true

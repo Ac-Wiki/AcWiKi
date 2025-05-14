@@ -40,9 +40,10 @@
 ### 4. [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+- **!! 实测只支持密码同步，不支持 2FA 密钥同步**
 - **特点**: 支持双重验证（TOTP）和 Microsoft 账户的无密码登录，支持多设备同步功能。
 - **优点**:
-  - **多设备备份和同步**: 可以将 2FA 账户备份到云端，并同步到多个设备，只要用 Microsoft 账户登录即可恢复。
+  - **多设备备份和同步**: 可以将账户密码备份到云端，并同步到多个设备，只要用 Microsoft 账户登录即可恢复。
   - **多用途**: 支持 Microsoft 账户的无密码登录，适用于企业级用户和 Microsoft 产品的重度用户。
 - **缺点**:
   - **闭源**: Microsoft Authenticator 是闭源的，不适合对数据透明性要求较高的用户。
@@ -58,6 +59,8 @@
 - **缺点**:
   - **隐私担忧**: 账户同步功能需要依赖 Google 账户，如果对隐私有高要求的用户可能会有顾虑。
   - **功能简单**: 没有太多高级功能，如密码锁定等安全增强功能。
+
+### 6.[KeeOtp2](https://github.com/tiuub/KeeOtp2)
 
 ## 总结
 
