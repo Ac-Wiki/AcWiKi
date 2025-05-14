@@ -72,9 +72,9 @@
 
 #### [KeePass2Android](https://github.com/PhilippC/keepass2android)（Android）
 
-安卓目前下载量最多的KeePass系列软件，原生支持WebDAV、OTP（2FA）、附件、自动填充等功能，基本上KeePass的基本功能他都有
+安卓目前下载量最多的 KeePass 系列软件，原生支持 WebDAV、OTP（2FA）、附件、自动填充等功能，基本上 KeePass 的基本功能他都有
 
-有两个版本，一个支持联网（可以与WebDAV等功能联动），一个仅使用本地数据（保护隐私），可以看情况下载
+有两个版本，一个支持联网（可以与 WebDAV 等功能联动），一个仅使用本地数据（保护隐私），可以看情况下载
 
 #### [KeePassDX](https://github.com/Kunzisoft/KeePassDX)（Windows/Linux/Android）
 
@@ -103,11 +103,11 @@
 
 #### [Bitwarden](https://bitwarden.com/)（Android/Windows/Linux/IOS/MacOS/Web）
 
-Bitwarden是一个线上的开源密码管理器，你可以使用官方提供的服务，或者自己搭建一个服务器（[教程见此](https://www.iplaysoft.com/bitwarden-self-host.html)）。官方提供的功能有限制不过一般够用了，自己搭建就没什么限制了。
+Bitwarden 是一个线上的开源密码管理器，你可以使用官方提供的服务，或者自己搭建一个服务器（[教程见此](https://www.iplaysoft.com/bitwarden-self-host.html)）。官方提供的功能有限制不过一般够用了，自己搭建就没什么限制了。
 
 #### 其它
 
-其他付费的密码管理软件因其收费较为高昂（例如LastPass等），一般学生难以负担，或者过于小众因此不在此说明。
+其他付费的密码管理软件因其收费较为高昂（例如 LastPass 等），一般学生难以负担，或者过于小众因此不在此说明。
 
 <details>
 <summary>关于作者</summary>

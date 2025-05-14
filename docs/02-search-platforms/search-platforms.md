@@ -49,7 +49,7 @@
 
 ??? tip "如何快速阅读英文资料"
 
-    - 推荐使用edge浏览器自带的翻译
+    - 推荐使用 edge 浏览器自带的翻译
     - 或使用[沉浸式翻译](https://immersivetranslate.com/),([Github 页面](https://github.com/immersive-translate/));[划词翻译](https://hcfy.ai/)
     - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
     - 也可以使用 google 翻译或者 deepl 翻译等
@@ -63,11 +63,11 @@
 
 #### [kimi](https://kimi.moonshot.cn/)
 
-AI驱动的搜索引擎，国内访问速度快
+AI 驱动的搜索引擎，国内访问速度快
 
-#### [秘塔AI搜索](https://metaso.cn/)
+#### [秘塔 AI 搜索](https://metaso.cn/)
 
-也是AI驱动的搜索引擎，出现较早，理论上技术积累较为雄厚。
+也是 AI 驱动的搜索引擎，出现较早，理论上技术积累较为雄厚。
 
 #### [Perplexity](https://www.perplexity.ai/)（国内用不了）
 
@@ -132,14 +132,14 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [AskUbuntu](https://askubuntu.com/)
 - [StackOverflow](https://stackoverflow.com/)
-- [CSDN](https://www.csdn.net/)国内网站，搬运的AI垃圾越来越多了
+- [CSDN](https://www.csdn.net/)国内网站，搬运的 AI 垃圾越来越多了
 - [博客园](https://www.cnblogs.com/)还不错，竟然还活着（狗头保命）
 - [V2EX](https://www.v2ex.com/)
 
 ### 网络课程
 
-- 哔哩哔哩（App/Web） 里面有很多免费网课，是平时知识学习或者拓展知识面的极好补充
-- 智慧树/知到/Mooc慕课（App） 部分大学会在其中开设公开课，不过质量也是良莠不齐，需要辨别
+- 哔哩哔哩（App/Web）里面有很多免费网课，是平时知识学习或者拓展知识面的极好补充
+- 智慧树/知到/Mooc 慕课（App）部分大学会在其中开设公开课，不过质量也是良莠不齐，需要辨别
 
 ### 数学
 
@@ -149,7 +149,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [知乎](https://www.zhihu.com/) 对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识（部分热门科研领域文章较多），但是现在软文鱼龙混杂，需仔细鉴别
 - [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高
-- 小红书（App） 攻略、教程类现在基本小红书比较齐全，百度等等之类的经常过时很久没有更新
+- 小红书（App）攻略、教程类现在基本小红书比较齐全，百度等等之类的经常过时很久没有更新
 
 ### 公司信息（对找工作的同学有用）
 

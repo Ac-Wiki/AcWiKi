@@ -63,13 +63,11 @@ via 小众软件
 
 ### [SteamCommunity_302](https://www.dogfight360.com/blog/18682/)
 
-GitHub访问神器
-
+GitHub 访问神器
 
 ### [爱传送](https://mfiles.maokebing.com/)
 
 局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
-
 
 ## macOS
 
