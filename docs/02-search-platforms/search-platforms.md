@@ -14,19 +14,7 @@
 
 现在很多信息被割裂分散在不同的地方，而且不同的搜索引擎适用的范围不一样。所以，需要使用不同的搜索引擎来尽量消弥这种信息偏差。
 
-搜索引擎原理：
-
-1. 爬取网页
-2. 数据清洗
-3. 索引分析
-4. 保留 archive 文档
-5. 建立索引系统
-6. 供用户查询
-
-造成相同关键字搜索结果不同的原因有：
-
-1. 技术原因：搜索引擎不同，搜集的网页不同；索引卡信息不同，索引卡排列的顺序不同；SEO 也会影响排名
-2. 非技术原因：出于商业目的，人为干预搜索结果。如竞价排名
+因为技术原因与非技术原因（例如竞价排名），不同搜索引擎之间的搜索结果可能存在差距。
 
 ### 传统搜索引擎
 
@@ -36,9 +24,14 @@
 - 其使用竞价排名模式，需要使用搜索指令排除广告的影响
 - 产品矩阵：如百度百科，百度文库，百度网盘 这些产品使用百度引擎更合适
 
+#### [必应](https://cn.bing.com/)
+
+- 国内可使用，总体质量比百度高
+- 适合做图片搜索
+
 #### [谷歌](https://www.google.com)
 
-- 最好的英文搜索；广告较少，外国信息丰富
+- 最好的**英文**搜索；广告较少，外国信息丰富
 
 ??? tip "谷歌常用搜索语法"
 
@@ -56,27 +49,29 @@
 
 ??? tip "如何快速阅读英文资料"
 
-    - 可以使用 google 翻译或者 deepl 翻译
+    - 推荐使用edge浏览器自带的翻译
     - 或使用[沉浸式翻译](https://immersivetranslate.com/),([Github 页面](https://github.com/immersive-translate/));[划词翻译](https://hcfy.ai/)
     - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
+    - 也可以使用 google 翻译或者 deepl 翻译等
 
 #### [搜狗](https://www.sogou.com/)
 
 - 适合用来做微信相关内容搜索，如公章号文章
   百度搜索结果广告太多时，可以用搜狗试试
 
-#### [必应](https://cn.bing.com/)
-
-- 国内可使用，总体质量比百度高
-- 适合做图片搜索
-
 ### AI 搜索引擎
 
-#### [Perplexity](https://www.perplexity.ai/)
+#### [kimi](https://kimi.moonshot.cn/)
+
+AI驱动的搜索引擎，国内访问速度快
+
+#### [秘塔AI搜索](https://metaso.cn/)
+
+也是AI驱动的搜索引擎，出现较早，理论上技术积累较为雄厚。
+
+#### [Perplexity](https://www.perplexity.ai/)（国内用不了）
 
 AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用 AI 帮你总结要点，也提供参考网页。
-
-- 类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)
 
 #### [Kagi Search](https://kagi.com/welcome)
 
@@ -103,18 +98,22 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - 全球最大知识库，用于搜索古往今来的人事物
 
+#### [求闻百科](https://www.qiuwenbaike.cn)
+
+- 类似维基百科，由原中文维基百科人员创建，详情参考[此文](https://mp.weixin.qq.com/s/CzwQ_sEwQ31PfGJS7GxXZw)
+
 ## 垂直领域搜索
 
 ### 电子书
 
 - [鸠摩读书](https://www.jiumodiary.com/)
-- [Z-lib](https://z-library.sk/)
+- [Z-lib](https://go-to-library.sk/)
 
 ???+ warning
 
-    - 由于网站性质，Z-lib 的官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+    - 由于网站性质，Z-lib 的官网时常被屏蔽，此处的站点公布的地址可以访问到官方站点，同时可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[ Telegram 群组](https://t.me/true_booklovers)查看最新官方网站。谨防虚假网站！
 
-- [安娜的档案](https://zh.annas-archive.org/)
+- [安娜的档案](https://zh.annas-archive.org/)（国内难以访问）
 
 ### 经济管理领域
 
@@ -127,14 +126,30 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 - [Flathub](https://flathub.org/) 收集了大量 Linux 软件
 
+### 编程疑难问题（建议用英文提问）
+
+> 提问前请先思考，我的问题能让人明白吗、我的信息足够全能让他人复现问题吗、我的疑惑之前有人已经问过吗
+
+- [AskUbuntu](https://askubuntu.com/)
+- [StackOverflow](https://stackoverflow.com/)
+- [CSDN](https://www.csdn.net/)国内网站，搬运的AI垃圾越来越多了
+- [博客园](https://www.cnblogs.com/)还不错，竟然还活着（狗头保命）
+- [V2EX](https://www.v2ex.com/)
+
+### 网络课程
+
+- 哔哩哔哩（App/Web） 里面有很多免费网课，是平时知识学习或者拓展知识面的极好补充
+- 智慧树/知到/Mooc慕课（App） 部分大学会在其中开设公开课，不过质量也是良莠不齐，需要辨别
+
 ### 数学
 
 - [数学乐](https://www.shuxuele.com/)
 
 ### 通用问题
 
-- [知乎](https://www.zhihu.com/) 对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
+- [知乎](https://www.zhihu.com/) 对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识（部分热门科研领域文章较多），但是现在软文鱼龙混杂，需仔细鉴别
 - [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高
+- 小红书（App） 攻略、教程类现在基本小红书比较齐全，百度等等之类的经常过时很久没有更新
 
 ### 公司信息（对找工作的同学有用）
 
@@ -163,15 +178,43 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [Hacki](https://news.ycombinator.com) 黑客新闻平台
 - [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit 网络空间安全分区
-- [Hello CTF](https://hello-ctf.com/) CTF 比赛指南
+- [Hello CTF](https://hello-ctf.com/) CTF 比赛指南、[CTF-wiki](https://ctf-wiki.org/)
+- [微步在线云沙箱](https://s.threatbook.com)、[微步在线情报社区](https://x.threatbook.com)（之前免费，可惜后面推出收费套餐了）
+- [长亭 ip 威胁情报](https://rivers.chaitin.cn/ip-intelligence) 可以查看某个 ip 是否为攻击 ip
 
 ### 数码
 
-- [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件
+- [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件，干货也是越来越少了
+
+### 以图搜图
+
+有时有一张模糊的网络图片，但是不知道图片的出处信息和原图。以下是*传统*的搜索图片的网址
+这里推荐一个集成度较高的半付费中文搜索图片[app 搜图神器](http://www.soutushenqi.com/home)
+
+> - 国内（风景，微博等中文互联网论坛图片）
+
+- [百度识图](https://graph.baidu.com/pcpage/index?tpl_from=pc)
+- [搜狗识图](https://pic.sogou.com/)
+- [360 识图](https://st.so.com/)
+  > - 国外（国外大多以插画，动漫识别精准度较高）
+- [yandex](https://ya.ru/images/touch/?lr=111500&redircnt=1732120675.1)
+- [google 识图](https://images.google.com/?hl=zh-CN)
+- [ascii2d](https://ascii2d.net/?forceOutSide=true)
+- [sauceNao](https://saucenao.com/index.php?forceOutSide=true)
 
 ### 文献检索
 
-- 请正在写论文的同学们补充...
+- [科研废物导航](https://yanweb.top/) 这里整合了许多在写论文时会用到的大部分工具<br/>
+
+??? tip 如何解决知网、万方高昂的“会员费”
+
+    一般情况下很多图书馆会购买相关的数据库，你可以先打开你们学校图书馆的网址（或者去询问图书馆或信息化中心的教职工）学校是否购买了相关的数据库文献
+
+    如果你的学校没有购买的话，你可以注册一个图书馆的账号，这样你仍然可以“白嫖”到这些资源
+
+    这里推荐两个图书馆：浙江图书馆(仅需支付宝蚂蚁信用550分以上即可）和广西壮族自治区图书馆（资源库更全）
+
+    图书馆注册教程可以参考阿虚同学的(知网、维普、万方等学术论文免费下载)[https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247518646&idx=1&sn=32db2e0398ee3e1c48c3ddaeab0d68b6&chksm=c15cd2bbf62b5bad60f410b609449f8fd8719ee4148590daf8b1833d94b3870b469d1d947a6c]
 
 ## 🔗 参考链接
 

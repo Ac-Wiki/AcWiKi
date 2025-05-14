@@ -16,26 +16,30 @@
 
 - [https://ctf-wiki.org](https://ctf-wiki.org) 网络安全相关知识，开源，MkDocs
 
-- [https://missing-semester-cn.github.io/](https://missing-semester-cn.github.io/) 计算机教育中缺失的一课，开源，Jekyll（GitHub Pages原生）
+- [https://missing-semester-cn.github.io/](https://missing-semester-cn.github.io/) 计算机教育中缺失的一课，开源，Jekyll（GitHub Pages 原生）
 
 - [https://oi-wiki.org/](https://oi-wiki.org/) 算法竞赛相关知识，开源，MkDocs
-  
 - [https://survivesjtu.github.io/SJTU-Application](https://survivesjtu.github.io/SJTU-Application) 上海交通大学大学飞跃手册，开源，docsify
-
+- [https://101.lug.ustc.edu.cn/](https://101.lug.ustc.edu.cn/) 中国科学技术大学《Linux 101》在线讲义，开源，MkDocs
+- [https://201.ustclug.org/](https://201.ustclug.org/) 中国科学技术大学《Linux 201》进阶教程，开源，MkDocs
 
 - 欢迎按照类似格式补充～
 
 ## 动态站点
 
+- [https://co2co2.eu.org](https://co2co2.eu.org) DAC 导航（dacdh.top）的专属 wiki，开源，DokuWiki
+
 - [https://www.wikihow.com](https://www.wikihow.com) 一个类似于生活百科的站点，闭源，定制版 MediaWiki
 
 - [https://wiki.linux.do](https://wiki.linux.do) Linux.do 的专属知识站，未知
 
-- [https://mediawiki.org](https://mediawki.org) MediaWiki的官方帮助网站，开源，Mediawiki
+- [https://mediawiki.org](https://mediawki.org) MediaWiki 的官方帮助网站，开源，Mediawiki
 
 - [https://www.wikipedia.org](https://www.wikipedia.org) 维基百科全球站点，开源，MediaWiki
 
 - [https://wiki.52poke.com](https://wiki.52poke.com) 神奇宝贝百科，开源，MediaWiki
+
+- [https://www.fandom.com/](https://www.fandom.com/) Fandom 百科，开源，MediaWiki
 
 - 欢迎按照类似格式补充～
 

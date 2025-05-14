@@ -5,15 +5,33 @@
 
 # **效率软件**
 
+## Cross-platform apps
+
+### [localsend](https://github.com/localsend/localsend)
+
+LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
+
+### [chsrc](https://github.com/RubyMetric/chsrc)
+
+简单地切换各种程序/编程语言的镜像源
+
+### [squoosh](https://squoosh.app/)
+
+图片压缩
+
 ## Windows
-
-### [爱传送](https://mfiles.maokebing.com/)
-
-局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
 
 ### [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
 基于名称快速定位文件和文件夹，Windows 中搜索文件非常好用！
+
+### [SoftCNKiller](https://softcnkiller.blog.csdn.net/article/details/104799162)
+
+下崽器一键删除软件，可以检测大量常见的垃圾牛皮藓软件（例如小鸟壁纸等）并卸载
+
+### [Pixpin](https://pixpinapp.com/)
+
+Snipaste 所拥有的免费/付费功能，Pixpin 免费版几乎都有。免费功能非常丰富，包括丰富的标注工具、OCR、贴图等，翻译功能需要付费，不过 Pixpin 的免费版可以说算是 Windows 端免费截图工具中功能最丰富的了。
 
 ### [Geek](https://geekuninstaller.com/download)
 
@@ -21,19 +39,15 @@
 
 ### [qttabbar](https://indiff.github.io/qttabbar/README_zh.html)
 
-资源管理器 QTTabBar 是一款可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具。
+资源管理器 QTTabBar 是一款可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具（注，可能导致崩溃）
 
 ### [Total Commander](https://www.ghisler.com/)
 
-Windows 下的文件管理工具，比系统自带的文件管理好用，强烈推荐！
+Windows 下的文件管理工具，比系统自带的文件管理好用，强烈推荐！（注，可能导致崩溃）
 
 ### [Snipaste](https://zh.snipaste.com/)
 
 截图工具，很好用。现在开始收费了
-
-### [Pixpin](https://pixpinapp.com/)
-
-Snipaste 所拥有的免费/付费功能，Pixpin 免费版几乎都有。免费功能非常丰富，包括丰富的标注工具、OCR、贴图等，翻译功能需要付费，不过 Pixpin 的免费版可以说算是 Windows 端免费截图工具中功能最丰富的了。
 
 ### [微软的 150 款免费软件](https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/)
 
@@ -42,6 +56,20 @@ via 小众软件
 ### [小黑课堂计算机题库](http://124.222.229.85/DuiHuanMaWeb/admin/allsofts.php)
 
 涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
+
+### [HiBitUninstaller](https://www.hibitsoft.ir/Uninstaller.html)
+
+卸载软件、注册表清理、软件强制卸载等一体化工具
+
+### [SteamCommunity_302](https://www.dogfight360.com/blog/18682/)
+
+GitHub访问神器
+
+
+### [爱传送](https://mfiles.maokebing.com/)
+
+局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
+
 
 ## macOS
 
@@ -106,21 +134,19 @@ via 小众软件
 
 小巧强大、简洁无广告的课程表 App，适配全国多所高校，可以一键抓取学校课表信息，并支持桌面小组件、导出到系统日历等功能。该软件也支持 iOS 端。
 
-### [GameViewer 远程](https://gv.163.com/)
-
-流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
-
 ### [GKD](https://gkd.li/)
 
 一款基于无障碍功能实现的广告跳过工具，开源于[Github](https://github.com/gkd-kit/gkd)。
 
-[官方的跳过规则](https://github.com/gkd-kit/subscription)已经不再维护，此处提供一个[第三方维护的开源规则](https://github.com/AIsouler/GKD_subscription)：
+官方的跳过规则已经不再维护，此处提供一个[第三方维护的开源规则](https://github.com/AIsouler/GKD_subscription)：
 
-```txt
-https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
-```
+`https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5`
 
 更多规则，可以在 Github 上查找。
+
+### [GameViewer 远程](https://gv.163.com/)
+
+流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
 
 ### [禅定空间](https://www.coolapk.com/apk/com.yunlian.meditationmode)
 
@@ -134,19 +160,33 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 
 海外版本为 [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 
+### [termux](https://termux.dev/cn/)
+
+terminal 软件，可以在手机上编程、写小工具等
+
 ## Linux
 
 ### [LazyVim](https://github.com/LazyVim/LazyVim?tab=readme-ov-file)
 
 Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Linux 环境使用。
 
-## Cross-platform apps
-
-### [localsend](https://github.com/localsend/localsend)
-
-LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
-
 ## 浏览器插件
+
+### [AdBlock - 拦截整个网络的广告](https://adblockplus.org/)
+
+拦截广告，浏览体验更好。
+
+### [chsrc](https://github.com/RubyMetric/chsrc)
+
+### [squoosh](https://squoosh.app/)
+
+### [沉浸式翻译 - 网页翻译插件 | PDF 翻译 | 免费](https://immersivetranslate.com/)
+
+### [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)
+
+RSS 是一种标准的网站内容投递协议，通过解析 RSS 我们可以获取网站的内容更新。
+
+双语对照翻译，无痛浏览论文/外语，轻度免费免费插件（订阅制会员提供更准确的翻译）
 
 ### [YouTube™ 双字幕](https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E5%AD%97%E5%B9%95/hkbdddpiemdeibjoknnofflfgbgnebcm?hl=zh-CN)
 
@@ -155,3 +195,23 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 ### [B 站空降助手](https://chromewebstore.google.com/detail/b%E7%AB%99%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd)
 
 精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，所有人都会从您的贡献中受益。
+
+### [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
+
+为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~
+
+### AdGuard
+
+它的[Firefox beta 版本](https://agrd.io/extension_firefox_beta)可以直接在墙内环境下安装，其他的都被 block 了
+
+### [SpcriptCat](https://github.com/scriptscat/scriptcat)
+
+国产开源脚本管理器，目前兼容了大部分油猴和暴力猴脚本
+
+## 其他
+
+顺便推荐两个等宽中文字体
+
+[Maple-font](https://github.com/subframe7536/Maple-font)
+
+[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
