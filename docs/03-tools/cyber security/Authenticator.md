@@ -63,10 +63,10 @@
 ### 6.[KeeOtp2](https://github.com/tiuub/KeeOtp2)
 
 - **特点**: KeeOtp2 是一个 KeePass 插件，支持生成基于时间的一次性密码（TOTP），适用于需要在 KeePass 中直接管理 2FA 密钥的用户。
-- **优点**: 
+- **优点**:
   - 集成到 KeePass 中，方便管理密码和 2FA 密钥。
   - 开源透明，适合注重隐私的用户。
-- **缺点**: 
+- **缺点**:
   - 依赖于 KeePass，适用范围有限。
   - 功能相对单一，仅支持 TOTP。
 

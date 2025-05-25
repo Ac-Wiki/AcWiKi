@@ -85,8 +85,6 @@
 
 臭名昭著的 2345 及 2345 全家桶，自 2005 年开始通过制作盗版 Windows XP 以及捆绑在其他安装包的行为进行传播。安装后将自己的内核写入注册表和系统内核程序，甚至在安全模式下也无法避免加载 2345 的程序。（可参见视频：[2345 到底有多流氓？又该如何彻底清除？](https://www.bilibili.com/video/BV13L4y1s7pF)）
 
-
-
 ## 参考链接
 
 - [https://zh.wikipedia.org/wiki/Linux](https://zh.wikipedia.org/wiki/Linux)
