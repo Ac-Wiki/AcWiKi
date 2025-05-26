@@ -1,6 +1,6 @@
 ???+ info "Wiki"
 
-    Wiki，简体通常译为- [https://mediawiki.org](https://mediawiki.org) MediaWiki 的官方帮助网站，开源，MediaWiki基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
+    Wiki，简体通常译为 - [https://mediawiki.org](https://mediawiki.org) MediaWiki 的官方帮助网站，开源，MediaWiki基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
 
     分为静态站点、动态站点，以及其他非自建站点三大类，分类内项目以首字母排序，欢迎大家指正或补充～
 
