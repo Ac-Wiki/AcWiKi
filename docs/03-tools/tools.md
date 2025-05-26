@@ -176,15 +176,19 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 
 ### [chsrc](https://github.com/RubyMetric/chsrc)
 
+简单地切换各种程序/编程语言的镜像源
+
 ### [squoosh](https://squoosh.app/)
 
+图片压缩工具，支持多种图片格式和压缩算法
+
 ### [沉浸式翻译 - 网页翻译插件 | PDF 翻译 | 免费](https://immersivetranslate.com/)
+
+双语对照翻译，无痛浏览论文/外语，轻度免费插件（订阅制会员提供更准确的翻译）
 
 ### [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)
 
 RSS 是一种标准的网站内容投递协议，通过解析 RSS 我们可以获取网站的内容更新。
-
-双语对照翻译，无痛浏览论文/外语，轻度免费免费插件（订阅制会员提供更准确的翻译）
 
 ### [YouTube™ 双字幕](https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E5%AD%97%E5%B9%95/hkbdddpiemdeibjoknnofflfgbgnebcm?hl=zh-CN)
 
