@@ -1,10 +1,10 @@
 <h1 align='center' >✨AcWiki | 高等教育学社基础知识开源建设工程</h1>
 
-<h3 align='center'>💕高等教育学社基础知识开源建设工程|属于大学生群体的真·青年大学习</h3>
-<h3 align='center' >AcWiki 维护组 及全体用户用❤️‍🔥制作</h3>
-<h3 align='center' >本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</h3>
-<h3 align='center' >🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</h3>
-<h3 align='center' >🚀我们衷心祝福您学业美满，人生幸福！</h3>
+<div style="text-align: center;">### 💕高等教育学社基础知识开源建设工程|属于大学生群体的真·青年大学习</div>
+<div style="text-align: center;">### AcWiki 维护组 及全体用户用❤️‍🔥制作</div>
+<div style="text-align: center;">### 本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</div>
+<div style="text-align: center;">### 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</div>
+<div style="text-align: center;">### 🚀我们衷心祝福您学业美满，人生幸福！</div>
 
 ---
 
