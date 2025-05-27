@@ -3,3 +3,129 @@
   font-size: 0.8em;
   color: var(--md-footer-fg-color--light);
 }
+
+/* 徽章样式按钮 */
+.badge-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  margin: 5px;
+  color: white;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+  border: none;
+  outline: none;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 紫色徽章 */
+.badge-purple {
+  background: linear-gradient(45deg, #9c27b0, #673ab7);
+}
+.badge-purple:hover {
+  box-shadow: 0 4px 8px rgba(156, 39, 176, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 蓝色徽章 */
+.badge-blue {
+  background: linear-gradient(45deg, #2196f3, #03a9f4);
+}
+.badge-blue:hover {
+  box-shadow: 0 4px 8px rgba(33, 150, 243, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 琥珀色徽章 */
+.badge-amber {
+  background: linear-gradient(45deg, #f0c000, #ffb300);
+}
+.badge-amber:hover {
+  box-shadow: 0 4px 8px rgba(240, 192, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 粉红色徽章 */
+.badge-pink {
+  background: linear-gradient(45deg, #e91e63, #f06292);
+}
+.badge-pink:hover {
+  box-shadow: 0 4px 8px rgba(233, 30, 99, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 徽章图标 */
+.badge-icon {
+  margin-left: 6px;
+  font-size: 16px;
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+/* 徽章悬停时的图标动画 */
+.badge-button:hover .badge-icon {
+  transform: translateX(3px);
+}
+
+/* 徽章点击效果 */
+.badge-button:active {
+  transform: scale(0.97);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+/* 绿色徽章 */
+.badge-green {
+  background: linear-gradient(45deg, #4caf50, #8bc34a);
+}
+.badge-green:hover {
+  box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 橙色徽章 */
+.badge-orange {
+  background: linear-gradient(45deg, #ff9800, #ff5722);
+}
+.badge-orange:hover {
+  box-shadow: 0 4px 8px rgba(255, 152, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 深色徽章 */
+.badge-dark {
+  background: linear-gradient(45deg, #455a64, #263238);
+}
+.badge-dark:hover {
+  box-shadow: 0 4px 8px rgba(38, 50, 56, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 徽章悬停时添加微光效果 */
+.badge-button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right, 
+    rgba(255, 255, 255, 0) 0%, 
+    rgba(255, 255, 255, 0.1) 50%, 
+    rgba(255, 255, 255, 0) 100%
+  );
+  transition: left 0.7s ease;
+  pointer-events: none;
+}
+
+.badge-button:hover::after {
+  left: 100%;
+}

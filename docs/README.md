@@ -4,10 +4,9 @@
   </a>
   <h1 style="font-size: 4em; margin: 10px 0; background: linear-gradient(45deg, #2196f3, #9c27b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">✨AcWiki</h1>
   <h3 style="color: #555; margin-top: 5px; margin-bottom: 15px; font-weight: 500; letter-spacing: 1px;">高等教育学社基础知识开源建设工程</h3>
-  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接��</em></p>
-  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>
-  <div style="margin-top: 25px;">
-    <a href="https://github.com/Ac-Wiki/AcWiKi" style="display: inline-block; background: linear-gradient(45deg, #2196f3, #00b0ff); color: white; text-decoration: none; padding: 10px 25px; border-radius: 30px; font-weight: bold; box-shadow: 0 4px 10px rgba(33, 150, 243, 0.3); transition: all 0.3s ease;">探索项目 →</a>
+  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>
+  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>  <div style="margin-top: 25px;">
+    <a href="https://github.com/Ac-Wiki/AcWiKi" class="badge-button badge-blue">探索项目 <span class="badge-icon">→</span></a>
   </div>
 </div>
 
@@ -34,9 +33,8 @@
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #fff9e6 0%, #fff5d6 100%); box-shadow: 0 10px 30px rgba(240, 192, 0, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>
-  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
-  <a href="https://kdocs.cn/l/cm7uuqpXuXew" style="display: inline-block; background: linear-gradient(45deg, #f0c000, #ffb300); color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 192, 0, 0.3); transition: all 0.3s ease; transform: translateY(0);">
-    立即访问 <span style="display: inline-block; margin-left: 5px;">→</span>
+  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>  <a href="https://kdocs.cn/l/cm7uuqpXuXew" class="badge-button badge-amber">
+    立即访问 <span class="badge-icon">→</span>
   </a>
 </div>
 
@@ -47,10 +45,9 @@
     <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！</p>
     <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 AcWiki 进行新一轮的更新扩充。</p>
     <p style="font-size: 17px; line-height: 1.6;">后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"<span style="color: #e91e63;">💗</span></p>
-  </div>
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" style="display: inline-block; background: linear-gradient(45deg, #2196f3, #03a9f4); color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; box-shadow: 0 4px 15px rgba(33, 150, 243, 0.3); transition: all 0.3s ease; transform: translateY(0);">
-      提交建议 <span style="display: inline-block; margin-left: 5px;">→</span>
+  </div>  <div style="margin-top: 20px;">
+    <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" class="badge-button badge-blue">
+      提交建议 <span class="badge-icon">→</span>
     </a>
   </div>
 </div>
@@ -211,9 +208,8 @@
 </h2>
 
 <div style="padding: 20px; background-color: rgba(156, 39, 176, 0.05); border-radius: 12px; margin: 20px 0; text-align: center;">
-  <p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>
-  <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" style="display: inline-block; margin-top: 10px; background: linear-gradient(45deg, #9c27b0, #673ab7); color: #fff; padding: 8px 20px; text-decoration: none; border-radius: 20px; font-size: 14px; font-weight: 500; box-shadow: 0 2px 10px rgba(156, 39, 176, 0.3);">
-    <span>提出内容建议</span>
+  <p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>  <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" class="badge-button badge-purple">
+    提出内容建议 <span class="badge-icon">✚</span>
   </a>
 </div>
 
@@ -238,9 +234,8 @@
     <p style="margin: 0 0 15px 0; font-size: 15px; color: #666; line-height: 1.6;">
       <a href="https://b23.tv/YOrG3A5" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
     </p>
-    <div style="text-align: right;">
-      <a href="https://space.bilibili.com/274459325" style="display: inline-block; background: linear-gradient(45deg, #e91e63, #f06292); color: white; padding: 6px 12px; border-radius: 20px; text-decoration: none; font-size: 14px; box-shadow: 0 2px 8px rgba(233, 30, 99, 0.3);">
-        访问主页 <span style="margin-left: 5px;">→</span>
+    <div style="text-align: right;">      <a href="https://space.bilibili.com/274459325" class="badge-button badge-pink">
+        访问主页 <span class="badge-icon">→</span>
       </a>
     </div>
   </div>
@@ -257,16 +252,26 @@
 <h1 id="联系我们" style="display: inline-block; border-bottom: 2px solid #03a9f4; padding-bottom: 5px; font-size: 32px;">💁 联系我们</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-  <a href="https://t.me/AcWiki" style="text-decoration: none;">
-    <img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram%20Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=purple&color=blue" />
+  <a href="https://t.me/AcWiki" class="badge-button badge-blue" style="display: flex; align-items: center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 8px;">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"/>
+    </svg>
+    Telegram 频道
   </a>
   
-  <a href="https://t.me/AcFourm" style="text-decoration: none;">
-    <img alt="Telegram Group" src="https://img.shields.io/badge/Telegram%20Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=orange&color=blue" />
+  <a href="https://t.me/AcFourm" class="badge-button badge-orange" style="display: flex; align-items: center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 8px;">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"/>
+    </svg>
+    Telegram 群组
   </a>
   
-  <a href="https://qm.qq.com/q/WJI3hgBcm4" style="text-decoration: none;">
-    <img alt="QQ群" src="https://img.shields.io/badge/QQ%E7%BE%A4-860675581-blue?style=for-the-badge&logo=tencent-qq&logoColor=white&logoSize=auto&labelColor=orange&color=blue" />
+  <a href="https://qm.qq.com/q/WJI3hgBcm4" class="badge-button badge-blue" style="display: flex; align-items: center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 8px;">
+      <path d="M11.5 1a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 .5-.5zm-7 6a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1h-3z"/>
+      <path d="M1.75 8a.75.75 0 0 0-.75.75v4c0 .414.336.75.75.75h11.5a.75.75 0 0 0 .75-.75v-4a.75.75 0 0 0-.75-.75h-2.5a.75.75 0 0 1 0-1.5h2.5A2.25 2.25 0 0 1 15 8.75v4a2.25 2.25 0 0 1-2.25 2.25h-9.5A2.25 2.25 0 0 1 1 12.75v-4a.75.75 0 0 1 .75-.75z"/>
+    </svg>
+    QQ群 860675581
   </a>
 </div>
 
@@ -298,61 +303,56 @@
   </div>
 </div>
 
-<h1 id="本地部署" style="display: inline-block; border-bottom: 2px solid #4caf50; padding-bottom: 5px; font-size: 32px;">🖥️ 本地部署</h1>
+# 🖥️ 本地部署
 
-<div class="deployment-guide" style="background: linear-gradient(135deg, rgba(76, 175, 80, 0.05) 0%, rgba(33, 150, 243, 0.05) 100%); padding: 30px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);">
-  <h2 style="color: #2196f3; font-size: 24px; display: flex; align-items: center; margin-top: 0;">
-    <span style="background: linear-gradient(45deg, #4caf50, #2196f3); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">5.1 克隆仓库</span>
-  </h2>
-  <p style="font-size: 16px; line-height: 1.6;">确保您安装了 git，可于<a href="https://git-scm.com/" style="color: #2196f3; text-decoration: none; border-bottom: 1px dashed #2196f3;">Git官网</a>下载</p>
-  <p style="font-size: 16px; line-height: 1.6;">在终端执行以下命令克隆仓库：</p>
-  <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #4caf50; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">git clone https://github.com/Ac-Wiki/AcWiKi.git</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">bash</span></pre>
+## 5.1 克隆仓库
 
-  <h2 style="color: #2196f3; font-size: 24px; display: flex; align-items: center; margin-top: 20px;">
-    <span style="background: linear-gradient(45deg, #4caf50, #2196f3); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">5.2 初始化虚拟环境</span>
-  </h2>
-  <p style="font-size: 16px; line-height: 1.6;">进入仓库根目录，使用以下命令创建虚拟环境</p>
-  <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #4caf50; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">python3 -m venv venv</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">bash</span></pre>
+确保您安装了 git，可于[Git官网](https://git-scm.com/)下载
 
-  <div style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1; min-width: 300px; background-color: rgba(255, 255, 255, 0.7); padding: 15px; border-radius: 8px; border-top: 3px solid #ff9800;">
-      <p style="font-weight: bold; color: #ff9800;"><svg style="width:20px;height:20px;vertical-align:middle;margin-right:5px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#ff9800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M2 17L12 22L22 17" stroke="#ff9800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M2 12L12 17L22 12" stroke="#ff9800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg> Linux / macOS 用户</p>
-      <p style="font-size: 16px; line-height: 1.6;">在终端中执行以下命令进入虚拟环境：</p>
-      <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #ff9800; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">source venv/bin/activate</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">bash</span></pre>
-    </div>
+在终端执行以下命令克隆仓库：
 
-    <div style="flex: 1; min-width: 300px; background-color: rgba(255, 255, 255, 0.7); padding: 15px; border-radius: 8px; border-top: 3px solid #03a9f4;">
-      <p style="font-weight: bold; color: #03a9f4;"><svg style="width:20px;height:20px;vertical-align:middle;margin-right:5px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="2" y="3" width="20" height="18" rx="2" stroke="#03a9f4" stroke-width="2"/>
-        <path d="M6 8H10" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-        <path d="M14 8H18" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-        <path d="M6 12H10" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-        <path d="M14 12H18" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-        <path d="M6 16H10" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-        <path d="M14 16H18" stroke="#03a9f4" stroke-width="2" stroke-linecap="round"/>
-      </svg> Windows 用户</p>
-      <p style="font-size: 16px; line-height: 1.6;">在 PowerShell 中执行以下命令进入虚拟环境：</p>
-      <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #03a9f4; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">venv\Scripts\activate</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">powershell</span></pre>
-    </div>
-  </div>
+```bash
+git clone https://github.com/Ac-Wiki/AcWiKi.git
+```
 
-  <h2 style="color: #2196f3; font-size: 24px; display: flex; align-items: center; margin-top: 20px;">
-    <span style="background: linear-gradient(45deg, #4caf50, #2196f3); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">5.3 安装依赖</span>
-  </h2>
-  <p style="font-size: 16px; line-height: 1.6;">仓库根目录下有<code style="background-color: #f1f1f1; padding: 2px 4px; border-radius: 3px; font-family: 'Fira Code', monospace;">requirements.txt</code>，在虚拟环境中执行以下命令安装依赖：</p>
-  <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #4caf50; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">pip install -r requirements.txt</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">bash</span></pre>
+## 5.2 初始化虚拟环境
 
-  <h2 style="color: #2196f3; font-size: 24px; display: flex; align-items: center; margin-top: 20px;">
-    <span style="background: linear-gradient(45deg, #4caf50, #2196f3); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">5.4 构建本地网页</span>
-  </h2>
-  <p style="font-size: 16px; line-height: 1.6;">执行以下命令：</p>
-  <pre style="background-color: #263238; padding: 15px; border-radius: 8px; overflow-x: auto; color: #eeffff; border-left: 4px solid #4caf50; margin: 15px 0;"><code style="font-family: 'Fira Code', monospace;">mkdocs serve</code><span style="position: absolute; right: 10px; top: 5px; font-size: 12px; color: #607d8b;">bash</span></pre>
-  
-  <div style="background-color: rgba(76, 175, 80, 0.1); padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50; margin-top: 20px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0;">一般情况下，将会部署在本地的<code style="background-color: #f1f1f1; padding: 2px 4px; border-radius: 3px; font-family: 'Fira Code', monospace;">8000</code>端口，可根据终端输出判断端口号。访问 <code style="background-color: #f1f1f1; padding: 2px 4px; border-radius: 3px; font-family: 'Fira Code', monospace;">http://127.0.0.1:端口号</code> 即可查看本地网页。</p>
-  </div>
-</div>
+进入仓库根目录，使用以下命令创建虚拟环境
+
+```bash
+python3 -m venv venv
+```
+
+### Linux / macOS 用户
+
+在终端中执行以下命令进入虚拟环境：
+
+```bash
+source venv/bin/activate
+```
+
+### Windows 用户
+
+在 PowerShell 中执行以下命令进入虚拟环境：
+
+```powershell
+venv\Scripts\activate
+```
+
+## 5.3 安装依赖
+
+仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
+
+```bash
+pip install -r requirements.txt
+```
+
+## 5.4 构建本地网页
+
+执行以下命令：
+
+```bash
+mkdocs serve
+```
+
+一般情况下，将会部署在本地的`8000`端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:端口号` 即可查看本地网页。
