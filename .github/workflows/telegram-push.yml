@@ -1,9 +1,11 @@
-name: Telegram Notification Push
+name: Telegram 通知推送（Push/PR）
 
 on:
   push:
     branches:
       - main
+  pull_request:
+    types: [opened]
 
 jobs:
   bulid:
@@ -16,7 +18,17 @@ jobs:
           to: ${{ secrets.GROUP_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            ${{ github.actor }} created commit: 
+            ${{ github.actor }} 创建了新的提交： 
             Commit message: ${{ github.event.commits[0].message }}
 
             https://github.com/${{ github.repository }}/commit/${{github.sha}}
+      - name: send message on PR open
+        if: github.event_name == 'pull_request'
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.GROUP_ID }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            ${{ github.actor }} 发起了新的拉取请求：
+            PR 标题: ${{ github.event.pull_request.title }}
+            https://github.com/${{ github.repository }}/pull/${{ github.event.pull_request.number }}
