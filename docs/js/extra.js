@@ -71,14 +71,13 @@ document.addEventListener("DOMContentLoaded", function () {
   // 显示复制成功效果
   function showCopySuccess(button) {
     const originalText = button.textContent;
-    const originalClass = button.className;
     
     button.textContent = '已复制!';
     button.classList.add('copy-success');
     
     setTimeout(() => {
       button.textContent = originalText;
-      button.className = originalClass;
+      button.classList.remove('copy-success');
     }, 2000);
   }
   });
