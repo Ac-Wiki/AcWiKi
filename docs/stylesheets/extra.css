@@ -28,7 +28,7 @@
 
 /* 紫色徽章 */
 .badge-purple {
-  background: linear-gradient(45deg, #9c27b0, #673ab7);
+  background: linear-gradient(var(--gradient-angle), var(--badge-purple-start), var(--badge-purple-end));
 }
 .badge-purple:hover {
   box-shadow: 0 4px 8px rgba(156, 39, 176, 0.3);
