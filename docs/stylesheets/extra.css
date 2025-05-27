@@ -3,3 +3,71 @@
   font-size: 0.8em;
   color: var(--md-footer-fg-color--light);
 }
+
+/* AcWiki 美化样式 */
+.logo-link:hover {
+  transform: scale(1.05);
+}
+
+.contact-button:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.reference-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(233, 30, 99, 0.2);
+}
+
+.quick-nav a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+#back-to-top:hover {
+  transform: translateY(-5px);
+}
+
+/* 列表项悬停效果 */
+ul li:hover {
+  transform: translateX(5px);
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* 链接悬停效果 */
+a[href]:not(.logo-link):not(.contact-button):hover {
+  text-decoration: none;
+  border-bottom: 2px solid;
+}
+
+/* 代码块样式增强 */
+pre {
+  position: relative;
+}
+
+/* 增强可访问性 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .quick-nav {
+    padding: 8px 5px;
+    gap: 5px;
+  }
+  
+  .quick-nav a {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+  
+  #back-to-top {
+    width: 40px;
+    height: 40px;
+    bottom: 20px;
+    right: 20px;
+  }
+}
