@@ -4,12 +4,11 @@
   </a>
   <h1 style="font-size: 4em; margin: 10px 0; background: linear-gradient(45deg, #2196f3, #9c27b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">✨AcWiki</h1>
   <h3 style="color: #555; margin-top: 5px; margin-bottom: 15px; font-weight: 500; letter-spacing: 1px;">高等教育学社基础知识开源建设工程</h3>
-  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>
-  <div style="margin-top: 25px;">
-    <a href="https://github.com/Ac-Wiki/AcWiKi" style="display: inline-block; margin: 5px 0; text-decoration: none;">
-      <img src="https://img.shields.io/static/v1?label=GitHub&message=探索项目&color=2196f3&style=for-the-badge&logo=github&logoColor=white" alt="探索项目" />
-    </a>
-  </div>
+  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>  
+<div align="center">
+
+[![GitHub: 探索项目](https://img.shields.io/static/v1?label=GitHub&message=探索项目&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
+</div>
 </div>
 
 <div align="center" style="margin: 30px auto; background-color: rgba(250, 250, 250, 0.7); padding: 15px; border-radius: 10px; max-width: 90%; box-shadow: 0 2px 10px rgba(0,0,0,0.05); backdrop-filter: blur(5px);">
@@ -35,9 +34,8 @@
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #fff9e6 0%, #fff5d6 100%); box-shadow: 0 10px 30px rgba(240, 192, 0, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
-  <a href="https://kdocs.cn/l/cm7uuqpXuXew" style="display: inline-block; margin: 5px 0; text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white" alt="立即访问" />
-  </a>
+
+[![立即访问](https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://kdocs.cn/l/cm7uuqpXuXew)
 </div>
 
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #e8f4fd 0%, #d4e9f7 100%); box-shadow: 0 10px 30px rgba(33, 150, 243, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
@@ -46,12 +44,11 @@
   <div style="padding-left: 10px; border-left: 3px solid rgba(33, 150, 243, 0.5);">
     <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！</p>
     <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 AcWiki 进行新一轮的更新扩充。</p>
-    <p style="font-size: 17px; line-height: 1.6;">后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"<span style="color: #e91e63;">💗</span></p>  </div>
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" style="display: inline-block; margin: 5px 0; text-decoration: none;">
-      <img src="https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white" alt="提交建议" />
-    </a>
-  </div>
+    <p style="font-size: 17px; line-height: 1.6;">后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"<span style="color: #e91e63;">💗</span></p>  </div>  
+<div align="center" style="margin-top: 20px;">
+
+[![提交建议](https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
+</div>
 </div>
 
 <div style="position: relative; height: 60px; margin: 50px 0; text-align: center;">
@@ -209,10 +206,10 @@
   <div style="position: absolute; bottom: -10px; left: 15px; width: 50px; height: 2px; background: linear-gradient(to right, #9c27b0, transparent);"></div>
 </h2>
 
-<div style="padding: 20px; background-color: rgba(156, 39, 176, 0.05); border-radius: 12px; margin: 20px 0; text-align: center;">  <p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>
-  <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new" style="display: inline-block; margin: 5px 0; text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white" alt="提出内容建议" />
-  </a>
+<div style="padding: 20px; background-color: rgba(156, 39, 176, 0.05); border-radius: 12px; margin: 20px 0; text-align: center;">  
+<p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>
+
+[![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
 </div>
 
 <div style="position: relative; height: 60px; margin: 50px 0; text-align: center;">
@@ -236,9 +233,8 @@
     <p style="margin: 0 0 15px 0; font-size: 15px; color: #666; line-height: 1.6;">
       <a href="https://b23.tv/YOrG3A5" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
     </p>    <div style="text-align: right;">
-      <a href="https://space.bilibili.com/274459325" style="display: inline-block; margin: 5px 0; text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=哔哩哔哩&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white" alt="访问主页" />
-      </a>
+      
+[![访问主页](https://img.shields.io/static/v1?label=哔哩哔哩&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/274459325)
     </div>
   </div>
 </div>
@@ -253,18 +249,12 @@
 
 <h1 id="联系我们" style="display: inline-block; border-bottom: 2px solid #03a9f4; padding-bottom: 5px; font-size: 32px;">💁 联系我们</h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-  <a href="https://t.me/AcWiki" style="display: inline-block; margin: 5px; text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道" />
-  </a>
-  
-  <a href="https://t.me/AcFourm" style="display: inline-block; margin: 5px; text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组" />
-  </a>
-  
-  <a href="https://qm.qq.com/q/WJI3hgBcm4" style="display: inline-block; margin: 5px; text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ群" />
-  </a>
+<div align="center">
+
+[![Telegram 频道](https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcWiki)
+[![Telegram 群组](https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcFourm)
+[![QQ群](https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/WJI3hgBcm4)
+
 </div>
 
 <div align="center" style="margin: 30px 0;">
