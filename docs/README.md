@@ -102,15 +102,15 @@
 <div class="content-category">
   <h3 style="color: #555;">📚 学生优惠</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./01-student-discounts/student-discounts.md"><strong>学生优惠</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./01-student-discounts/student-discounts"><strong>学生优惠</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>编程 / 开发 / 新质生产力</strong></li>
   </ul>
 
   <h3 style="color: #555;">🤝 圆梦帮扶</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./08-Dream-Realization-Assistance/scholarship.md"><strong>奖/助学金申请</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./08-Dream-Realization-Assistance/scholarship"><strong>奖/助学金申请</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>勤工俭学申请</strong></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./01-student-discounts/student-assistance/national-student-loan-FAQ.md"><strong>国家助学贷款（常见问题）</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./01-student-discounts/student-assistance/national-student-loan-FAQ"><strong>国家助学贷款（常见问题）</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>大学生创业扶持</strong></li>
   </ul>
 
@@ -149,7 +149,7 @@
 <div class="content-category">
   <h3 style="color: #555;">📘 方法论</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./02-search-platforms/search-platforms.md"><strong>高效检索信息/获取资源</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./02-search-platforms/search-platforms"><strong>高效检索信息/获取资源</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>第一篇论文</strong>
       <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
         <li style="margin-bottom: 5px;">🚧 学术规范与学术不端行为解释</li>
@@ -164,7 +164,7 @@
         <li style="margin-bottom: 5px;">🚧 其他学术名词解释：什么是影响因子，论文审稿流程，作者顺序与影响</li>
       </ul>
     </li>
-    <li style="margin-bottom: 8px;">✅ <a href="./07-computer-basic/computer-basic.md"><strong>计算机基础技能</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./07-computer-basic/computer-basic"><strong>计算机基础技能</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>运用新质生产力</strong></li>
     <li style="margin-bottom: 8px;">🚧 <strong>合理规划时间</strong></li>
     <li style="margin-bottom: 8px;">🚧 <strong>高效学习技巧</strong></li>
@@ -173,31 +173,31 @@
   <h3 style="color: #555;">🛠 工具平台</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
     <li style="margin-bottom: 8px;">🚧 <strong>获取资源</strong></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/tools.md"><strong>效率优化</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/tools"><strong>效率优化</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>学术网站</strong></li>
     <li style="margin-bottom: 8px;">🚧 <strong>数据检索</strong></li>
   </ul>
 
   <h4 style="color: #666; margin-left: 15px;">🔒 网络安全</h4>
   <ul style="list-style-type: none; padding-left: 35px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/Android/加密通讯.md"><strong>通讯安全</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/password_manage1.md"><strong>密码管理</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/Authenticator.md"><strong>账号安全</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/privacy.md"><strong>隐私保护</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/Android/加密通讯"><strong>通讯安全</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/password_manage1"><strong>密码管理</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/Authenticator"><strong>账号安全</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/cyber%20security/privacy"><strong>隐私保护</strong></a></li>
   </ul>
 
   <h4 style="color: #666; margin-left: 15px;">🏃 校园应用</h4>
   <ul style="list-style-type: none; padding-left: 35px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/qi-ji-yin-qiao/campus-running.md"><strong>风驰电掣</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/qi-ji-yin-qiao/pointless-courses.md"><strong>珍惜时间</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/qi-ji-yin-qiao/campus-running"><strong>风驰电掣</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./03-tools/qi-ji-yin-qiao/pointless-courses"><strong>珍惜时间</strong></a></li>
   </ul>
 
   <h3 style="color: #555;">🏆 考赛介绍</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
     <li style="margin-bottom: 8px;">🚧 <strong>学科等级</strong></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./04-study/certification.md"><strong>专业技能</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./04-study/study.md"><strong>考试竞赛</strong></a></li>
-    <li style="margin-bottom: 8px;">✅ <a href="./04-study/yanzhao.md"><strong>研招</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./04-study/certification"><strong>专业技能</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./04-study/study"><strong>考试竞赛</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./04-study/yanzhao"><strong>研招</strong></a></li>
   </ul>
 </div>
 
