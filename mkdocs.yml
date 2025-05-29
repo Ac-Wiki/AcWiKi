@@ -76,6 +76,9 @@ theme:
 
 extra:
   social:
+    - icon: simple/qq
+      link: https://qm.qq.com/q/WJI3hgBcm4
+      name: QQ 群组
     - icon: simple/telegram
       link: https://t.me/AcWiki
       name: Telegram 频道
