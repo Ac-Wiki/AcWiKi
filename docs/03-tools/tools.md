@@ -142,7 +142,7 @@ GitHub 访问神器
 
 更多规则，可以在 Github 上查找。
 
-### [GameViewer 远程](https://gv.163.com/)
+### [网易UU远程](https://uuyc.163.com/)
 
 流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
 
