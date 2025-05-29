@@ -105,7 +105,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - js/extra.js
   - js/feedback.js
   - https://cn.vercount.one/js
 
