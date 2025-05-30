@@ -130,8 +130,16 @@ plugins:
   - git-revision-date-localized: # commit/Modify date
       timezone: Asia/Shanghai
       enable_creation_date: true
-  - git-authors: # git authors
-      show_email_address: false
+      type: timeago
+  - git-committers:
+      repository: Ac-Wiki/AcWiKi
+      branch: main
+      token: !ENV GITHUB_TOKEN
+      exclude_committers:
+        - github-actions[bot]
+        - actions-user
+        - Copilot
+        - web-flow
   - glightbox: # lightbox
       touchNavigation: true
       loop: true
