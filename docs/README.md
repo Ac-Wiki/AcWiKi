@@ -7,8 +7,8 @@
   <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>  
 <div align="center">
 
-<a href="https://github.com/Ac-Wiki/AcWiKi">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ac-Wiki/AcWiKi" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge: 访问WIKI"/>
 </a>
 </div>
 </div>
@@ -249,7 +249,7 @@
   </div>
 </div>
 
-<h2 style="margin-top: 30px; color: #555; border-bottom: 1px solid #ddd; padding-bottom: 10px;">高校课程资源共享项目</h2>
+<h2 class="section-title">高校课程资源共享项目</h2>
 
 <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px; color: #666;">
 我们向以下优秀的高校课程资源共享项目致敬，他们的开源精神与知识共享理念为本项目提供了重要参考：
