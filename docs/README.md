@@ -7,7 +7,9 @@
   <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>  
 <div align="center">
 
-[![GitHub: 探索项目](https://img.shields.io/static/v1?label=GitHub&message=探索项目&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
+<a href="https://github.com/Ac-Wiki/AcWiKi">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 </div>
 
@@ -35,7 +37,9 @@
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
 
-[![立即访问](https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://kdocs.cn/l/cm7uuqpXuXew)
+<a href="https://kdocs.cn/l/cm7uuqpXuXew">
+  <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+</a>
 </div>
 
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #e8f4fd 0%, #d4e9f7 100%); box-shadow: 0 10px 30px rgba(33, 150, 243, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
@@ -47,7 +51,9 @@
     <p style="font-size: 17px; line-height: 1.6;">后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"<span style="color: #e91e63;">💗</span></p>  </div>  
 <div align="center" style="margin-top: 20px;">
 
-[![提交建议](https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
+<a href="https://github.com/Ac-Wiki/AcWiKi/issues/new">
+  <img src="https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 </div>
 
@@ -209,7 +215,9 @@
 <div style="padding: 20px; background-color: rgba(156, 39, 176, 0.05); border-radius: 12px; margin: 20px 0; text-align: center;">  
 <p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>
 
-[![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
+<a href="https://github.com/Ac-Wiki/AcWiKi/issues/new">
+  <img src="https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
 
 <div style="position: relative; height: 60px; margin: 50px 0; text-align: center;">
@@ -234,7 +242,148 @@
       <a href="https://www.bilibili.com/video/BV1eWxneME3Q" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
     </p>    <div style="text-align: right;">
       
-[![访问主页](https://img.shields.io/static/v1?label=哔哩哔哩&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/274459325)
+<a href="https://space.bilibili.com/274459325">
+  <img src="https://img.shields.io/static/v1?label=&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white"/>
+</a>
+    </div>
+  </div>
+</div>
+
+<h2 style="margin-top: 30px; color: #555; border-bottom: 1px solid #ddd; padding-bottom: 10px;">高校课程资源共享项目</h2>
+
+<p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px; color: #666;">
+我们向以下优秀的高校课程资源共享项目致敬，他们的开源精神与知识共享理念为本项目提供了重要参考：
+</p>
+
+<div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 30px;">
+  <!-- 北京大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #4285f4;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #4285f4; font-size: 16px; white-space: nowrap;">北京大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/lib-pku/libpku">
+        <img src="https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://github.com/martinwu42/project-hover">
+        <img src="https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://github.com/EECS-PKU-XSB/Shared-learning-materials">
+        <img src="https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://github.com/tongtzeho/PKUCourse">
+        <img src="https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 清华大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #34a853;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #34a853; font-size: 16px; white-space: nowrap;">清华大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT">
+        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 浙江大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #ea4335;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #ea4335; font-size: 16px; white-space: nowrap;">浙江大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/QSCTech/zju-icicles">
+        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 中国科学技术大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #fbbc05;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #fbbc05; font-size: 16px; white-space: nowrap;">中国科学技术大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/USTC-Resource/USTC-Course">
+        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+  <!-- 上海交通大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #4285f4;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #4285f4; font-size: 16px; white-space: nowrap;">上海交通大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/CoolPhilChen/SJTU-Courses/">
+        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://github.com/SurviveSJTU/SurviveSJTUManual">
+        <img src="https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 南京大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #34a853;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #34a853; font-size: 16px; white-space: nowrap;">南京大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/idealclover/NJU-Review-Materials">
+        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 东南大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #ea4335;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #ea4335; font-size: 16px; white-space: nowrap;">东南大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/zjdx1998/seucourseshare">
+        <img src="https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 中山大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #fbbc05;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #fbbc05; font-size: 16px; white-space: nowrap;">中山大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/sysuexam/SYSU-Exam">
+        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 郑州大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #4285f4;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #4285f4; font-size: 16px; white-space: nowrap;">郑州大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/CooperNiu/ZZU-Courses-Resource">
+        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- 广东工业大学 -->
+  <div style="display: flex; background-color: #f8f9fa; border-radius: 6px; padding: 12px; border-left: 3px solid #34a853;">
+    <div style="width: 120px; min-width: 120px; display: flex; align-items: center;">
+      <h4 style="margin: 0; color: #34a853; font-size: 16px; white-space: nowrap;">广东工业大学</h4>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
+      <a href="https://github.com/brenner8023/gdut-course">
+        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </div>
   </div>
 </div>
@@ -251,9 +400,15 @@
 
 <div align="center">
 
-[![Telegram 频道](https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcWiki)
-[![Telegram 群组](https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcFourm)
-[![QQ群](https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/WJI3hgBcm4)
+<a href="https://t.me/AcWiki">
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://t.me/AcFourm">
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://qm.qq.com/q/WJI3hgBcm4">
+  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white"/>
+</a>
 
 </div>
 
