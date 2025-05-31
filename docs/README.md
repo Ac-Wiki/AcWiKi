@@ -122,16 +122,16 @@
 
   <h3 style="color: #555;">🏫 校园生活</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">🚧 <strong>开学第 0 课</strong>（宿舍购置物品 / 所学专业的培养计划 / 绩点、学分计算方式 / 大学课表工作方式（常用课表软件））</li>
-    <li style="margin-bottom: 8px;">🚧 <strong>选修课 / 必修课 / 兴趣（个性化）课 / 网络课程</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>签到考勤</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>转专业须知</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>辅修 / 第二学位须知</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>如何申请学生邮箱</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>图书馆</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>化解矛盾</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>人际关系</strong></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>脱单技巧</strong></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./09-Campus-Life/CampusLife"><strong>开学第 0 课</strong></a>（宿舍购置物品 / 所学专业的培养计划 / 绩点、学分计算方式 / 大学课表工作方式（常用课表软件））</li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>选修课 / 必修课 / 兴趣（个性化）课 / 网络课程</strong></a> </li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>签到考勤</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife">  <strong>转专业须知</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>辅修 / 第二学位须知</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>如何申请学生邮箱</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>图书馆</strong></a>/li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"><strong>化解矛盾</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>人际关系</strong></a></li>
+    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>脱单技巧</strong></a></li>
   </ul>
 
   <h3 style="color: #555;">🌎 社会生活</h3>
@@ -444,7 +444,7 @@
 
 ## 5.1 克隆仓库
 
-确保您安装了 git，可于[Git官网](https://git-scm.com/)下载
+确保您安装了 git，可于[Git 官网](https://git-scm.com/)下载
 
 在终端执行以下命令克隆仓库：
 
