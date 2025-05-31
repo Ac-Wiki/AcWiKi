@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 40px 20px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin: 20px auto; max-width: 800px;">
   <a href="https://github.com/Ac-Wiki/AcWiKi" class="logo-link" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="../assets/logo_clear.png" alt="AcWiki Logo" width="200" style="margin-bottom: 20px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));"/>
+    <img src="./assets/logo_clear.png" alt="AcWiki Logo" width="200" style="margin-bottom: 20px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));"/>
   </a>
   <h1 style="font-size: 4em; margin: 10px 0; background: linear-gradient(45deg, #2196f3, #9c27b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">✨AcWiki</h1>
   <h3 style="color: #555; margin-top: 5px; margin-bottom: 15px; font-weight: 500; letter-spacing: 1px;">高等教育学社基础知识开源建设工程</h3>
@@ -37,7 +37,7 @@
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
 
-<a href="https://kdocs.cn/l/cm7uuqpXuXew">
+<a href="https://kdocs.cn/l/cm7uuqpXuXew" class="skip-lightbox">
   <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
 </a>
 </div>
