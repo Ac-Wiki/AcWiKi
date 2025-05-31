@@ -132,6 +132,7 @@ plugins:
       enable_creation_date: true
       type: timeago
   - git-committers:
+      enabled: !ENV [CI, false] # 仅在 CI 环境下启用
       repository: Ac-Wiki/AcWiKi
       branch: main
       token: !ENV GITHUB_TOKEN
