@@ -142,7 +142,7 @@ GitHub 访问神器
 
 更多规则，可以在 Github 上查找。
 
-### [GameViewer 远程](https://gv.163.com/)
+### [网易 UU 远程](https://uuyc.163.com/)
 
 流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
 
@@ -161,6 +161,16 @@ GitHub 访问神器
 ### [termux](https://termux.dev/cn/)
 
 terminal 软件，可以在手机上编程、写小工具等
+
+### [Tasker](https://tasker.joaoapps.com/)
+
+根据时间、地点、应用等自动调整手机设置（静音课堂、开灯到家）、执行任务（一键签到、管理权限），解放双手，玩转个性化自动化。
+
+### [Auto.js 6](https://github.com/SuperMonster003/AutoJs6) 的社区分支版本
+
+- 文档： <https://docs.autojs6.com/>
+
+Android 平台支持无障碍服务的 JavaScript 自动化工具 (Auto.js 二次开发项目)
 
 ## Linux
 
@@ -201,6 +211,10 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 ### [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
 
 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~
+
+### [pakku](https://s.xmcp.ltd/pakku)
+
+合并大量弹幕为一条弹幕，仅工作在 bilibili.com
 
 ### AdGuard
 

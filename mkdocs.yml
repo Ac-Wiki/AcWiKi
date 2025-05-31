@@ -1,5 +1,7 @@
 nav:
   - Home: README.md
+  - 博客:
+      - blog/index.md
   - 关于Wiki: about-wiki.md
   - 学生优惠:
       - 主要: 01-student-discounts/student-discounts.md
@@ -39,6 +41,8 @@ edit_uri: edit/main/docs/
 theme:
   language: zh
   name: material
+  font:
+    text: Noto Sans
   custom_dir: ./src/overrides
   logo: assets/logo.jpg
   favicon: assets/logo_clear.png
@@ -51,6 +55,7 @@ theme:
     - navigation.instant.progress
     - navigation.top # Top navigation
     - navigation.footer
+    - navigation.indexes
     #- navigation.tabs 后续可考虑启用
     #- navigation.tabs.sticky
     - search.suggest
@@ -62,15 +67,18 @@ theme:
       scheme: default
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: 切换到浅色模式
 
 extra:
   social:
+    - icon: simple/qq
+      link: https://qm.qq.com/q/WJI3hgBcm4
+      name: QQ 群组
     - icon: simple/telegram
       link: https://t.me/AcWiki
       name: Telegram 频道
@@ -97,7 +105,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - js/extra.js
   - js/feedback.js
   - https://cn.vercount.one/js
 
@@ -123,21 +130,38 @@ plugins:
   - git-revision-date-localized: # commit/Modify date
       timezone: Asia/Shanghai
       enable_creation_date: true
-  - git-authors: # git authors
-      show_email_address: false
-  - glightbox: # lightbox
-      touchNavigation: true
-      loop: true
-      effect: none
-      slide_effect: fade
-      width: auto
-      height: auto
-      zoomable: true
-      draggable: true
-      skip_classes:
-        - skip-lightbox
-      auto_caption: false
-      caption_position: bottom
-      background: none
-      shadow: false
-      manual: false
+      type: timeago
+  - git-committers:
+      repository: Ac-Wiki/AcWiKi
+      branch: main
+      token: !ENV GITHUB_TOKEN
+      exclude_committers:
+        - github-actions[bot]
+        - actions-user
+        - Copilot
+        - web-flow
+  # - glightbox: # lightbox
+  #     touchNavigation: true
+  #     loop: true
+  #     effect: none
+  #     slide_effect: fade
+  #     width: auto
+  #     height: auto
+  #     zoomable: true
+  #     draggable: true
+  #     skip_classes:
+  #       - skip-lightbox
+  #     auto_caption: false
+  #     caption_position: bottom
+  #     background: none
+  #     shadow: false
+  #     manual: false
+  - privacy:
+      assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制
+  - blog
+  - rss:
+      match_path: "blog/posts/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+  - tags
