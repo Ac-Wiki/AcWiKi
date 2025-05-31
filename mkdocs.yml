@@ -140,22 +140,22 @@ plugins:
         - actions-user
         - Copilot
         - web-flow
-  - glightbox: # lightbox
-      touchNavigation: true
-      loop: true
-      effect: none
-      slide_effect: fade
-      width: auto
-      height: auto
-      zoomable: true
-      draggable: true
-      skip_classes:
-        - skip-lightbox
-      auto_caption: false
-      caption_position: bottom
-      background: none
-      shadow: false
-      manual: false
+  # - glightbox: # lightbox
+  #     touchNavigation: true
+  #     loop: true
+  #     effect: none
+  #     slide_effect: fade
+  #     width: auto
+  #     height: auto
+  #     zoomable: true
+  #     draggable: true
+  #     skip_classes:
+  #       - skip-lightbox
+  #     auto_caption: false
+  #     caption_position: bottom
+  #     background: none
+  #     shadow: false
+  #     manual: false
   - privacy:
       assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制
   - blog
