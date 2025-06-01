@@ -122,16 +122,17 @@
 
   <h3 style="color: #555;">🏫 校园生活</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">✅ <a href="./09-Campus-Life/CampusLife"><strong>开学第 0 课</strong></a>（宿舍购置物品 / 所学专业的培养计划 / 绩点、学分计算方式 / 大学课表工作方式（常用课表软件））</li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>选修课 / 必修课 / 兴趣（个性化）课 / 网络课程</strong></a> </li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>签到考勤</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife">  <strong>转专业须知</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>辅修 / 第二学位须知</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>如何申请学生邮箱</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>图书馆</strong></a>/li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"><strong>化解矛盾</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>人际关系</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧<a href="./09-Campus-Life/CampusLife"> <strong>脱单技巧</strong></a></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./09-Campus-Life/01-First lesson of school.md"><strong>开学第 0 课</strong></a>（宿舍购置物品 / 所学专业的培养计划 / 绩点、学分计算方式 / 大学课表工作方式（常用课表软件））</li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/02-DifferentCourses.md"> <strong>选修课 / 必修课 / 兴趣（个性化）课 / 网络课程</strong></a> </li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/03-Sign in and attendance.md"> <strong>签到考勤</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/04-ChangingMajors.md">  <strong>转专业须知</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/05-Minor.md"> <strong>辅修 / 第二学位须知</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/06-Student Email.md"> <strong>如何申请学生邮箱</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/07Library.md"> <strong>图书馆</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/08-ResolvingConflicts.md"><strong>化解矛盾</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/09-Relationships.md"> <strong>人际关系</strong></a></li>
+    <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/10-CampusLife.md"> <strong>脱单技巧</strong></a></li>
+    
   </ul>
 
   <h3 style="color: #555;">🌎 社会生活</h3>
