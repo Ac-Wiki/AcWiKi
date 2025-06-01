@@ -7,7 +7,7 @@
   <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>
 <div align="center">
 
-[![访问 WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
+[![访问 WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org)
 </div>
 </div>
 
