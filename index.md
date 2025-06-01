@@ -40,7 +40,28 @@ hero:
 
 ## 🎓 共建计划
 
-好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！
+<script setup>
+function getDaysUntilGaokao() {
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  
+  // 创建今年高考时间（6 月 7 日 9:00）
+  let gaokaoTime = new Date(currentYear, 5, 7, 9, 0, 0);
+  
+  // 若今年高考已过，设置为明年高考
+  if (gaokaoTime < now) {
+    gaokaoTime = new Date(currentYear + 1, 5, 7, 9, 0, 0);
+  }
+  
+  // 计算剩余天数（最小 1 天）
+  const timeDiff = gaokaoTime - now;
+  const daysRemaining = Math.max(1, Math.ceil(timeDiff / (1000 * 60 * 60 * 24)));
+  
+  return daysRemaining;
+}
+</script>
+
+好久不见！距离全国高考还有 {{getDaysUntilGaokao()}} 天，在此祝小朋友们金榜题名！
 
 距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 AcWiki 进行新一轮的更新扩充。
 
