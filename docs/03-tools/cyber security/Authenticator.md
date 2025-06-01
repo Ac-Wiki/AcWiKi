@@ -14,7 +14,7 @@
 
 ## 推荐的 Authenticator 应用程序
 
-### 1. [Keepass2Android](https://github.com/PhilippC/keepass2android)
+### [Keepass2Android](https://github.com/PhilippC/keepass2android)
 
 - [GitHub](https://github.com/PhilippC/keepass2android)
 - **优点**：
@@ -26,7 +26,7 @@
   - 初次使用可能不太会用，OTP功能藏的有点深
 - **其他**：OTP 功能只是它的冰山一角，密码填充、密码管理、密码生成等等他都能做到，基本上可以说是安卓系统功能最全面的密码管理软件了
 
-### 2. Aegis Authenticator
+### Aegis Authenticator
 
 - [GitHub](https://github.com/beemdevelopment/Aegis)
 - F-Droid（请先使用 [此链接](https://mirror.nju.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB) 将F-Droid的南京大学中国镜像添加到你的软件，再搜索 `com.beemdevelopment.aegis`
@@ -34,14 +34,14 @@
 - **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
 - **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
 
-### 3. [Authy](https://play.google.com/store/apps/details?id=com.authy.authy&hl=zh&gl=US)
+### [Authy](https://play.google.com/store/apps/details?id=com.authy.authy&hl=zh&gl=US)
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.authy.authy)
 - **特点**: 支持云备份和多设备同步，易于跨设备恢复 2FA 数据，支持 PIN 码和指纹保护。
 - **优点**: 界面简洁，使用方便，支持所有常见的 2FA 账户。
 - **缺点**: 需要使用手机号进行注册，且云端备份有潜在的隐私风险。
 
-### 3. [Raivo OTP](https://github.com/raivo-otp/)
+### [Raivo OTP](https://github.com/raivo-otp/)
 
 - [GitHub](https://github.com/raivo-otp/raivo-otp-android)
 - [App Store](https://apps.apple.com/us/app/raivo-authenticator/id1459042137)
@@ -49,11 +49,11 @@
 - **优点**: 界面简洁；开源透明；备份文件加密；使用便捷。
 - **缺点**: 功能相对简单；不支持自动同步；只有 iOS 版本
 
-### 4. [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+### [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
-微软已逐步开始移除常用功能，鉴于其功能的缺失以及后续更新的不稳定性而不再推荐
+微软已逐步开始移除常用功能，鉴于其功能的缺失以及后续更新可能存在的对软件功能的破坏性而不再推荐
 
-### 5. [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+### [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 - **特点**: 支持双重验证（TOTP），目前已推出了账户同步功能。
@@ -64,7 +64,7 @@
   - **隐私担忧**: 账户同步功能需要依赖 Google 账户，如果对隐私有高要求的用户可能会有顾虑。
   - **功能简单**: 没有太多高级功能，如密码锁定等安全增强功能。
 
-### 6.[KeeOtp2](https://github.com/tiuub/KeeOtp2)
+### [KeeOtp2](https://github.com/tiuub/KeeOtp2)
 
 - **特点**: KeeOtp2 是一个 KeePass 插件，支持生成基于时间的一次性密码（TOTP），适用于需要在 KeePass 中直接管理 2FA 密钥的用户。
 - **优点**:
