@@ -69,7 +69,7 @@ GitHub 访问神器
 
 ### [爱传送](https://mfiles.maokebing.com/)
 
-局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
+局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，macOS
 
 ## macOS
 
@@ -136,17 +136,17 @@ GitHub 访问神器
 
 ### [GKD](https://gkd.li/)
 
-一款基于无障碍功能实现的广告跳过工具，开源于[Github](https://github.com/gkd-kit/gkd)。
+一款基于无障碍功能实现的广告跳过工具，开源于[GitHub](https://github.com/gkd-kit/gkd)。
 
 官方的跳过规则已经不再维护，此处提供一个[第三方维护的开源规则](https://github.com/AIsouler/GKD_subscription)：
 
 `https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5`
 
-更多规则，可以在 Github 上查找。
+更多规则，可以在 GitHub 上查找。
 
 ### [网易 UU 远程](https://uuyc.163.com/)
 
-流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
+流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、macOS 和 Windows。
 
 ### [禅定空间](https://www.coolapk.com/apk/com.yunlian.meditationmode)
 
