@@ -148,18 +148,6 @@ export default defineConfig({
 
     darkModeSwitchLabel: "外观",
     returnToTopLabel: "返回顶部",
-
-    algolia: {
-      appId: "YOUR_APP_ID",
-      apiKey: "YOUR_API_KEY",
-      indexName: "YOUR_INDEX_NAME",
-      placeholder: "搜索文档",
-      translations: {
-        button: {
-          buttonText: "搜索",
-        },
-      },
-    },
   },
 
   markdown: {
