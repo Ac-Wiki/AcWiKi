@@ -8,12 +8,6 @@ hero:
   tagline: 属于大学生群体的真·青年大学习
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: brand
       text: 翻阅目录
       link: /toc
     - theme: alt
