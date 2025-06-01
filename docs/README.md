@@ -253,9 +253,9 @@
 
 # 💁 联系我们
 
-[![Telegram频道](https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcWiki)
-[![Telegram群组](https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcFourm)
-[![QQ群](https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/WJI3hgBcm4)
+[![Telegram 频道](https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcWiki)
+[![Telegram 群组](https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcFourm)
+[![QQ 群](https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/WJI3hgBcm4)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date)](https://star-history.com/#Ac-Wiki/AcWiKi&Date)
 
