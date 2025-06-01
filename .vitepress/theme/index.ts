@@ -13,6 +13,6 @@ export default {
   Layout: layoutComponent,
   enhanceApp({ app, router, siteData }) {
     app.component("Footer", Footer);
-    app.component("Commit", Comment);
+    app.component("Comment", Comment);
   },
 } satisfies Theme;
