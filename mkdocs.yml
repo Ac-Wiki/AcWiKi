@@ -27,10 +27,10 @@ nav:
   - 方法论:
       - 计算机基础技能: 07-computer-basic/computer-basic.md
 
-site_name: AcWiki 大学生的百科全书
-site_url: https://acwiki.pages.dev # 预览站点链接，合并成功后需要切换为主仓库链接
+site_name: Ac-Wiki 大学生的百科全书
+site_url: https://ac-wiki.org # 正式站点链接
 site_description: 属于大学生群体的真·青年大学习
-repo_name: AcWiki
+repo_name: Ac-Wiki
 repo_url: https://github.com/Ac-Wiki/AcWiKi
 edit_uri: edit/main/docs/
 # copyright:

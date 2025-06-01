@@ -115,7 +115,7 @@ Bitwarden 是一个线上的开源密码管理器，你可以使用官方提供�
 > 文章地址：
 >
 > - Linuxdo <https://linux.do/t/topic/242686>
-> - Acwiki <https://github.com/KipJayChou/AcWiKi/blob/main/03-tools/cyber%20security/password_manage1.md>
+>  - Ac-Wiki <https://github.com/Ac-Wiki/Ac-WiKi/blob/main/03-tools/cyber%20security/password_manage1.md>
 >
 > 作者：
 >

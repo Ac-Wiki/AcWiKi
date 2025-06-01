@@ -1,10 +1,10 @@
 <div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 40px 20px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin: 20px auto; max-width: 800px;">
   <a href="https://github.com/Ac-Wiki/AcWiKi" class="logo-link" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="./assets/logo_clear.png" alt="AcWiki Logo" width="200" style="margin-bottom: 20px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));"/>
+    <img src="./assets/logo_clear.png" alt="Ac-Wiki Logo" width="200" style="margin-bottom: 20px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));"/>
   </a>
-  <h1 style="font-size: 4em; margin: 10px 0; background: linear-gradient(45deg, #2196f3, #9c27b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">✨AcWiki</h1>
+  <h1 style="font-size: 4em; margin: 10px 0; background: linear-gradient(45deg, #2196f3, #9c27b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">✨Ac-Wiki</h1>
   <h3 style="color: #555; margin-top: 5px; margin-bottom: 15px; font-weight: 500; letter-spacing: 1px;">高等教育学社基础知识开源建设工程</h3>
-  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 AcWiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>
+  <p style="font-size: 1.1em; color: #444; max-width: 600px; margin: 0 auto 10px;"><em>专为大学生群体打造的知识共享平台，助力学业与社会衔接</em></p>  <p style="font-size: 1.1em; color: #444;"><em>由 Ac-Wiki 维护组及全体用户用 <span style="color: #ff5252;">❤️‍🔥</span> 制作。欢迎您的参与！</em></p>
 <div align="center">
 
 [![访问 WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org)
@@ -33,7 +33,7 @@
 
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #fff9e6 0%, #fff5d6 100%); box-shadow: 0 10px 30px rgba(240, 192, 0, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
-  <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki 航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
+  <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">Ac-Wiki 航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
 
 <a href="https://kdocs.cn/l/cm7uuqpXuXew" class="skip-lightbox">
   <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
@@ -45,7 +45,7 @@
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🎓</span> 共建计划</h2>
   <div style="padding-left: 10px; border-left: 3px solid rgba(33, 150, 243, 0.5);">
     <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！</p>
-    <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 AcWiki 进行新一轮的更新扩充。</p>
+    <p style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 Ac-Wiki 进行新一轮的更新扩充。</p>
     <p style="font-size: 17px; line-height: 1.6;">后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"<span style="color: #e91e63;">💗</span></p>  </div>
 <div align="center" style="margin-top: 20px;">
 
@@ -71,7 +71,7 @@
   </div>
 
   <div class="declaration-item" style="margin-bottom: 15px; padding: 10px; border-left: 3px solid #2196f3; background-color: rgba(255,255,255,0.7); border-radius: 0 8px 8px 0;">
-    <p style="margin: 0; font-size: 16px; line-height: 1.6;"><span style="color: #2196f3; font-weight: bold;">1.2.</span> 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系</p>
+    <p style="margin: 0; font-size: 16px; line-height: 1.6;"><span style="color: #2196f3; font-weight: bold;">1.2.</span> 本项目英文名称 Ac-Wiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系</p>
   </div>
 
   <div class="declaration-item" style="margin-bottom: 15px; padding: 10px; border-left: 3px solid #2196f3; background-color: rgba(255,255,255,0.7); border-radius: 0 8px 8px 0;">
@@ -261,7 +261,7 @@
 
 ## 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiki 越来越好！ (*´▽｀) ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 Ac-Wiki 越来越好！ (*´▽｀) ノノ
 
 [![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
 
