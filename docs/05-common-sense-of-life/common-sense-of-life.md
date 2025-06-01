@@ -1,4 +1,4 @@
-::: info "生活"
+::: info 生活
 
 - _Life is what happens when you're busy making other plans._
 - _Common sense is not so common._

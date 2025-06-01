@@ -69,7 +69,7 @@
 - [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在 GitHub 学生开发者资源包中;
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：编程语言开发套件，用了都说好；打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
 
-::: tip "GitHub 学生包申请注意事项"
+::: tip GitHub 学生包申请注意事项
 
 - 尽量使用 edu 邮箱进行申请
 - 申请过程中会定位，请尽可能在学校位置
