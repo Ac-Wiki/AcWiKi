@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="footer">
     <div>
       Copyright &copy; 2024 - {{ new Date().getFullYear() }}
       <a href="https://github.com/Ac-Wiki/AcWiKi/" target="_blank">AcWiki</a>
@@ -34,7 +34,9 @@ onMounted(() => {
 </script>
 
 <style scoped>
-div {
+.footer {
   text-align: center;
+  margin-bottom: 3rem;
+  font-size: 0.9rem;
 }
 </style>
