@@ -85,8 +85,6 @@ function getDaysUntilGaokao() {
 
 [![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
 
----
-
 ## 📎 引用与致谢
 
 ### 方山厨子
@@ -143,8 +141,6 @@ function getDaysUntilGaokao() {
 
 [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
 
----
-
 ## 💁 联系我们
 
 [![Telegram 频道](https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AcWiki)
@@ -158,8 +154,6 @@ function getDaysUntilGaokao() {
 感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiki 越来越好！ (\*´▽ ｀) ノノ
 
 [![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
-
----
 
 ## 🖥️ 本地部署
 
