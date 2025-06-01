@@ -125,10 +125,18 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [GitLab](https://gitlab.com/) 托管大量开源软件，项目，工具，类似于 GitHub
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 - [Flathub](https://flathub.org/) 收集了大量 Linux 软件
+- [KDE 应用程序](https://apps.kde.org/zh-cn/) 开发了很多跨平台的实用工具，不过有一些是专门面向 Linux 开发的
+
+部分 Linux 发行版可以在网站中搜索软件包，需要知道英文名
+
+- [Debian - Debian 搜索软件包](https://packages.debian.org/index)
+- [Arch Linux - Package Search](https://archlinux.org/packages/)
 
 ### 编程疑难问题（建议用英文提问）
 
 > 提问前请先思考，我的问题能让人明白吗、我的信息足够全能让他人复现问题吗、我的疑惑之前有人已经问过吗
+
+> 可参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
 - [AskUbuntu](https://askubuntu.com/)
 - [StackOverflow](https://stackoverflow.com/)
@@ -206,15 +214,16 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [科研废物导航](https://yanweb.top/) 这里整合了许多在写论文时会用到的大部分工具<br/>
 
-??? tip 如何解决知网、万方高昂的“会员费”
+??? tip "如何解决知网、万方高昂的“会员费” "
 
     一般情况下很多图书馆会购买相关的数据库，你可以先打开你们学校图书馆的网址（或者去询问图书馆或信息化中心的教职工）学校是否购买了相关的数据库文献
 
     如果你的学校没有购买的话，你可以注册一个图书馆的账号，这样你仍然可以“白嫖”到这些资源
 
-    这里推荐两个图书馆：浙江图书馆(仅需支付宝蚂蚁信用550分以上即可）和广西壮族自治区图书馆（资源库更全）
+    这里推荐两个图书馆：浙江图书馆（仅需支付宝蚂蚁信用550分以上即可）和广西壮族自治区图书馆（资源库更全）
 
-    图书馆注册教程可以参考阿虚同学的(知网、维普、万方等学术论文免费下载)[https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247518646&idx=1&sn=32db2e0398ee3e1c48c3ddaeab0d68b6&chksm=c15cd2bbf62b5bad60f410b609449f8fd8719ee4148590daf8b1833d94b3870b469d1d947a6c]
+    图书馆注册教程可以参考阿虚同学的微信公众号文章：
+    [知网、维普、万方等学术论文免费下载](https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&mid=2247518646&idx=1&sn=32db2e0398ee3e1c48c3ddaeab0d68b6&chksm=c15cd2bbf62b5bad60f410b609449f8fd8719ee4148590daf8b1833d94b3870b469d1d947a6c)
 
 ## 🔗 参考链接
 
