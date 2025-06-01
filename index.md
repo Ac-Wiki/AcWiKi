@@ -236,54 +236,51 @@ _更多内容正在筹备中，欢迎加入共建！_
 
 ## 🖥️ 本地部署
 
-### 5.1 克隆仓库
+### 本地调试
 
-确保您安装了 git，可于[Git 官网](https://git-scm.com/)下载
+这种方法用于对本项目进行贡献
 
-在终端执行以下命令克隆仓库：
+#### 0. 环境准备
 
-```bash
-git clone https://github.com/Ac-Wiki/AcWiKi.git
-```
+确保您的系统已安装以下工具：
 
-### 5.2 初始化虚拟环境
+- [Node.js](https://nodejs.org/) (建议使用 LTS 版本)
+- 可选的，安装 [pnpm](https://pnpm.io/) (可通过 `npm install -g pnpm` 安装)
+- Git (用于克隆仓库)
 
-进入仓库根目录，使用以下命令创建虚拟环境
-
-```bash
-python3 -m venv venv
-```
-
-#### Linux / macOS 用户
-
-在终端中执行以下命令进入虚拟环境：
+#### 1. 克隆仓库
 
 ```bash
-source venv/bin/activate
+git clone https://github.com/Ac-Wiki/Ac-WiKi.git
+cd Ac-WiKi
 ```
 
-#### Windows 用户
-
-在 PowerShell 中执行以下命令进入虚拟环境：
-
-```powershell
-venv\Scripts\activate
-```
-
-### 5.3 安装依赖
-
-仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
+#### 2. 安装依赖
 
 ```bash
-pip install -r requirements.txt
+pnpm install
 ```
 
-### 5.4 构建本地网页
+此命令会安装项目所需的所有依赖项
 
-执行以下命令：
+#### 3. 启动开发服务器
 
 ```bash
-mkdocs serve
+pnpm dev
 ```
 
-一般情况下，将会部署在本地的`8000`端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:端口号` 即可查看本地网页。
+开发服务器启动后，通常会监听在 `http://localhost:3000`。您可以在浏览器中访问该地址查看本地运行的 AcWiki。
+
+#### 4. 开发工作流
+
+- 修改文件后，开发服务器会自动重新加载
+- 使用 `Ctrl+C` 停止开发服务器
+- 提交更改前请运行测试和代码检查
+
+#### 5. 贡献代码
+
+完成修改后，请：
+
+1. 创建新的分支
+2. 提交清晰的 commit 信息
+3. 创建 Pull Request 到主仓库
