@@ -26,7 +26,7 @@
 
 **Pazzword**
 
-[**Github**](https://github.com/cyb3rko/pazzword)
+[**GitHub**](https://github.com/cyb3rko/pazzword)
 
 [**F-Droid**](https://f-droid.org/zh_Hant/packages/com.cyb3rko.pazzword/index.html)
 
@@ -78,7 +78,7 @@
 
 #### [KeePassDX](https://github.com/Kunzisoft/KeePassDX)（Windows/Linux/Android）
 
-[F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)｜[G-Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)｜[Github](https://github.com/Kunzisoft/KeePassDX/releases)
+[F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)｜[G-Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)｜[GitHub](https://github.com/Kunzisoft/KeePassDX/releases)
 
 ##### 优点
 
@@ -120,7 +120,7 @@ Bitwarden 是一个线上的开源密码管理器，你可以使用官方提供�
 > 作者：
 >
 > - user695(linux.do) <https://linux.do/u/user695/summary>
-> - KipJaychou(Github) <https://github.com/KipJayChou>
+> - KipJaychou(GitHub) <https://github.com/KipJayChou>
 >
 > 向我申请 Linuxdo 邀请码：
 > [mailto:jay20070220@gmail.com](mailto:jay20070220@gmail.com)
