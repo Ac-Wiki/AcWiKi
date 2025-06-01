@@ -3,11 +3,12 @@ nav:
   - 博客:
       - blog/index.md
   - 关于Wiki: about-wiki.md
-  - 学生优惠:
-      - 主要: 01-student-discounts/student-discounts.md
-      - 其他:
-          - 网易云音乐: 01-student-discounts/others/netease.md
-          - 国家助学贷款: 01-student-discounts/student-assistance/national-student-loan-FAQ.md
+  - 校园生活:
+      - 开学前准备: 09-Campus-Life/01-FirstLessonOfSchool.md
+      - 课程与分数计算: 09-Campus-Life/2-DifferentCourses.md
+      - 国家助学贷款: 09-Campus-Life/national-student-loan-FAQ.md
+  - 学生优惠: 01-student-discounts/student-discounts.md
+  - 国家助学贷款: 01-student-discounts/student-assistance/national-student-loan-FAQ.md
   - 搜索引擎: 02-search-platforms/search-platforms.md
   - 工具:
       - 效率软件: 03-tools/tools.md
