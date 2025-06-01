@@ -8,7 +8,7 @@ import markdownItAdmonition from "markdown-it-admonition";
 export default defineConfig({
   title: "AcWiki 大学生的百科全书",
   description: "属于大学生群体的真·青年大学习",
-  base: "/docs/", // 对应 site_url
+  base: "/", // 对应 site_url
   lang: "zh-CN",
 
   head: [
