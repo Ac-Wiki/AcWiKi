@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "markdown-it-abbr": "^2.0.0",
+    "markdown-it-admonition": "^1.0.4",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-footnote": "^4.0.0",
+    "vue": "^3.5.16"
+  }
+}
