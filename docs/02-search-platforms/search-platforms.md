@@ -54,9 +54,9 @@
 ::: tip "如何快速阅读英文资料"
 
     - 推荐使用 edge 浏览器自带的翻译
-    - 或使用[沉浸式翻译](https://immersivetranslate.com/),([Github 页面](https://github.com/immersive-translate/));[划词翻译](https://hcfy.ai/)
+    - 或使用[沉浸式翻译](https://immersivetranslate.com/),([GitHub 页面](https://github.com/immersive-translate/));[划词翻译](https://hcfy.ai/)
     - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
-    - 也可以使用 google 翻译或者 deepl 翻译等
+    - 也可以使用 Google 翻译或者 deepl 翻译等
 
 :::
 
@@ -216,7 +216,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [360 识图](https://st.so.com/)
   > - 国外（国外大多以插画，动漫识别精准度较高）
 - [yandex](https://ya.ru/images/touch/?lr=111500&redircnt=1732120675.1)
-- [google 识图](https://images.google.com/?hl=zh-CN)
+- [Google 识图](https://images.google.com/?hl=zh-CN)
 - [ascii2d](https://ascii2d.net/?forceOutSide=true)
 - [sauceNao](https://saucenao.com/index.php?forceOutSide=true)
 
