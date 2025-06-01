@@ -1,4 +1,4 @@
-???+ info "生活"
+::: info "生活"
 
     - _Life is what happens when you're busy making other plans._
     -  _Common sense is not so common._
@@ -6,6 +6,8 @@
     生活中偶尔会碰到一些绕不过去的小问题/常识问题。本篇主要关注一些生活实用小技巧，希望这些小技巧能在你需要的时候帮到你。
 
     欢迎大家指正或补充～
+
+:::
 
 # **生活**
 
