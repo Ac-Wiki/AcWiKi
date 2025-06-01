@@ -149,11 +149,6 @@ export default defineConfig({
     darkModeSwitchLabel: "外观",
     returnToTopLabel: "返回顶部",
 
-    footer: {
-      message: "属于大学生群体的真·青年大学习",
-      copyright: "Copyright © 2023-present AcWiki",
-    },
-
     algolia: {
       appId: "YOUR_APP_ID",
       apiKey: "YOUR_API_KEY",
