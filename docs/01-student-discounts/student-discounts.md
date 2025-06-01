@@ -13,7 +13,7 @@
 
 - 各大运营商在高校都设有营业厅，针对高校学生，校园电话卡的政策非常非常优惠，例如河南高校移动电话卡一般 150 元可用 6 个月左右，每月 300G 该市内流量，外加几十 G 省外和 XX 分钟通话时长。
 - 可能有同学觉得也就还好，但每开出一张卡，是有提成的，营业厅都是有学生代理，一般是高年级同学，他们一级代理作为头部往下继续找二级、三级代理，提成也会逐级抽成。
-- 最底层三级代理在开学季最优惠时，一张卡可以拿到大约 100 元的酬劳；二级代理吃三级代理的人头，一张大约 20~30 元，他手下代理开得越多，一级代理会给涨；一级代理同样吃手下所有人的人头数，人数越多他的提成越多。
+- 最底层三级代理在开学季最优惠时，一张卡可以拿到大约 100 元的酬劳；二级代理吃三级代理的人头，一张大约 20～30 元，他手下代理开得越多，一级代理会给涨；一级代理同样吃手下所有人的人头数，人数越多他的提成越多。
 - 一般代理都会给开卡的同学反 30 元，也就是折合价格 120 元左右开一张卡。但对新生一般不主动提，所以新生记得和他们讨价还价，有很大的余地，因为他们是白捡钱。
 - 大一新生如果想的话可以直接找开卡的学长学姐，自己做代理，自己基本 50 元左右就能开一张卡，再以优惠的价格给同学们开开，自己也能赚点小钱，而且开卡的同学也会觉得你人不错，会对你印象好一些。
 
@@ -74,11 +74,11 @@
 
 阿里/腾讯云 对学生群体有低价服务计算资源支持，详见官网学生优惠。
 
-- [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月，详细申请过程可以去看知乎 Akari 的[Github 学生认证及学生包保姆级申请指南](https://github.com/JimmyLing233/Github-Student-Certification-Guide)；
-- [阿里云天工计划](https://university.aliyun.com/)：高校学生实名认证可领取**300 元无门槛**抵扣金;
-- [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft 旗下的开发者云服务平台，**对教育订阅每 12 月提供$100 的免费额度**，以及部分免费服务；
-  **[申请须知](https://www.bilibili.com/read/cv22794294/)**
-- [GitHub Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)：结对编程助手，包含在学生开发者资源包内;
+- [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值 `$10/月`，详细申请过程可以去看[知乎 Akari 的《Github 学生认证及学生包保姆级申请指南》](https://github.com/JimmyLing233/Github-Student-Certification-Guide)；
+- [阿里云天工计划](https://university.aliyun.com/)：高校学生实名认证可领取**300元无门槛**抵扣金;
+- [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft 旗下的开发者云服务平台，对**教育订阅**提供`每12月$100的免费额度`，以及部分免费服务
+  - [申请须知](https://www.bilibili.com/read/cv22794294/)
+- [GitHub Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)：结对编程助手，包含在 GitHub 学生开发者资源包中;
 - [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在 GitHub 学生开发者资源包中;
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：编程语言开发套件，用了都说好。打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
 
@@ -91,18 +91,21 @@
 
 ### 📒 笔记
 
-- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费教育 Plus 计划**，价值$10/月；
-- [语雀](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划，**免费体验专业会员**（或超级会员），价值 ¥99/年，;
-- [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值$10/月；
+- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费教育 Plus 计划**，价值 `$10/月`；
+- [语雀](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划，**免费体验专业会员**（或超级会员），价值 `¥99/年`，;
+- [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值 `$10/月`；
 
 ### 📑 办公
 
-- [Microsoft 365 个人版](https://www.microsoft.com/zh-cn/microsoft-365/college-student-pricing)：著名办公套件，包含 1T 的 OneDrive 空间。学生计划￥ 18/月 (原计划￥ 39/月)
-
-- [WPS](https://personal-act.wps.cn/rubik2/portal/HD2024062617146482/YM2024062617308403?cs_from=pc_wpspay_url&position=vip_guanw)：大学生优惠可以折扣价购买各层级会员，以超级会员为例，原价￥ 21/月，学生价￥ 9/月；
-
-- [启航邮免费领邮箱会员](https://vip.163.com/projects/campus-vip)：使用 edu 邮箱认证，可免费领取网易邮箱大师会员。
-
+- [Microsoft 365 个人版](https://www.microsoft.com/zh-cn/microsoft-365/college-student-pricing)：著名办公套件，包含 1T 的 OneDrive 空间。学生计划 `￥18/月` (原计划 `￥39/月`)
+  - 注：OneDrive在国内很难用……
+- WPS：大学生优惠可以折扣价购买各层级会员，以超级会员为例，原价 `￥21/月`，学生价 `￥9/月`；
+  - 详细步骤见下：
+    1. 打开支付宝
+    2. 搜索“我的wps超级会员”
+    3. 点击“大学生优惠”
+    4. 认证并根据自己的需要进行付费
+- [启航邮免费领邮箱会员](https://vip.163.com/projects/campus-vip)：使用 edu 邮箱认证，可免费领取网易邮箱大师会员
 
 ### 🎨 设计
 
