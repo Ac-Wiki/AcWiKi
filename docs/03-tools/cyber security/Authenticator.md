@@ -14,20 +14,32 @@
 
 ## 推荐的 Authenticator 应用程序
 
-### 1. [Authy](https://play.google.com/store/apps/details?id=com.authy.authy&hl=zh&gl=US)
+### 1. [Keepass2Android](https://github.com/PhilippC/keepass2android)
+
+- 项目链接： [GitHub](https://github.com/PhilippC/keepass2android)
+- **优点**：
+  - 密码管理
+  - 自动填充
+  - 密码生成
+  - OTP等
+- **缺点**：
+  - 初次使用可能不太会用，OTP功能藏的有点深
+- **其他**：OTP 功能只是它的冰山一角，密码填充、密码管理、密码生成等等他都能做到，基本上可以说是安卓系统功能最全面的密码管理软件了
+
+### 2. [Aegis Authenticator](https://f-droid.org/packages/com.beemdevelopment.aegis/)
+
+- [GitHub](https://github.com/beemdevelopment/Aegis)
+- [F-Droid](https://mirror.nju.edu.cn/fdroid/packages/com.beemdevelopment.aegis/)
+- **特点**: 免费开源，支持本地加密备份（如将备份导出至 Google Drive、Dropbox 等实现手动同步）。
+- **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
+- **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
+
+### 3. [Authy](https://play.google.com/store/apps/details?id=com.authy.authy&hl=zh&gl=US)
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.authy.authy)
 - **特点**: 支持云备份和多设备同步，易于跨设备恢复 2FA 数据，支持 PIN 码和指纹保护。
 - **优点**: 界面简洁，使用方便，支持所有常见的 2FA 账户。
 - **缺点**: 需要使用手机号进行注册，且云端备份有潜在的隐私风险。
-
-### 2. [Aegis Authenticator](https://f-droid.org/packages/com.beemdevelopment.aegis/)
-
-- [GitHub](https://github.com/beemdevelopment/Aegis)
-- [F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)
-- **特点**: 免费开源，支持本地加密备份（如将备份导出至 Google Drive、Dropbox 等实现手动同步）。
-- **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
-- **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
 
 ### 3. [Raivo OTP](https://github.com/raivo-otp/)
 
