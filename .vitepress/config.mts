@@ -56,15 +56,15 @@ export default defineConfig({
             items: [
               {
                 text: "双重身份验证",
-                link: "/docs/03-tools/cyber-security/Authenticator",
+                link: "/docs/03-tools/cyber security/Authenticator",
               },
               {
                 text: "密码管理",
-                link: "/docs/03-tools/cyber-security/password_manage1",
+                link: "/docs/03-tools/cyber security/password_manage1",
               },
               {
                 text: "隐私保护",
-                link: "/docs/03-tools/cyber-security/privacy",
+                link: "/docs/03-tools/cyber security/privacy",
               },
             ],
           },
