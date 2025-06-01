@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/Ac-Wiki/AcWiKi" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge: 访问WIKI"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge: 访问 WIKI"/>
 </a>
 </div>
 </div>
@@ -35,7 +35,7 @@
 
 <div style="padding: 30px; border-radius: 16px; background: linear-gradient(135deg, #fff9e6 0%, #fff5d6 100%); box-shadow: 0 10px 30px rgba(240, 192, 0, 0.15); margin: 40px 0; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; background: radial-gradient(circle at top right, rgba(240, 192, 0, 0.2), transparent 70%); border-radius: 0 0 0 100%;"></div>
-  <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
+  <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki 航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
 
 <a href="https://kdocs.cn/l/cm7uuqpXuXew" class="skip-lightbox">
   <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
