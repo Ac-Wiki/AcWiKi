@@ -2,11 +2,11 @@
 
 ## 前言
 
-### 为什么要用 Authenticator? 什么是 2FA? 为什么要使用它？
+### 什么是 2FA? 为什么要使用它？
 
-2FA（Two-Factor Authentication，双重身份验证）是一种额外的身份验证步骤，可以在你登录账户时提高安全性。使用 2FA 时，用户不仅需要输入密码，还需提供另一个身份验证因素，例如手机验证码或专用身份验证应用程序中的动态密码。通过这一额外的步骤，即便黑客获得了你的密码，仍然无法登录你的账户。
+2FA（Two-Factor Authentication，双重身份验证）是一种额外的身份验证步骤，和**『密码+验证码』登录中的“验证码”类似**，可以在你登录账户时提高安全性。
 
-相比短信验证码，Authenticator 应用程序（例如 Microsoft Authenticator、Google Authenticator 等）生成的动态验证码更加安全可靠，因为它们不依赖于手机网络且更难被拦截。
+相比短信验证码，Authenticator 应用程序（例如 Google Authenticator 等）生成的动态验证码更加安全可靠，因为它们不依赖于手机网络且更难被拦截。
 
 ### 为什么选择支持同步的 Authenticator 应用？
 
@@ -16,7 +16,7 @@
 
 ### 1. [Keepass2Android](https://github.com/PhilippC/keepass2android)
 
-- 项目链接： [GitHub](https://github.com/PhilippC/keepass2android)
+- [GitHub](https://github.com/PhilippC/keepass2android)
 - **优点**：
   - 密码管理
   - 自动填充
@@ -26,10 +26,10 @@
   - 初次使用可能不太会用，OTP功能藏的有点深
 - **其他**：OTP 功能只是它的冰山一角，密码填充、密码管理、密码生成等等他都能做到，基本上可以说是安卓系统功能最全面的密码管理软件了
 
-### 2. [Aegis Authenticator](https://f-droid.org/packages/com.beemdevelopment.aegis/)
+### 2. Aegis Authenticator
 
 - [GitHub](https://github.com/beemdevelopment/Aegis)
-- [F-Droid](https://mirror.nju.edu.cn/fdroid/packages/com.beemdevelopment.aegis/)
+- F-Droid（请先使用 [此链接](https://mirror.nju.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB) 将F-Droid的南京大学中国镜像添加到你的软件，再搜索 `com.beemdevelopment.aegis`
 - **特点**: 免费开源，支持本地加密备份（如将备份导出至 Google Drive、Dropbox 等实现手动同步）。
 - **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
 - **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
@@ -51,15 +51,7 @@
 
 ### 4. [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator)
-- **!! 实测只支持密码同步，不支持 2FA 密钥同步**
-- **特点**: 支持双重验证（TOTP）和 Microsoft 账户的无密码登录，支持多设备同步功能。
-- **优点**:
-  - **多设备备份和同步**: 可以将账户密码备份到云端，并同步到多个设备，只要用 Microsoft 账户登录即可恢复。
-  - **多用途**: 支持 Microsoft 账户的无密码登录，适用于企业级用户和 Microsoft 产品的重度用户。
-- **缺点**:
-  - **闭源**: Microsoft Authenticator 是闭源的，不适合对数据透明性要求较高的用户。
-  - **隐私性较低**: 需要使用 Microsoft 账户登录以启用同步，可能不适合注重隐私的用户。
+微软已逐步开始移除常用功能，鉴于其功能的缺失以及后续更新的不稳定性而不再推荐
 
 ### 5. [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
@@ -84,6 +76,6 @@
 
 ## 总结
 
-- **Microsoft Authenticator** 和 **Google Authenticator** 非常稳定和可靠，适合与它们自家产品和服务生态圈配合使用。
-- 如果你注重隐私和开源，可能更偏好像 **Aegis** 这样的开源应用。如果你需要同步功能且不介意使用大公司的服务，**Microsoft Authenticator** 和 **Google Authenticator** 是更为便捷的选择。
+- **Google Authenticator** 非常稳定和可靠，适合与它们自家产品和服务生态圈配合使用。
+- 如果你注重隐私和开源，可能更偏好像 **Aegis** 这样的开源应用。如果你需要同步功能且不介意使用大公司的服务，**Google Authenticator** 是更为便捷的选择。
   使用这些工具时要谨慎备份密钥，以防在设备丢失或损坏时无法恢复 2FA 账户。
