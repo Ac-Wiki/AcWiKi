@@ -110,7 +110,7 @@ markdown_extensions:
   - attr_list
   - admonition #强调块
   - footnotes #脚注
-  - md_in_html #支持在 html 中使用 markdown 语法
+  - md_in_html #支持在 HTML 中使用 Markdown 语法
   - toc:
       permalink: true
   - tables
