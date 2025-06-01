@@ -8,5 +8,8 @@ const { Layout } = DefaultTheme;
     <template #layout-bottom>
       <Footer />
     </template>
+    <template #doc-after>
+      <Comment />
+    </template>
   </Layout>
 </template>
