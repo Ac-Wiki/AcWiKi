@@ -115,14 +115,13 @@
   <h3 style="color: #555;">🤝 圆梦帮扶</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
     <li style="margin-bottom: 8px;">✅ <a href="./08-Dream-Realization-Assistance/scholarship"><strong>奖/助学金申请</strong></a></li>
-    <li style="margin-bottom: 8px;">🚧 <strong>勤工俭学申请</strong></li>
+    <li style="margin-bottom: 8px;">✅ <a href="./08-Dream Realization Assistance/Work-Study Program.md"><strong>勤工俭学申请</strong></a></li>
     <li style="margin-bottom: 8px;">✅ <a href="./01-student-discounts/student-assistance/national-student-loan-FAQ"><strong>国家助学贷款（常见问题）</strong></a></li>
     <li style="margin-bottom: 8px;">🚧 <strong>大学生创业扶持</strong></li>
   </ul>
 
   <h3 style="color: #555;">🏫 校园生活</h3>
   <ul style="list-style-type: none; padding-left: 20px;">
-
     <li style="margin-bottom: 8px;">✅ <a href="./09-Campus-Life/01-First lesson of school.md"><strong>开学第 0 课</strong></a>（宿舍购置物品 / 所学专业的培养计划 / 绩点、学分计算方式 / 大学课表工作方式（常用课表软件））</li>
     <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/02-DifferentCourses.md"> <strong>选修课 / 必修课 / 兴趣（个性化）课 / 网络课程</strong></a> </li>
     <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/03-Sign in and attendance.md"> <strong>签到考勤</strong></a></li>
@@ -133,7 +132,6 @@
     <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/08-ResolvingConflicts.md"><strong>化解矛盾</strong></a></li>
     <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/09-Relationships.md"> <strong>人际关系</strong></a></li>
     <li style="margin-bottom: 8px;">✅<a href="./09-Campus-Life/10-CampusLife.md"> <strong>脱单技巧</strong></a></li>
-    
   </ul>
 
   <h3 style="color: #555;">🌎 社会生活</h3>
