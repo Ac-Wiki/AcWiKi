@@ -111,22 +111,22 @@
 ### 🤝 圆梦帮扶
 
 - ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/scholarship)
-- ✅ [勤工俭学申请](./08-Dream%20Realization%20Assistance/Work-Study%20Program.md)
+- ✅ [勤工俭学申请](./08-Dream-Realization-Assistance/Work-Study-Program.md)
 - ✅ [国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ)
 - 🚧 大学生创业扶持
 
 ### 🏫 校园生活
 
-- ✅ [开学第 0 课](./09-Campus-Life/01-First%20lesson%20of%20school)（宿舍购置物品/所学专业的培养计划/绩点、学分计算方式/大学课表工作方式（常用课表软件））
-- ✅ [选修课/必修课/兴趣（个性化）课/网络课程](./09-Campus-Life/02-DifferentCourses)
-- ✅ [签到考勤](./09-Campus-Life/03-Sign%20in%20and%20attendance)
-- ✅ [转专业须知](./09-Campus-Life/04-ChangingMajors)
-- ✅ [辅修/第二学位须知](./09-Campus-Life/05-Minor)
-- ✅ [如何申请学生邮箱](./09-Campus-Life/06-Student%20Email)
-- ✅ [图书馆](./09-Campus-Life/07Library.md)
-- ✅ [化解矛盾](./09-Campus-Life/08-ResolvingConflicts)
-- ✅ [人际关系](./09-Campus-Life/09-Relationships)
-- ✅ [脱单技巧](./09-Campus-Life/10-CampusLife)
+- ✅ [开学第 0 课](./09-Campus-Life/01-First-Lesson-Of-School.md)（宿舍购置物品/所学专业的培养计划/绩点、学分计算方式/大学课表工作方式（常用课表软件））
+- ✅ [选修课/必修课/兴趣（个性化）课/网络课程](./09-Campus-Life/02-Different-Courses.md)
+- ✅ [签到考勤](./09-Campus-Life/03-Sign-In-And-Attendance.md)
+- ✅ [转专业须知](./09-Campus-Life/04-Changing-Majors.md)
+- ✅ [辅修/第二学位须知](./09-Campus-Life/05-Minor.md)
+- ✅ [如何申请学生邮箱](./09-Campus-Life/06-Student-Email.md)
+- ✅ [图书馆](./09-Campus-Life/07-Library.md)
+- ✅ [化解矛盾](./09-Campus-Life/08-Resolving-Conflicts.md)
+- ✅ [人际关系](./09-Campus-Life/09-Relation-Ships.md)
+- ✅ [脱单技巧](./09-Campus-Life/10-Campus-Life.md)
 
 ### 🏫学生工作
 
