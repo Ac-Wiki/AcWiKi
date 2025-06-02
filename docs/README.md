@@ -2,7 +2,8 @@
   <a href="https://github.com/Ac-Wiki/AcWiKi">
     <img src="./assets/logo_clear.png" alt="AcWiki Logo" width="200"/>
   </a>
-  
+</div>
+
 # ✨AcWiki
   
 ## 高等教育学社基础知识开源建设工程
@@ -12,9 +13,9 @@
   *由 AcWiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
   [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
-</div>
 
-<div align="center">
+
+
 
 [![License](https://img.shields.io/github/license/Ac-Wiki/AcWiKi?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/AcWiKi/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/AcWiKi/stargazers)
@@ -22,7 +23,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=f44336)](https://github.com/Ac-Wiki/AcWiKi/issues)
 [![GitHub Contributors](https://img.shields.io/github/contributors/Ac-Wiki/AcWiKi?style=for-the-badge&color=9c27b0)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
 
-</div>
+
 
 ## 🔥 特别推荐
 
