@@ -112,7 +112,7 @@
 
 - ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/scholarship)
 - 🚧 勤工俭学申请
-- ✅ [国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ)
+- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ)
 - 🚧 大学生创业扶持
 
 ### 🏫 校园生活
