@@ -172,7 +172,6 @@
 
 #### 🔒 网络安全
 
-- ✅ [通讯安全](./03-tools/Android/加密通讯)
 - ✅ [密码管理](./03-tools/cyber%20security/password_manage1)
 - ✅ [账号安全](./03-tools/cyber%20security/Authenticator)
 - ✅ [隐私保护](./03-tools/cyber%20security/privacy)
