@@ -14,16 +14,11 @@
 
   [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki)
 
-
-
-
 [![License](https://img.shields.io/github/license/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/Ac-Wiki/stargazers)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&label=Commits&color=4caf50)](https://github.com/Ac-Wiki/Ac-Wiki/commits/main)
 [![GitHub Issues](https://img.shields.io/github/issues/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=f44336)](https://github.com/Ac-Wiki/Ac-Wiki/issues)
 [![GitHub Contributors](https://img.shields.io/github/contributors/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=9c27b0)](https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors)
-
-
 
 ## 🔥 特别推荐
 
@@ -65,14 +60,14 @@
 
 ### 📚 学生优惠
 
-- ✅ [**学生优惠**](./01-student-discounts/student-discounts)
+- ✅ [**学生优惠**](./01-student-discounts/student-discounts.md)
 - 🚧 **编程 / 开发 / 新质生产力**
 
 ### 🤝 圆梦帮扶
 
-- ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/scholarship)
+- ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/Scholar-Ship.md)
 - ✅ [勤工俭学申请](./08-Dream-Realization-Assistance/Work-Study-Program.md)
-- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ)
+- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ.md)
 - 🚧 大学生创业扶持
 
 ### 🏫 校园生活
@@ -106,7 +101,7 @@
 
 ### 📘 方法论
 
-- ✅ [**高效检索信息/获取资源**](./02-search-platforms/search-platforms)
+- ✅ [**高效检索信息/获取资源**](./02-search-platforms/search-platforms.md)
 - 🚧 **第一篇论文**
   - 🚧 学术规范与学术不端行为解释
   - 🚧 论文是什么，有哪些分类
@@ -118,7 +113,7 @@
   - 🚧 审阅与修订
   - 🚧 国内外著名期刊简介、分区、投稿方式
   - 🚧 其他学术名词解释：什么是影响因子，论文审稿流程，作者顺序与影响
-- ✅ [**计算机基础技能**](./07-computer-basic/computer-basic)
+- ✅ [**计算机基础技能**](./07-computer-basic/computer-basic.md)
 - 🚧 **运用新质生产力**
 - 🚧 **合理规划时间**
 - 🚧 **高效学习技巧**
@@ -126,27 +121,27 @@
 ### 🛠 工具平台
 
 - 🚧 **获取资源**
-- ✅ [**效率优化**](./03-tools/tools)
+- ✅ [**效率优化**](./03-tools/tools.md)
 - 🚧 **学术网站**
 - 🚧 **数据检索**
 
 #### 🔒 网络安全
 
-- ✅ [密码管理](./03-tools/cyber%20security/password_manage1)
-- ✅ [账号安全](./03-tools/cyber%20security/Authenticator)
-- ✅ [隐私保护](./03-tools/cyber%20security/privacy)
+- ✅ [密码管理](./03-tools/cyber%20security/password_manage1.md)
+- ✅ [账号安全](./03-tools/cyber%20security/Authenticator.md)
+- ✅ [隐私保护](./03-tools/cyber%20security/privacy.md)
 
 #### 🏃 校园应用
 
-- ✅ [**风驰电掣**](./03-tools/qi-ji-yin-qiao/campus-running)
-- ✅ [**珍惜时间**](./03-tools/qi-ji-yin-qiao/pointless-courses)
+- ✅ [**风驰电掣**](./03-tools/qi-ji-yin-qiao/campus-running.md)
+- ✅ [**珍惜时间**](./03-tools/qi-ji-yin-qiao/pointless-courses.md)
 
 ### 🏆 考赛介绍
 
 - 🚧 **学科等级**
-- ✅ [**专业技能**](./04-study/certification)
-- ✅ [**考试竞赛**](./04-study/study)
-- ✅ [**研招**](./04-study/yanzhao)
+- ✅ [**专业技能**](./04-study/certification.md)
+- ✅ [**考试竞赛**](./04-study/study.md)
+- ✅ [**研招**](./04-study/yanzhao.md)
 
 ## ⏳ 待补充
 
