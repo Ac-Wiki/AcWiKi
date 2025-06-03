@@ -3,11 +3,11 @@ nav:
   - 博客:
       - blog/index.md
   - 关于Wiki: about-wiki.md
-  - 学生优惠:
-      - 主要: 01-student-discounts/student-discounts.md
-      - 其他:
-          - 网易云音乐: 01-student-discounts/others/netease.md
-          - 国家助学贷款: 01-student-discounts/student-assistance/national-student-loan-FAQ.md
+  - 校园生活:
+      - 开学前准备: 09-Campus-Life/01-FirstLessonOfSchool.md
+      - 课程与分数计算: 09-Campus-Life/02-DifferentCourses.md
+      - 国家助学贷款: 09-Campus-Life/national-student-loan-FAQ.md
+  - 学生优惠: 01-student-discounts/student-discounts.md
   - 搜索引擎: 02-search-platforms/search-platforms.md
   - 工具:
       - 效率软件: 03-tools/tools.md
@@ -27,11 +27,11 @@ nav:
   - 方法论:
       - 计算机基础技能: 07-computer-basic/computer-basic.md
 
-site_name: AcWiki 大学生的百科全书
-site_url: https://acwiki.pages.dev # 预览站点链接，合并成功后需要切换为主仓库链接
+site_name: Ac-Wiki 大学生的百科全书
+site_url: https://ac-wiki.org # 正式站点链接
 site_description: 属于大学生群体的真·青年大学习
-repo_name: AcWiki
-repo_url: https://github.com/Ac-Wiki/AcWiKi
+repo_name: Ac-Wiki
+repo_url: https://github.com/Ac-Wiki/Ac-Wiki
 edit_uri: edit/main/docs/
 # copyright:
 
@@ -96,7 +96,7 @@ extra:
           name: 有待改进
           data: 0
           note: >-
-            请 <a href="https://t.me/AcWiki" target="_blank" rel="noopener">加入频道</a> 或 <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new?template=Blank+issue" target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
+            请 <a href="https://t.me/AcWiki" target="_blank" rel="noopener">加入频道</a> 或 <a href="https://github.com/Ac-Wiki/Ac-Wiki/issues/new?template=Blank+issue" target="_blank" rel="noopener">发起Issue</a><br>告诉我们如何改进！
 
 extra_css:
   - stylesheets/extra.css
@@ -130,7 +130,7 @@ plugins:
       type: timeago
   - git-committers:
       enabled: !ENV [CI, false] # 仅在 CI 环境下启用
-      repository: Ac-Wiki/AcWiKi
+      repository: Ac-Wiki/Ac-Wiki
       branch: main
       token: !ENV GITHUB_TOKEN
       exclude_committers:
