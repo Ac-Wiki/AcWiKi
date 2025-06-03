@@ -1,33 +1,33 @@
 <div align="center">
-  <a href="https://github.com/Ac-Wiki/AcWiKi">
-    <img src="./assets/logo_clear.png" alt="AcWiki Logo" width="200"/>
+  <a href="https://github.com/Ac-Wiki/Ac-Wiki">
+    <img src="./assets/logo_clear.png" alt="Ac-Wiki Logo" width="200"/>
   </a>
 </div>
 
-# ✨AcWiki
+# ✨Ac-Wiki
   
 ## 高等教育学社基础知识开源建设工程
   
   *专为大学生群体打造的知识共享平台，助力学业与社会衔接*
   
-  *由 AcWiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
+  *由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
-  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
-
-
+  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki)
 
 
-[![License](https://img.shields.io/github/license/Ac-Wiki/AcWiKi?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/AcWiKi/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/AcWiKi/stargazers)
-[![GitHub Commits](https://img.shields.io/github/commit-activity/t/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&label=Commits&color=4caf50)](https://github.com/Ac-Wiki/AcWiKi/commits/main)
-[![GitHub Issues](https://img.shields.io/github/issues/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=f44336)](https://github.com/Ac-Wiki/AcWiKi/issues)
-[![GitHub Contributors](https://img.shields.io/github/contributors/Ac-Wiki/AcWiKi?style=for-the-badge&color=9c27b0)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
+
+
+[![License](https://img.shields.io/github/license/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/Ac-Wiki/stargazers)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&label=Commits&color=4caf50)](https://github.com/Ac-Wiki/Ac-Wiki/commits/main)
+[![GitHub Issues](https://img.shields.io/github/issues/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=f44336)](https://github.com/Ac-Wiki/Ac-Wiki/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=9c27b0)](https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors)
 
 
 
 ## 🔥 特别推荐
 
-> **[ACwiki 航站楼](https://kdocs.cn/l/cm7uuqpXuXew)** - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航
+> **[Ac-Wiki 航站楼](https://kdocs.cn/l/cm7uuqpXuXew)** - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航
 
 [![立即访问](https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://kdocs.cn/l/cm7uuqpXuXew)
 
@@ -35,11 +35,11 @@
 
 好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！
 
-距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 AcWiki 进行新一轮的更新扩充。
+距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 Ac-Wiki 进行新一轮的更新扩充。
 
 后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"💗
 
-[![提交建议](https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
+[![提交建议](https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki/issues/new)
 
 ---
 
@@ -47,7 +47,7 @@
 
 **1.** 本项目完全为自发组织的公益项目，我们随时欢迎您的参与和使用，并对您的付出与建议表达衷心的感谢
 
-**2.** 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系
+**2.** 本项目英文名称 Ac-Wiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系
 
 **3.** 本项目更新的信息 / 内容 / 文件等资料，可能来自贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，会积极标明引用情况，引用情况请参阅相关页面注释
 
@@ -152,7 +152,7 @@
 
 > 更多内容正在筹备中，欢迎加入共建！
 
-[![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
+[![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki/issues/new)
 
 ---
 
@@ -231,22 +231,22 @@
 </div>
 
 <div align="center">
-  <a href="https://star-history.com/#Ac-Wiki/AcWiKi&Date">
+  <a href="https://star-history.com/#Ac-Wiki/Ac-Wiki&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/Ac-Wiki&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/Ac-Wiki&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Ac-Wiki/Ac-Wiki&type=Date"/>
     </picture>
   </a>
 </div>
 
 ## 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (*´▽｀) ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 Ac-Wiki 越来越好！ (*´▽｀) ノノ
 
 <div align="center">
-  <a href="https://github.com/Ac-Wiki/AcWiKi/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=200&columns=12" alt="贡献者"/>
+  <a href="https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors">
+    <img src="https://contributors-img.web.app/image?repo=Ac-Wiki/Ac-Wiki&max=200&columns=12" alt="贡献者"/>
   </a>
 </div>
 
@@ -258,7 +258,7 @@
 
 在终端执行以下命令克隆仓库：
 
-`git clone https://github.com/Ac-Wiki/AcWiKi.git`
+`git clone https://github.com/Ac-Wiki/Ac-Wiki.git`
 
 ## 5.2 初始化虚拟环境
 
