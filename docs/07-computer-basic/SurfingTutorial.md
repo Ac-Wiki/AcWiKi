@@ -50,7 +50,7 @@
 * 环境变量
 * CMD和PowerShell
 * 用户和锁屏密码
-* 文件搜索
+* [文件搜索](./SurfingTutorial/chap3/file_search.md)
 * 压缩软件
 * [硬盘的分区](./SurfingTutorial/chap3/windows_disk.md)
 * 管理硬盘空间 
