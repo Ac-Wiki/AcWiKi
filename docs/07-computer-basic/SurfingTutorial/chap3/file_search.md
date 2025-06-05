@@ -45,6 +45,9 @@
 - **fd**  
   find 命令的现代化替代，彩色输出，自动忽略.gitignore 文件，语法更简洁，搜索速度更快。  
   链接: [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
+- **Alfred (Spotlight 增强)**  
+  macOS 专属，提供文件搜索、剪贴板历史、工作流自动化等一体化生产力工具。  
+  链接: [https://www.alfredapp.com/](https://www.alfredapp.com/)
 
 ### 跨平台工具
 
@@ -55,10 +58,6 @@
 - **fzf**  
   命令行模糊查找工具，支持实时交互式筛选，可与 zsh/bash/fish 等 shell 深度集成。  
   链接: [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
-
-- **Alfred (Spotlight 增强)**  
-  macOS 专属，提供文件搜索、剪贴板历史、工作流自动化等一体化生产力工具。  
-  链接: [https://www.alfredapp.com/](https://www.alfredapp.com/)
 
 重要说明：
 
