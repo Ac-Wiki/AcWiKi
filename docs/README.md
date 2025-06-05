@@ -12,7 +12,7 @@
   
   *由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
-  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki)
+  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org/)
 
 [![License](https://img.shields.io/github/license/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/Ac-Wiki/stargazers)
