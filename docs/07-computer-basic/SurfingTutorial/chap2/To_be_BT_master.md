@@ -20,16 +20,16 @@
 ## 学会使用bt下载
    认识种子，下载方式，资源获取等
 ###  认识种子
+
 种子文件后缀：.torrent
 种子链接常以以下形式开头（注:分享者可能会省略这部分，请自己补全后使用）
     `magnet:?xt=urn:btih:`
     `ed2k://`
 特别地：迅雷链接、快车链接等不是种子链接
-可以转换为其他形式链接进行使用
-在线转换工具 :[https://tool.lu/urlconvert/](https://tool.lu/urlconvert/)
+可以转换为其他形式链接进行使用种子链接、文件等转换工具
 示例:
-![种子链接、文件等](img/torrent.png)
-![转换工具](img/urlconvert.png)
+在线转换工具 : [https://tool.lu/urlconvert/](https://tool.lu/urlconvert/)
+
 
 ### 下载方式
 
