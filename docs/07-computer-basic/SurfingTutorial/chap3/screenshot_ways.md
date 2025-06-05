@@ -48,7 +48,7 @@ windows的默认全屏截图是键盘上的`PrtSc`这个按键，按下这个键
 
 图：
 
-![](../img/chap3_snipaste_screenshot.png)
+![Snipaste 官网截图](../img/chap3_snipaste_screenshot.png)
 
 
 
