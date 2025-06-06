@@ -47,7 +47,7 @@
 - [压缩包](./SurfingTutorial/chap3/unzip.md)
 - Windows 网络设置
 - 环境变量
-- CMD 和 PowerShell
+- [命令行与命令](./SurfingTutorial/chap3/command.md)
 - 用户和锁屏密码
 - [文件搜索](./SurfingTutorial/chap3/file_search.md)
 - [硬盘的分区](./SurfingTutorial/chap3/windows_disk.md)
