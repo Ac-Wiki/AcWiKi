@@ -8,27 +8,25 @@
 
 # 搜索引擎
 
-## 综合搜索
-
 现在很多信息被割裂分散在不同的地方，而且不同的搜索引擎适用的范围不一样。所以，需要使用不同的搜索引擎来尽量消弥这种信息偏差。
 
 因为技术原因与非技术原因（例如竞价排名），不同搜索引擎之间的搜索结果可能存在差距。
 
-### 传统搜索引擎
+## 传统搜索引擎
 
-#### [百度](https://www.baidu.com)
+### [百度](https://www.baidu.com)
 
 - 最大的中文网页库，对中文的理解度最高
 - 其使用竞价排名模式，需要使用搜索指令排除广告的影响
 - 产品矩阵：如百度百科，百度文库，百度网盘……这些产品使用百度引擎更合适
 
-#### [必应](https://cn.bing.com/)
+### [必应](https://cn.bing.com/)
 
 - 国内可使用，总体质量比百度高
 - 适合做图片搜索
 - 在英文文献检索上效果较好
 
-#### [谷歌](https://www.google.com)
+### [谷歌](https://www.google.com)
 
 - 最好的**英文**搜索；广告较少，外国信息丰富，不建议使用中文搜索谷歌
 
@@ -53,26 +51,26 @@
     - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
     - 也可以使用 google 翻译或者 deepl 翻译等
 
-#### [搜狗](https://www.sogou.com/)
+### [搜狗](https://www.sogou.com/)
 
 - 适合用来做微信相关内容搜索，如公众号文章
 - 注：百度搜索结果广告太多时，可以用搜狗试试
 
-### AI 搜索引擎
+## AI 搜索引擎
 
-#### [kimi](https://kimi.moonshot.cn/)
+### [kimi](https://kimi.moonshot.cn/)
 
 AI 驱动的搜索引擎，国内访问速度快
 
-#### [秘塔 AI 搜索](https://metaso.cn/)
+### [秘塔 AI 搜索](https://metaso.cn/)
 
 也是 AI 驱动的搜索引擎，出现较早，理论上技术积累较为雄厚。
 
-#### [Perplexity](https://www.perplexity.ai/)（国内用不了）
+### [Perplexity](https://www.perplexity.ai/)（国内用不了）
 
 AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用 AI 帮你总结要点，也提供参考网页。
 
-#### [Kagi Search](https://kagi.com/welcome)
+### [Kagi Search](https://kagi.com/welcome)
 
 - 最好用的搜索引擎之一
 - **!! 付费**，拥有免费额度，可以免费试用
@@ -81,23 +79,23 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - 快速简洁
 - 拥有 AI 总结，摘要等辅助功能
 
-### 其他综合性平台
+## 其他综合性平台
 
-#### [微博搜索](https://weibo.com/)
+### [微博搜索](https://weibo.com/)
 
 - 热点事件，评论区信息可以看到不同立场的不同观点
 
-#### [𝕏/推特](https://twitter.com/)
+### [𝕏/推特](https://twitter.com/)
 
 - 类似微博，全球最大的微博客及社交网络服务平台之一
 - 时政内容；
 - 外国的一些生活状况，准备留学的同学可以通过这个渠道对某些信息祛魅
 
-#### [维基百科](https://wikipedia.org/)
+### [维基百科](https://wikipedia.org/)
 
 - 全球最大知识库，用于搜索古往今来的人事物
 
-#### [求闻百科](https://www.qiuwenbaike.cn)
+### [求闻百科](https://www.qiuwenbaike.cn)
 
 - 类似维基百科，由原中文维基百科人员创建，详情参考[此文](https://mp.weixin.qq.com/s/CzwQ_sEwQ31PfGJS7GxXZw)
 
