@@ -70,8 +70,6 @@
 
 下面是由 `Eric S. Raymond, Rick Moen`编写的**How To Ask Questions The Smart Way**的中文版
 
-[How-To-Ask-Questions-The-Smart-Way/README.md at master · aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way (github.com)](https://github.com/aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md)
-
 - 《提问的智慧》中文版 仓库 <https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way>
 
 ### BIOS(UEFI)的基本配置
