@@ -81,6 +81,7 @@
 
 ## 其他
 
-如果你有意见或者是建议请直接打开 issue
+对于该文档的建议，请为这个项目启动一个 Issue :
+<https://github.com/Ac-Wiki/Ac-Wiki/issues>
 
-如果你愿意帮助本教程变得更好，欢迎 pr
+如果你愿意帮助本教程变得更好，欢迎 PR
