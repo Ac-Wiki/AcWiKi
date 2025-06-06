@@ -37,23 +37,54 @@
 4. 点击右上角齿轮，选择“从文件安装附加组件”
 5. 确认安装提示
 
-## 插件管理技巧
+## 优秀插件
 
-- **权限控制**：安装时注意插件请求的权限
-- **更新检查**：定期在 `chrome://extensions/` 检查更新
-- **禁用而非删除**：暂时不需要的插件可禁用而非卸载
-- **快捷键设置**：在扩展详情页设置专属快捷键
+### uBlock Origin
 
-## 必备插件推荐
+分发站点：
 
-| 插件名称              | 功能              | 安装链接                                                                                                  | 特别提示                     |
-| --------------------- | ----------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **uBlock Origin**     | 高效广告拦截      | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)        | 比 AdBlock Plus 节省 40%内存 |
-| **Tampermonkey**      | 用户脚本管理      | [官网](https://www.tampermonkey.net/)                                                                     | 支持自动更新脚本             |
-| **Infinity 新标签页** | 自定义起始页      | [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) | 支持云同步配置               |
-| **Dark Reader**       | 全局深色模式      | [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)          | 保护眼睛利器                 |
-| **SingleFile**        | 网页保存为单文件  | [Chrome](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)           | 学术研究必备                 |
-| **集装箱**            | 谷歌镜像/网盘加速 | [官网](https://aikefu.run/t/)                                                                             | 国内用户福音                 |
+- Chrome:<https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
+- Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin>
+  高效广告拦截插件，比 AdBlock Plus 节省 40%内存
+
+### Tampermonkey
+
+分发站点：[官网](https://www.tampermonkey.net/)
+
+用户脚本管理器，支持自动更新脚本
+
+### Infinity 新标签页
+
+分发站点：
+
+- Chrome:<https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh>
+- Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro/>
+
+自定义起始页工具，支持云同步配置
+
+### Dark Reader
+
+分发站点：
+
+- Chrome:<https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh>
+- Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/darkreader/>
+
+全局深色模式插件，保护眼睛利器
+
+### SingleFile
+
+分发站点：
+
+- Chrome:<https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
+- Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/single-file/>
+
+可将网页保存为单文件，学术研究必备
+
+### 集装箱
+
+分发站点：[官网](https://aikefu.run/t/)
+
+谷歌镜像/网盘加速工具，国内用户福音
 
 ## 油猴（Tampermonkey）终极指南
 
