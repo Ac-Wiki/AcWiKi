@@ -82,6 +82,7 @@
 - ✅ [化解矛盾](./09-Campus-Life/08-Resolving-Conflicts.md)
 - ✅ [人际关系](./09-Campus-Life/09-Relation-Ships.md)
 - ✅ [脱单技巧](./09-Campus-Life/10-Getting-Out-Of-Singleness.md)
+- ✅ [大学生医保使用指南](./09-Campus-Life/11-Medical-Insurance.md)
 
 ### 🌎 社会生活
 
