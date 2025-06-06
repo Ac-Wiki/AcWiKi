@@ -1,33 +1,43 @@
-# 浏览器插件推荐：扩展你的浏览器能力
+# 浏览器插件推荐
 
-纯净的浏览器功能精简，但通过安装**浏览器插件**（也称为**扩展**或**Add-on**），你可以为其添加各种强大功能，提升效率、安全性和浏览体验。
+安装好的浏览器强大且精简，通过安装**浏览器插件**（也称为**扩展**或**Add-on**），可以为其添加各种功能，提升效率、安全性和浏览体验。
 
-## 浏览器插件的基础知识
+如果通过文件的方式安装插件，基于 Chromium 核心的一众浏览器基本需要启用开发者选项
 
-### 插件获取渠道
+## 插件获取渠道
 
-- **官方商店（推荐）**：
+正常情况下，推荐去官方站点下载这些组件或者 GitHub 安装开源组件，比如
 
-  - Chrome/Edge：[Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
-  - Firefox：[Firefox 附加组件](https://addons.mozilla.org)
-  - _注：访问 Chrome 商店需要科学上网_
+- Chrome/Edge：[Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
+- Firefox：[Firefox 附加组件](https://addons.mozilla.org)
+- 插件官网（如 uBlock Origin 的 [GitHub 页面](https://github.com/gorhill/uBlock)）
 
-- **第三方渠道**：
-  - 插件官网（如 uBlock Origin 的 [GitHub 页面](https://github.com/gorhill/uBlock)）
-  - 可信赖的扩展下载站（如 [Crx4Chrome](https://www.crx4chrome.com/)）
+如果因为一些原因无法访问官方站点，也可以考虑第三方下载站，但这里的插件需要谨慎对待，例如：
 
-### 离线安装方法（详细图解）
+- Crx4Chrome：<https://www.crx4chrome.com/>
 
-1. 获取 `.crx` 文件（Chrome/Edge）或 `.xpi` 文件（Firefox）
-2. 打开扩展管理页面：
-   - Chrome/Edge：地址栏输入 `chrome://extensions/`
-   - Firefox：地址栏输入 `about:addons`
+直接在官网安装，一般只需要确认安装提示就好，上面有插件需要的权限
+
+如果通过第三方插件文件分发站点下载（含 Github），请参考后续的安装教程。
+
+## Chromium 系安装插件
+
+1. 获取 `.crx` 文件
+2. 地址栏输入 `chrome://extensions/`
 3. **开启开发者模式**（右上角开关）
 4. 将插件文件拖拽到页面空白区域
 5. 确认安装提示
    ![安装浏览器插件](../img/chap2_add_plugins.png)
 
-### 插件管理技巧
+## Firefox 系安装插件
+
+1. 获取 `.xpi` 文件
+2. 地址栏输入 `about:addons`
+3. 点击左上角 `扩展`
+4. 点击右上角齿轮，选择“从文件安装附加组件”
+5. 确认安装提示
+
+## 插件管理技巧
 
 - **权限控制**：安装时注意插件请求的权限
 - **更新检查**：定期在 `chrome://extensions/` 检查更新
