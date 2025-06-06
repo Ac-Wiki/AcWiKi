@@ -20,7 +20,7 @@
 
 如果通过第三方插件文件分发站点下载（含 Github），请参考后续的安装教程。
 
-## Chromium 系安装插件
+### Chromium 系安装插件
 
 1. 获取 `.crx` 文件
 2. 地址栏输入 `chrome://extensions/`
@@ -29,7 +29,7 @@
 5. 确认安装提示
    ![安装浏览器插件](../img/chap2_add_plugins.png)
 
-## Firefox 系安装插件
+### Firefox 系安装插件
 
 1. 获取 `.xpi` 文件
 2. 地址栏输入 `about:addons`
