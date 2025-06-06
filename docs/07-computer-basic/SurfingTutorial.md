@@ -38,9 +38,9 @@
 - [使用 BT](./SurfingTutorial/chap2/To_be_BT_master.md)
 - 开发者工具的一些简单操作
 
-### Windows 操作系统的使用
+### 操作系统的使用
 
-由于面向的是计算机专业的学生，因此会添加 Windows 一些进阶功能的使用(例如控制面板的一些功能和 Shell)
+考虑到面向的是计算机专业的学生，因此会添加各操作系统一些进阶功能的使用
 
 - [截图的 N 种方式](./SurfingTutorial/chap3/screenshot_ways.md)
 - [文件的属性](./SurfingTutorial/chap3/file_attributes.md)
