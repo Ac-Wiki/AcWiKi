@@ -86,6 +86,7 @@ spellcheck:
     - OSS
     - P2P
     - PaaS
+    - PowerShell
     - RabbitMQ
     - Redis
     - RESTful
