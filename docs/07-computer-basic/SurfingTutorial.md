@@ -44,7 +44,6 @@
 
 - [截图的 N 种方式](./SurfingTutorial/chap3/screenshot_ways.md)
 - [文件的属性](./SurfingTutorial/chap3/file_attributes.md)
-<!-- 压缩软件合并到这里 -->
 - [压缩包](./SurfingTutorial/chap3/unzip.md)
 - Windows 网络设置
 - 环境变量
@@ -52,7 +51,6 @@
 - 用户和锁屏密码
 - [文件搜索](./SurfingTutorial/chap3/file_search.md)
 - [硬盘的分区](./SurfingTutorial/chap3/windows_disk.md)
-<!-- 清理 C 盘合并到这里 -->
 - 管理硬盘空间
 - 软件卸载
 
