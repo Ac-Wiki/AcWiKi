@@ -47,6 +47,14 @@
 - Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin>
   高效广告拦截插件，比 AdBlock Plus 节省 40%内存
 
+### 暴力猴
+
+- Chrome:<https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag>
+- Firefox:<https://addons.mozilla.org/firefox/addon/violentmonkey>
+- Edge:<https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao>
+
+开源的用户脚本管理器，嗯……开源。
+
 ### Tampermonkey
 
 分发站点：[官网](https://www.tampermonkey.net/)
@@ -86,16 +94,20 @@
 
 谷歌镜像/网盘加速工具，国内用户福音
 
-## 油猴（Tampermonkey）终极指南
+## 用户脚本管理器
+
+户脚本管理器有多个项目（比如油猴（Tampermonkey）和开源的暴力猴），下方暂时使用 Tampermonkey 作为范例
 
 ### 什么是油猴？
 
-Tampermonkey 是**用户脚本管理器**，允许你安装脚本修改网页行为，实现：
+用户脚本管理器允许你安装脚本修改网页行为，实现这些事情：
 
-- 去除广告和限制
+- 去除广告元素和复制限制
 - 增强网站功能
 - 自定义界面样式
 - 自动化操作
+
+简而言之，用户脚本管理器允许在网页中插入 JavaScript
 
 ### 脚本安装全流程
 
@@ -113,14 +125,14 @@ Tampermonkey 是**用户脚本管理器**，允许你安装脚本修改网页行
 
 ### 精品脚本推荐
 
-| 脚本名称             | 功能              | 链接                                                  | 使用场景      |
-| -------------------- | ----------------- | ----------------------------------------------------- | ------------- |
-| **CSDN 净化器**      | 去广告/免登录复制 | [安装](https://greasyfork.org/scripts/378351)         | 技术文档查阅  |
-| **Bilibili Evolved** | B 站功能增强      | [GitHub](https://github.com/the1812/Bilibili-Evolved) | 视频学习/娱乐 |
-| **AC-baidu**         | 搜索引擎优化      | [安装](https://greasyfork.org/scripts/14178)          | 高效信息检索  |
-| **网页限制解除**     | 解除复制/右键限制 | [安装](https://greasyfork.org/scripts/28497)          | 文献资料收集  |
-| **知乎增强**         | 去广告/优化阅读   | [安装](https://greasyfork.org/scripts/419081)         | 知识获取      |
-| **网盘直链助手**     | 百度网盘直链提取  | [安装](https://greasyfork.org/scripts/418182)         | 文件下载加速  |
+| 脚本名称             | 功能              | 了解更多信息                                  | 使用场景      |
+| -------------------- | ----------------- | --------------------------------------------- | ------------- |
+| **Bilibili Evolved** | B 站功能增强      | <https://github.com/the1812/Bilibili-Evolved> | 视频学习/娱乐 |
+| **CSDN 净化器**      | 去广告/免登录复制 | <https://greasyfork.org/scripts/378351>       | 技术文档查阅  |
+| **AC-baidu**         | 搜索引擎优化      | <https://greasyfork.org/scripts/14178>        | 高效信息检索  |
+| **网页限制解除**     | 解除复制/右键限制 | <https://greasyfork.org/scripts/28497>        | 文献资料收集  |
+| **知乎增强**         | 去广告/优化阅读   | <https://greasyfork.org/scripts/419081>       | 知识获取      |
+| **网盘直链助手**     | 百度网盘直链提取  | <https://greasyfork.org/scripts/418182>       | 文件下载加速  |
 
 ### 脚本管理高级技巧
 
