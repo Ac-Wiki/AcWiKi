@@ -68,9 +68,9 @@
 
 有些人不会提问，就算对方想教你也会因为你的问题描述有问题而有心无力。
 
-下面是由 `Eric S. Raymond, Rick Moen`编写的**How To Ask Questions The Smart Way**的中文版
+下面是由 `Eric S. Raymond, Rick Moen`编写的 **How To Ask Questions The Smart Way** 的中文版
 
-- 《提问的智慧》中文版 仓库 <https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way>
+<https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way>
 
 ### BIOS(UEFI)的基本配置
 
