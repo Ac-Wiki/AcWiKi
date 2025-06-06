@@ -72,7 +72,7 @@
 
 [How-To-Ask-Questions-The-Smart-Way/README.md at master · aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way (github.com)](https://github.com/aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md)
 
-[tvvocold/How-To-Ask-Questions-The-Smart-Way: How To Ask Questions The Smart Way 《提问的智慧》中文版 (github.com)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
+- 《提问的智慧》中文版 仓库 <https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way>
 
 ### BIOS(UEFI)的基本配置
 
