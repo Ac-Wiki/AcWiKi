@@ -46,8 +46,8 @@
 - [文件的属性](./SurfingTutorial/chap3/file_attributes.md)
 - [压缩包](./SurfingTutorial/chap3/unzip.md)
 - Windows 网络设置
-- 环境变量
 - [命令行与命令](./SurfingTutorial/chap3/command.md)
+- [环境变量](./SurfingTutorial/chap3/environment_variables.md)
 - 用户和锁屏密码
 - [文件搜索](./SurfingTutorial/chap3/file_search.md)
 - [硬盘的分区](./SurfingTutorial/chap3/windows_disk.md)
