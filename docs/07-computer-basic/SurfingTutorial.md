@@ -35,7 +35,7 @@
 - [搜索引擎的使用和软件的下载](./SurfingTutorial/chap2/search_engine.md)
 - [浏览器的插件推荐](./SurfingTutorial/chap2/browser_plugins_recommend.md)
 - [我需要杀毒软件吗](./SurfingTutorial/chap2/antivirus.md)
-- [使用 BT](./SurfingTutorial/chap2/To_be_BT_master.md)
+- [BitTorrent](./SurfingTutorial/chap2/bit_torrent.md)
 - 开发者工具的一些简单操作
 
 ### 第三章 操作系统的使用
