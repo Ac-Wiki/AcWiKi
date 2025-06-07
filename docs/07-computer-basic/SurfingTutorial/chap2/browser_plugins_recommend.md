@@ -96,7 +96,7 @@
 
 ## 用户脚本管理器
 
-户脚本管理器有多个项目（比如油猴（Tampermonkey）和开源的暴力猴），下方暂时使用 Tampermonkey 作为范例
+用户脚本管理器有多个项目（比如油猴（Tampermonkey）和开源的暴力猴），下方暂时使用 Tampermonkey 作为范例
 
 ### 什么是油猴？
 
