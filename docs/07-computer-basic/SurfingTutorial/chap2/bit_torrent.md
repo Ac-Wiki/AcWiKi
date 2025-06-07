@@ -12,8 +12,6 @@ n. 使用 BitTorrent 获取你需要的资源（~~让你像 gc 一样 bt~~
 
 BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通信协议，处于 TCP/IP 结构的应用层。
 
-<!-- 引用自维基百科 -->
-
 从表现上来看，BitTorrent 协议是一个以资源互换的方式来获取完整文件的下载方式。
 
 - 客户端连接到 Tracker 服务器获取 peer 列表
@@ -40,14 +38,25 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 
 ### 认识种子
 
-种子文件后缀：.torrent
-种子链接常以以下形式开头（注:分享者可能会省略这部分，请自己补全后使用）
-`magnet:?xt=urn:btih:`
-`ed2k://`
-特别地：迅雷链接、快车链接等不是种子链接
-可以转换为其他形式链接进行使用种子链接、文件等转换工具
-示例:
-在线转换工具 : [https://tool.lu/urlconvert/](https://tool.lu/urlconvert/)
+种子文件(.torrent)包含 Tracker 服务器地址和文件元数据(文件名、大小、分块校验等)
+
+种子链接主要形式
+
+- 磁力链接(Magnet URI)：`magnet:?xt=urn:btih:` (无需中心服务器，通过 DHT 网络即可下载)
+- ED2K 链接：`ed2k://`，主要用于 eDonkey 网络
+
+注意：
+
+- 迅雷、快车等专用链接不是标准种子链接
+- 可以使用工具在不同格式间转换
+
+### 链接转换工具
+
+这里仅列举几个作为范例，请以“迅雷链接转换工具”等关键词进行搜索，以获取更多站点
+
+- [下载地址链接转换工具 - 在线工具栏](https://www.usetoolbar.com/convert/download_link_convert.html)
+- [链接转换\_下载地址转换-ME2 在线工具](https://www.metools.info/other/o134.html)
+- [迅雷下载链接转换器 - Allen Zou](https://www.allenzou.com/aztools/Commonly012.html)
 
 ### 下载方式
 
@@ -74,8 +83,6 @@ BitTorrent 下载网络是由人驱动的，人人为我，我为人人
 如果发现下载的 TB 没有任何速度`0 KM/s`那么该 TB 已经生效了
 
 ## 参考
-
-<!-- 死链更新 -->
 
 - [BitTorrent\_百度百科](https://baike.baidu.com/item/BitTorrent)
 - [BitTorrent 下载、磁力链接、电驴 ？—— 老司机需要了解的常用下载方式\_简书](https://www.jianshu.com/p/72b7a64e5be1)
