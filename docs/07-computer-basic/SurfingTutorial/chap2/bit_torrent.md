@@ -60,7 +60,7 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 
 ### 下载方式
 
-- 使用下载器:常见有 IDM，uTorrent，qBittorrent，比特彗星等，见[参考链接](#参考)
+- 使用下载器:常见有 IDM，uTorrent，qBittorrent，比特彗星等，见文档末尾的参考链接
 
 - 在线方式:
   各大网盘的离线下载(违规资源不建议使用)
@@ -69,7 +69,7 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 ### 资源获取
 
 1. 使用适合的关键词进行常规搜索。bing，百度，谷歌等
-2. 种子搜索引擎。如[Torrent-finder](https://www.aiosearch.com)|[torrentkitty](https://www.torrentkitty.tv/search/)等，见[参考链接](#参考)
+2. 种子搜索引擎。如[Torrent-finder](https://www.aiosearch.com)|[torrentkitty](https://www.torrentkitty.tv/search/)等，见文档末尾的参考链接
 3. 其他论坛或社区。这里不做推荐
 4. pt 下载站(进阶选择，基本是会员制，有考核要求)
 5. 待补充
