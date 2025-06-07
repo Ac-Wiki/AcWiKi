@@ -52,7 +52,7 @@
 - [文件搜索](./SurfingTutorial/chap3/file_search.md)
 - [硬盘的分区](./SurfingTutorial/chap3/windows_disk.md)
 - [管理硬盘空间](./SurfingTutorial/chap3/disk_management.md)
-- 软件卸载
+- [软件卸载](./SurfingTutorial/chap3/uninstall.md)
 
 ### 第四章 编程语言的学习
 
