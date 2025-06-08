@@ -1,31 +1,48 @@
 nav:
-  - Home: README.md
-  - 博客:
-      - blog/index.md
-  - 关于Wiki: about-wiki.md
+  - 首页: README.md
   - 校园生活:
-      - 开学前准备: 09-Campus-Life/01-FirstLesson-Of-School.md
-      - 课程与分数计算: 09-Campus-Life/02-Different-Courses.md
-      - 国家助学贷款: 09-Campus-Life/national-student-loan-FAQ.md
-  - 学生优惠: 01-student-discounts/student-discounts.md
-  - 搜索引擎: 02-search-platforms/search-platforms.md
-  - 工具:
-      - 效率软件: 03-tools/tools.md
-      - 网络安全:
-          - 双重身份验证: 03-tools/cyber security/Authenticator.md
-          - 密码管理: 03-tools/cyber security/password_manage1.md
-          - 隐私保护: 03-tools/cyber security/privacy.md
-      - 奇技淫巧:
-          - 校园跑: 03-tools/qi-ji-yin-qiao/campus-running.md
-          - 刷课: 03-tools/qi-ji-yin-qiao/pointless-courses.md
-  - 学习:
-      - 考试和竞赛: 04-study/study.md
-  - 生活:
-      - 生活实用小技巧: 05-common-sense-of-life/common-sense-of-life.md
-  - 就业:
-      - 企业文化: 06-recruit-exercitation/recruit-exercitation.md
-  - 方法论:
-      - 计算机基础技能: 07-computer-basic/SurfingTutorial.md
+      - 开学前准备: campus-life/01-FirstLesson-Of-School.md
+      - 课程与分数计算: campus-life/02-Different-Courses.md
+      - 签到考勤: campus-life/03-Signin-And-Attendance.md
+      - 转专业: campus-life/04-Changing-Majors.md
+      - 辅修/第二学位: campus-life/05-Minor.md
+      - 学生邮箱: campus-life/06-Student-Email.md
+      - 图书馆: campus-life/07-Library.md
+      - 化解矛盾: campus-life/08-Resolving-Conflicts.md
+      - 人际关系: campus-life/09-Relation-Ships.md
+      - 脱单技巧: campus-life/10-Getting-Out-Of-Singleness.md
+      - 圆梦帮扶:
+          - 奖助学金申请: 08-Dream-Realization-Assistance/Scholar-Ship.md
+          - 勤工俭学申请: 08-Dream-Realization-Assistance/Work-Study-Program.md
+          - 国家助学贷款: campus-life/national-student-loan-FAQ.md
+  - 学术资源: academic-resources/index.md
+  - 成长通道: growth-path/index.md
+  - 通识技能库: 
+    - general-skills/index.md
+    - 学生优惠: general-skills/student-discounts.md
+    - 搜索引擎: general-skills/search-platforms.md
+    - 工具:
+        - 效率软件: 03-tools/tools.md
+        - 网络安全:
+            - 双重身份验证: 03-tools/cyber security/Authenticator.md
+            - 密码管理: 03-tools/cyber security/password_manage1.md
+            - 隐私保护: 03-tools/cyber security/privacy.md
+        - 奇技淫巧:
+            - 校园跑: 03-tools/qi-ji-yin-qiao/campus-running.md
+            - 刷课: 03-tools/qi-ji-yin-qiao/pointless-courses.md
+    - 学习:
+        - 考试和竞赛: 04-study/study.md
+    - 生活:
+        - 生活实用小技巧: 05-common-sense-of-life/common-sense-of-life.md
+    - 就业:
+        - 企业文化: 06-recruit-exercitation/recruit-exercitation.md
+    - 方法论:
+        - 计算机基础技能: 07-computer-basic/SurfingTutorial.md
+  - 共建社区: 
+      - community-hub/README.md
+      - 关于 Wiki: community-hub/about-wiki.md
+  - 博客:
+    - blog/index.md
 
 site_name: Ac-Wiki 大学生的百科全书
 site_url: https://ac-wiki.org # 正式站点链接
@@ -53,8 +70,9 @@ theme:
     - navigation.top # Top navigation
     - navigation.footer
     - navigation.indexes
-    #- navigation.tabs 后续可考虑启用
-    #- navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
     - search.suggest
     - search.highlight
     - search.share
