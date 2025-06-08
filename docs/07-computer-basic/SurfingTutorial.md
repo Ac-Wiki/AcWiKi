@@ -1,6 +1,6 @@
 # 前言
 
-感谢[RainChan](https://github.com/mzdluo123)对于项目的认可,
+感谢[RainChan](https://github.com/mzdluo123)对于项目的认可，
 本章节依据 [SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial)项目进行补充
 
 # [SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial)
@@ -25,7 +25,7 @@
 关于这个问题在 BiliBili 上已经有很多作者制作了大量视频，请直接在 B 站搜索“电脑选购”
 
 - [内存和硬盘的区别](./SurfingTutorial/chap1/ram_disk.md)
-- [装机教程(视频教程)](https://www.bilibili.com/video/av818609247/)
+- [装机教程 (视频教程)](https://www.bilibili.com/video/av818609247/)
 
 ### 第二章 网上冲浪
 
@@ -70,7 +70,7 @@
 
 <https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way>
 
-### BIOS(UEFI)的基本配置
+### BIOS(UEFI) 的基本配置
 
 这里不会介绍超频设置，各种网站上的教程比我懂。同时也不会介绍不常用的配置，很少有情况需要更改这里的配置
 

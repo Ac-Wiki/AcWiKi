@@ -9,7 +9,7 @@
 
 ### 高级卸载方法
 
-- 使用第三方卸载工具(如 Revo Uninstaller)彻底清除残留
+- 使用第三方卸载工具 (如 Revo Uninstaller) 彻底清除残留
 - 手动删除注册表项和安装目录
 
 注意：Windows 控制面板的卸载功能实际上是调用软件自带的卸载程序
@@ -55,5 +55,5 @@ sudo pacman -Rns <package_name>     # 完全移除软件包及其依赖
 #### Linux 平台
 
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux 系统优化和软件管理工具
-- [Synaptic](https://www.nongnu.org/synaptic/) - 图形化包管理工具(Debian 系)
+- [Synaptic](https://www.nongnu.org/synaptic/) - 图形化包管理工具 (Debian 系)
 - [BleachBit](https://www.bleachbit.org/) - 系统清理工具，可删除软件残留

@@ -5,14 +5,14 @@
 </div>
 
 # ✨Ac-Wiki
-  
-## 高等教育学社基础知识开源建设工程
-  
-  *专为大学生群体打造的知识共享平台，助力学业与社会衔接*
-  
-  *由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
-  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org/)
+## 高等教育学社基础知识开源建设工程
+
+_专为大学生群体打造的知识共享平台，助力学业与社会衔接_
+
+_由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
+
+[![访问 WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org/)
 
 [![License](https://img.shields.io/github/license/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/Ac-Wiki/stargazers)
@@ -46,7 +46,7 @@
 
 **3.** 本项目更新的信息 / 内容 / 文件等资料，可能来自贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，会积极标明引用情况，引用情况请参阅相关页面注释
 
-*4.** 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与完善中，本着自愿参与原则，我们将对贡献者在 GitHub Profile 页面展示致谢
+\*4.\*\* 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与完善中，本着自愿参与原则，我们将对贡献者在 GitHub Profile 页面展示致谢
 
 **5.** 频道关联群组 [TG](https://t.me/AcFourm)/[QQ](https://qm.qq.com/q/rmBHBLvpew) 用作维护组与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，请理性讨论
 
@@ -215,13 +215,13 @@
 <div align="center">
 
 <a href="https://t.me/AcWiki">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram频道"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"/>
 </a>
 <a href="https://t.me/AcFourm">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram群组"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组"/>
 </a>
 <a href="https://qm.qq.com/q/WJI3hgBcm4">
-  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ群"/>
+  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 群"/>
 </a>
 
 </div>
@@ -238,7 +238,7 @@
 
 ## 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 Ac-Wiki 越来越好！ (*´▽｀) ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 Ac-Wiki 越来越好！ (\*´▽｀) ノノ
 
 <div align="center">
   <a href="https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors">
