@@ -14,7 +14,7 @@
 
 如果因为一些原因无法访问官方站点，也可以考虑第三方下载站，但这里的插件需要谨慎对待，例如：
 
-- Crx4Chrome：<https://www.crx4chrome.com/>
+- Crx4Chrome:<https://www.crx4chrome.com/>
 
 直接在官网安装，一般只需要确认安装提示就好，上面有插件需要的权限
 
@@ -45,7 +45,7 @@
 
 - Chrome:<https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 - Firefox:<https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin>
-  高效广告拦截插件，比 AdBlock Plus 节省 40%内存
+  高效广告拦截插件，比 AdBlock Plus 节省 40% 内存
 
 ### 暴力猴
 
@@ -118,7 +118,7 @@
    - [OpenUserJS](https://openuserjs.org/)
    - [GitHub Gist](https://gist.github.com/)
 3. 搜索所需功能（如"CSDN 去广告"）
-   ![搜索脚本GF](../img/chap2_tampermonkey_find_new_plugins_from_GF.png)
+   ![搜索脚本 GF](../img/chap2_tampermonkey_find_new_plugins_from_GF.png)
 4. 点击"安装此脚本"
    ![安装脚本](../img/chap2_tampermonkey_install_new_plugins.png)
 5. 查看安装详情并确认

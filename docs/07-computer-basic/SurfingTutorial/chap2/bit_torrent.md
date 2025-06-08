@@ -2,7 +2,7 @@
 
 点击互联网的链接，多数情况下会采用 HTTP 的方式进行下载，部分老旧的服务器会通过 FTP 协议进行提供，相较于另外两种下载方式，BitTorrent 具有学习资源丰富，用户间下载的特点
 
-本文目标： 1. 认识与了解 BitTorrent 2. 学会使用 BitTorrent 下载 3. 了解一些规则
+本文目标：1. 认识与了解 BitTorrent 2. 学会使用 BitTorrent 下载 3. 了解一些规则
 ...
 n. 使用 BitTorrent 获取你需要的资源（~~让你像 gc 一样 bt~~
 
@@ -38,11 +38,11 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 
 ### 认识种子
 
-种子文件(.torrent)包含 Tracker 服务器地址和文件元数据(文件名、大小、分块校验等)
+种子文件 (.torrent) 包含 Tracker 服务器地址和文件元数据 (文件名、大小、分块校验等)
 
 种子链接主要形式
 
-- 磁力链接(Magnet URI)：`magnet:?xt=urn:btih:` (无需中心服务器，通过 DHT 网络即可下载)
+- 磁力链接 (Magnet URI)：`magnet:?xt=urn:btih:` (无需中心服务器，通过 DHT 网络即可下载)
 - ED2K 链接：`ed2k://`，主要用于 eDonkey 网络
 
 注意：
@@ -60,10 +60,10 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 
 ### 下载方式
 
-- 使用下载器:常见有 IDM，uTorrent，qBittorrent，比特彗星等，见文档末尾的参考链接
+- 使用下载器：常见有 IDM，uTorrent，qBittorrent，比特彗星等，见文档末尾的参考链接
 
-- 在线方式:
-  各大网盘的离线下载(违规资源不建议使用)
+- 在线方式：
+  各大网盘的离线下载 (违规资源不建议使用)
   微云，百度盘，夸克盘等
 
 ### 资源获取
@@ -71,7 +71,7 @@ BitTorrent 协议是架构于 TCP/IP 协议之上的一个 P2P 文件传输通�
 1. 使用适合的关键词进行常规搜索。bing，百度，谷歌等
 2. 种子搜索引擎。如[Torrent-finder](https://www.aiosearch.com)|[torrentkitty](https://www.torrentkitty.tv/search/)等，见文档末尾的参考链接
 3. 其他论坛或社区。这里不做推荐
-4. pt 下载站(进阶选择，基本是会员制，有考核要求)
+4. pt 下载站 (进阶选择，基本是会员制，有考核要求)
 5. 待补充
 
 ## 了解一些规则
@@ -85,7 +85,7 @@ BitTorrent 下载网络是由人驱动的，人人为我，我为人人
 ## 参考
 
 - [BitTorrent\_百度百科](https://baike.baidu.com/item/BitTorrent)
-- [BitTorrent 下载、磁力链接、电驴 ？—— 老司机需要了解的常用下载方式\_简书](https://www.jianshu.com/p/72b7a64e5be1)
+- [BitTorrent 下载、磁力链接、电驴？—— 老司机需要了解的常用下载方式\_简书](https://www.jianshu.com/p/72b7a64e5be1)
 - [种子下载器推荐\_知乎](https://zhuanlan.zhihu.com/p/263662087)
 - [种子搜索引擎推荐\_微博](https://card.weibo.com/article/m/show/id/2309404378747447939659)
 - [BitTorrent | 全球最受欢迎的 Torrent 客户端](https://www.bittorrent.com/zh-cn/)

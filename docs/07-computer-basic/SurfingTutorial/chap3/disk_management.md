@@ -27,7 +27,7 @@
 ### Filelight (多平台)
 
 - 详细信息：<https://apps.kde.org/zh-cn/filelight/>
-- 开源可视化工具，使用环形图展示磁盘占用（GPL-2.0+协议）
+- 开源可视化工具，使用环形图展示磁盘占用（GPL-2.0+ 协议）
 
 ### WinDirStat (Windows)
 

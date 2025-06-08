@@ -25,7 +25,7 @@
 
 ## 文件类型
 
-一个文件是什么类型的文件主要可以通过文件的**扩展名**来表示(但这并非绝对可靠)。
+一个文件是什么类型的文件主要可以通过文件的**扩展名**来表示 (但这并非绝对可靠)。
 
 ### 扩展名
 
@@ -40,7 +40,7 @@
 | 扩展名                        | 说明                              | 主要识别依据/备注                                             | 典型打开方式                                |
 | :---------------------------- | :-------------------------------- | :------------------------------------------------------------ | :------------------------------------------ |
 | `.txt`                        | 无格式的文本文件                  | 纯文本内容                                                    | 记事本、VS Code、Sublime Text 等            |
-| `.html; .htm; .shtml; .xhtml` | 超文本标记语言文件 (网页)         | `<!DOCTYPE html>` 等标签                                      | 浏览器(显示)、文本编辑器(编辑)              |
+| `.html; .htm; .shtml; .xhtml` | 超文本标记语言文件 (网页)         | `<!DOCTYPE html>` 等标签                                      | 浏览器 (显示)、文本编辑器 (编辑)            |
 | `.doc; .docx`                 | Word 文档                         | `.doc` (二进制格式), `.docx` (基于 ZIP + XML, 文件头 `PK`)    | Microsoft Word, WPS Office                  |
 | `.ppt; .pptx`                 | PowerPoint 演示文稿               | `.ppt` (二进制格式), `.pptx` (基于 ZIP + XML, 文件头 `PK`)    | Microsoft PowerPoint, WPS Office            |
 | `.xls; .xlsx`                 | Excel 工作簿                      | `.xls` (二进制格式), `.xlsx` (基于 ZIP + XML, 文件头 `PK`)    | Microsoft Excel, WPS Office                 |
@@ -58,7 +58,7 @@
 | `.7z`                         | 7-Zip 压缩文档                    | 文件头 `37 7A BC AF 27 1C` (`7z¼¯'`)                          | 7-Zip, Bandizip, PeaZip 等                  |
 | `.mp3`                        | MPEG 音频层 III 文件              | 文件头 `ID3` 标签 或 `FF FB`/`FF F3` (帧同步)                 | 几乎所有音频播放器                          |
 | `.mp4`                        | MPEG-4 视频文件                   | 文件头 `....ftyp` (包含 `mp42`, `isom` 等)                    | 几乎所有视频播放器                          |
-| `.py`                         | Python 脚本/源代码                | 内容为 Python 代码，首行常为 `#!/usr/bin/env python3`         | Python 解释器, VS Code, PyCharm 等          |
+| `.py`                         | Python 脚本/源代码                | 内容为 Python 代码，首行常为 `#!/usr/bin/env python3`         | Python 解释器，VS Code, PyCharm 等          |
 | `.bat`, `.cmd`                | Windows 批处理脚本                | 内容为批处理命令                                              | Windows 命令处理器 (`cmd.exe`)              |
 | `.sh`                         | Unix/Linux Shell 脚本             | 内容为 Shell 命令，首行常为 `#!/bin/bash`，**需要可执行权限** | Bash, Zsh 等 Shell (在终端执行)             |
 | `.log`                        | 日志文件                          | 通常为文本，包含时间戳和事件记录                              | 文本编辑器                                  |
