@@ -4,7 +4,7 @@
 
 ### 什么是 2FA? 为什么要使用它？
 
-2FA（Two-Factor Authentication，双重身份验证）是一种额外的身份验证步骤，和**『密码+验证码』登录中的“验证码”类似**，可以在你登录账户时提高安全性。
+2FA（Two-Factor Authentication，双重身份验证）是一种额外的身份验证步骤，和**『密码 + 验证码』登录中的“验证码”类似**，可以在你登录账户时提高安全性。
 
 相比短信验证码，Authenticator 应用程序（例如 Google Authenticator 等）生成的动态验证码更加安全可靠，因为它们不依赖于手机网络且更难被拦截。
 
@@ -21,15 +21,15 @@
   - 密码管理
   - 自动填充
   - 密码生成
-  - OTP等
+  - OTP 等
 - **缺点**：
-  - 初次使用可能不太会用，OTP功能藏的有点深
+  - 初次使用可能不太会用，OTP 功能藏的有点深
 - **其他**：OTP 功能只是它的冰山一角，密码填充、密码管理、密码生成等等他都能做到，基本上可以说是安卓系统功能最全面的密码管理软件了
 
 ### Aegis Authenticator
 
 - [GitHub](https://github.com/beemdevelopment/Aegis)
-- F-Droid（请先使用 [此链接](https://mirror.nju.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB) 将F-Droid的南京大学中国镜像添加到你的软件，再搜索 `com.beemdevelopment.aegis`
+- F-Droid（请先使用 [此链接](https://mirror.nju.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB) 将 F-Droid 的南京大学中国镜像添加到你的软件，再搜索 `com.beemdevelopment.aegis`
 - **特点**: 免费开源，支持本地加密备份（如将备份导出至 Google Drive、Dropbox 等实现手动同步）。
 - **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
 - **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
