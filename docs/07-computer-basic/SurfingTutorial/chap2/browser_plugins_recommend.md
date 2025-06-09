@@ -191,18 +191,18 @@
    - Zotero Connector（文献管理）
    - Kami（PDF 标注）
 
-   * 油猴脚本：Google Scholar 增强
+   - 油猴脚本：Google Scholar 增强
 
 2. **媒体下载方案**：
 
    - Video DownloadHelper
 
-   * 油猴脚本：B 站/YouTube 下载增强
+   - 油猴脚本：B 站/YouTube 下载增强
 
 3. **隐私保护组合**：
    - Privacy Badger
    - Decentraleyes
-   * 油猴脚本：防追踪增强
+   - 油猴脚本：防追踪增强
 
 ### 常见问题解决
 

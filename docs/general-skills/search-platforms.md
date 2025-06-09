@@ -240,6 +240,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 除了传统的中国知网(CNKI)，还有许多优质的学术资源搜索平台：
 
 **免费开放获取平台：**
+
 - [谷歌学术](https://scholar.google.com/) - 全球最大的学术搜索引擎，涵盖各个学科领域
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI驱动的学术搜索引擎，提供智能推荐
 - [CORE](https://core.ac.uk/) - 全球最大的开放获取研究论文聚合器
@@ -248,6 +249,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [SSRN](https://www.ssrn.com/) - 社会科学研究网络
 
 **国内学术平台：**
+
 - [中国科技论文在线](http://www.paper.edu.cn/) - 教育部主办的学术交流平台
 - [国家哲学社会科学文献中心](http://www.ncpssd.org/) - 免费提供学术资源
 - [中科院文献情报中心](http://www.las.ac.cn/) - 科技文献资源
@@ -255,6 +257,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [维普资讯](http://www.cqvip.com/) - 中文科技期刊数据库
 
 **专业领域数据库：**
+
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - 生物医学文献数据库
 - [IEEE Xplore](https://ieeexplore.ieee.org/) - 电气工程和计算机科学
 - [ACM Digital Library](https://dl.acm.org/) - 计算机科学文献

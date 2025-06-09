@@ -22,7 +22,7 @@ Linux 发行版根据包管理器有不同的卸载指令：
 
 例如：Ubuntu
 
-```
+```bash
 sudo apt remove <package_name>      # 移除软件包但保留配置文件
 sudo apt purge <package_name>       # 完全移除软件包和配置文件
 sudo apt autoremove                 # 移除不再需要的依赖包
@@ -32,7 +32,7 @@ sudo apt autoremove                 # 移除不再需要的依赖包
 
 例如：Manjaro
 
-```
+```bash
 sudo pacman -R <package_name>       # 移除软件包
 sudo pacman -Rns <package_name>     # 完全移除软件包及其依赖
 ```

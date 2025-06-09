@@ -134,6 +134,7 @@
 - **主页设置**:
   ![主页展示](../img/chap2_new_home.png)
   - 实用配置：
+
     ```markdown
     about:blank # 空白页
     https://startpage.com # 隐私搜索引擎
@@ -147,6 +148,7 @@
   - 请勿跟踪信号发送
   - 安全 DNS（推荐 Cloudflare 1.1.1.1）
 - **高级防护**:
+
   ```markdown
   [*.] 禁用第三方 Cookie
   [*.] 定期清除浏览数据

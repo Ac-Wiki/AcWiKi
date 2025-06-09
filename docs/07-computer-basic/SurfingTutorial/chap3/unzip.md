@@ -23,16 +23,16 @@
 
 **重要说明：**
 
-1.  **`.rar` 格式专利：** RAR 压缩算法和格式由 Alexander Roshal 开发，其所有权和专利属于 RARLAB（WinRAR 的开发商）。因此：
+1. **`.rar` 格式专利：** RAR 压缩算法和格式由 Alexander Roshal 开发，其所有权和专利属于 RARLAB（WinRAR 的开发商）。因此：
     - **WinRAR** 是唯一可以**官方合法创建 `.rar` 文件**的软件（需购买或遵守其试用条款）。
     - 其他软件（如 7-Zip, Bandizip, PeaZip）可以**解压 `.rar` 文件**，这通常被认为是合法的，因为它们使用了开源的 UnRAR 库（由 RARLAB 授权允许用于解压）。
     - **没有** RARLAB 的授权，其他软件**不能合法地创建 `.rar` 文件**。
-2.  **选择建议：**
+2. **选择建议：**
     - **追求免费开源高压缩率：** 7-Zip 或 PeaZip。
     - **追求易用性和功能全面（含 RAR 创建）：** WinRAR (需接受其商业模式)。
     - **追求现代界面和速度（免费版含广告）：** Bandizip。
     - **仅需处理 ZIP：** Windows 自带功能足够。
-3.  **安全警告：**
+3. **安全警告：**
     - **警惕来源不明的压缩包：** 压缩包是恶意软件（病毒、勒索软件）传播的常见载体。务必使用安全软件扫描，并从可信来源获取文件。
     - **“压缩包炸弹”：** 指故意构造的、解压后体积极其巨大（如 TB 级）的小压缩包（几 KB），旨在耗尽系统资源或瘫痪扫描软件。解压前注意文件大小是否合理。
     - **加密压缩包的安全性：** 使用强密码（长、复杂、唯一）。弱密码容易被暴力破解。注意，文件名在部分格式下即使加密也可能可见。
@@ -67,9 +67,9 @@
   - **结果：** 解压后的数据是原始数据的**近似值**，存在信息丢失，质量通常低于原始数据。压缩率通常远高于无损压缩。
   - **适用：** 对绝对精度要求不高，但对文件大小敏感的**多媒体数据**（照片、音乐、电影）。多次重复压缩解压会导致质量进一步下降（“代损”）。
 
-# 参考
+## 参考
 
-压缩包 : https://baike.baidu.com/item/%E5%8E%8B%E7%BC%A9%E5%8C%85/5373066
-无损压缩和有损压缩的区别？ : https://www.zhihu.com/question/267956200
-RARLAB - WinRAR and RAR archiver : https://www.rarlab.com/
-UnRAR license : https://www.rarlab.com/license.htm (关于解压 RAR 的许可)
+压缩包 : <https://baike.baidu.com/item/%E5%8E%8B%E7%BC%A9%E5%8C%85/5373066>
+无损压缩和有损压缩的区别？ : <https://www.zhihu.com/question/267956200>
+RARLAB - WinRAR and RAR archiver : <https://www.rarlab.com/>
+UnRAR license : <https://www.rarlab.com/license.htm> (关于解压 RAR 的许可)

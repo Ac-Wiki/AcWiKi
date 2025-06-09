@@ -6,19 +6,19 @@
 
 ### 在命令提示符 (cmd) 中查看环境变量
 
-```
+```cmd
 set
 ```
 
 ### 在 PowerShell 中查看环境变量
 
-```
+```pwsh
 Get-ChildItem Env:
 ```
 
 ### 设置临时环境变量
 
-```
+```pwsh
 set VARIABLE_NAME=value
 ```
 
@@ -27,7 +27,7 @@ set VARIABLE_NAME=value
 1. 打开"系统属性" → "高级" → "环境变量"
 2. 在用户变量或系统变量中添加/修改
 
-### 常用环境变量
+### 查看常用环境变量
 
 - `PATH`: 系统查找可执行文件的路径
 - `TEMP`: 临时文件目录
@@ -37,23 +37,23 @@ set VARIABLE_NAME=value
 
 ### 查看环境变量
 
-```
+```bash
 printenv
 ```
 
 或
 
-```
+```bash
 env
 ```
 
-### 设置临时环境变量
+### Linux设置临时环境变量
 
-```
+```bash
 export VARIABLE_NAME=value
 ```
 
-### 设置永久环境变量
+### Linux设置永久环境变量
 
 将 `export VARIABLE_NAME=value` 添加到以下文件之一：
 
@@ -92,12 +92,12 @@ PowerShell 有一个特殊脚本，在步骤 2 没有找到指令，但是在当
 
 Windows:
 
-```
+```pwsh
 setx PATH "%PATH%;C:\new\path"
 ```
 
 Linux:
 
-```
+```bash
 export PATH=$PATH:/new/path
 ```
