@@ -24,8 +24,8 @@ nav:
     - 工具:
         - 效率软件: 03-tools/tools.md
         - 网络安全:
-            - 双重身份验证: 03-tools/cyber security/Authenticator.md
-            - 密码管理: 03-tools/cyber security/password_manage.md
+            #- 双重身份验证: 03-tools/cyber security/Authenticator.md
+            - 密码管理: 03-tools/password_manage.md
             - 隐私保护: 03-tools/cyber security/privacy.md
         - 奇技淫巧:
             - 校园跑: 03-tools/qi-ji-yin-qiao/campus-running.md

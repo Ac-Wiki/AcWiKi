@@ -91,6 +91,24 @@
 
 ## 其他工具
 
+### OTP/TOTP/二次验证工具
+
+如果你不像用上面的密码管理软件加上一堆插件来管理你的OTP，你也可以直接使用以下软件统一管理你的OTPs
+
+#### Aegis Authenticator
+
+- [GitHub](https://github.com/beemdevelopment/Aegis)
+- F-Droid（请先使用 [此链接](https://mirror.nju.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB) 将 F-Droid 的南京大学中国镜像添加到你的软件，再搜索 `com.beemdevelopment.aegis`
+- **特点**: 免费开源，支持本地加密备份（如将备份导出至 Google Drive、Dropbox 等实现手动同步）。
+- **优点**: 强大的加密备份功能，无广告，开源透明性高，隐私友好。
+- **缺点**: 不支持自动云同步，需要手动导入导出备份文件。
+
+#### 其他OTP
+
+敬请参考网络攻略以及应用商店下载量和评价，不在此过多推荐
+
+此外，**请勿使用** Microsoft Authenticator，因其功能缺失、更新维护不稳定。
+
 ### 密码泄露检测工具
 
 - [Have I Been Pwned](https://haveibeenpwned.com/)
