@@ -10,7 +10,6 @@ body:
         > 请按下方的要求填写完整的问题表单，以便我们更快的定位问题。
 
   - type: input
-    id: winver
     attributes:
       label: Windows 版本
       description: |
@@ -20,7 +19,6 @@ body:
       required: true
 
   - type: input
-    id: bver
     attributes:
       label: 浏览器版本
       description: |
@@ -30,7 +28,6 @@ body:
       required: true
 
   - type: input
-    id: time
     attributes:
       label: 发生问题的时间
       description: 填写当前系统时间，24小时制
@@ -39,7 +36,6 @@ body:
       required: true
 
   - type: dropdown
-    id: user-set-category
     attributes:
       label: 问题分类
       description: 请设置一个你认为合适的分类，这将帮助我们快速定位问题
@@ -53,7 +49,6 @@ body:
       required: true
 
   - type: textarea
-    id: what-happened
     attributes:
       label: 发生了什么？
       description: |
@@ -62,7 +57,6 @@ body:
       required: true
 
   - type: textarea
-    id: what-expected
     attributes:
       label: 你期望发生的行为？
       description: 详细的描述你期望发生的行为，突出与目前（可能不正确的）行为的不同
