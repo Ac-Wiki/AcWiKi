@@ -1,7 +1,6 @@
 name: 文档更改请求
 description: 文档有哪里不完善或者需要更改可以在此提出
 title: "[Docs Request]: 在这里填写一个合适的标题"
-type: "Feature"
 body:
   - type: markdown
     attributes:

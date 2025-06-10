@@ -1,7 +1,6 @@
 name: 问题反馈
 description: 本模板针对网站无法访问、显示错误等问题
 title: "[Bug]: 在这里填写一个合适的标题"
-type: "Bug"
 body:
   - type: markdown
     attributes:
