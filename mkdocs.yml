@@ -1,5 +1,5 @@
 nav:
-  - 首页: /README.md
+  - 首页: /
   - 校园生活:
       - 开学前准备: campus-life/01-FirstLesson-Of-School.md
       - 课程与分数计算: campus-life/02-Different-Courses.md
@@ -11,6 +11,8 @@ nav:
       - 化解矛盾: campus-life/08-Resolving-Conflicts.md
       - 人际关系: campus-life/09-Relation-Ships.md
       - 脱单技巧: campus-life/10-Getting-Out-Of-Singleness.md
+      - 医保指南: campus-life/11-Medical-Insurance.md
+      - 国际交流: campus-life/12-International-Exchange.md
       - 圆梦帮扶:
           - 奖助学金申请: 08-Dream-Realization-Assistance/Scholar-Ship.md
           - 勤工俭学申请: 08-Dream-Realization-Assistance/Work-Study-Program.md
