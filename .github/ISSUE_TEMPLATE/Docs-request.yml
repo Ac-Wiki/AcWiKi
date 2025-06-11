@@ -6,10 +6,21 @@ body:
     attributes:
       value: |
         请按下方的要求填写完整的问题表单。
+  
+  - type: dropdown
+    attributes:
+      label: 议题分类
+      options:
+        - 增加文档
+        - 修正文档
+        - 删除文档
+        - 其它
+    validations:
+      required: true
 
   - type: textarea
     attributes:
-      label: 希望更改/增加/删减的内容
+      label: 具体描述你希望实现的内容变更
     validations:
       required: true
 
