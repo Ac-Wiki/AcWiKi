@@ -184,14 +184,6 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 
 拦截广告，浏览体验更好。
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
-
-简单地切换各种程序/编程语言的镜像源
-
-### [squoosh](https://squoosh.app/)
-
-图片压缩工具，支持多种图片格式和压缩算法
-
 ### [沉浸式翻译 - 网页翻译插件 | PDF 翻译 | 免费](https://immersivetranslate.com/)
 
 双语对照翻译，无痛浏览论文/外语，轻度免费插件（订阅制会员提供更准确的翻译）
