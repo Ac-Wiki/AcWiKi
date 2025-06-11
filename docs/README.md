@@ -255,39 +255,42 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 # 🖥️ 本地部署
 
-## 5.1 克隆仓库
+## 克隆仓库
 
 确保您安装了 git，可于[Git 官网](https://git-scm.com/)下载
 
 在终端执行以下命令克隆仓库：
 
-`git clone https://github.com/Ac-Wiki/Ac-Wiki.git`
+`git clone https://github.com/Ac-Wiki/Ac-Wiki.git --depth=1`
 
-## 5.2 初始化虚拟环境
+## 初始化虚拟环境
 
-进入仓库根目录，使用以下命令创建虚拟环境
+### Win
+
+1. 使用 VSCode 打开仓库目录 `Code.exe ./Ac-Wiki`
+2. 打开 VSCode 的终端 `Ctrl + \``
+3. 验证 python 版本，输入 `python --version` 并回车，有类似 `Python 3.13.3` 的输出说明 python 已正确安装
+4. 输入 `python3 -m venv venv` 以创建一个名为 `venv` 的虚拟环境
+5. 此时，VSCode 会弹出提示，询问你是否使用该环境，选择是
+6. 在终端中输入 `python venv\Scripts\activate` 以使用该虚拟环境
+
+### Linux / macOS
+
+创建一个虚拟环境
 
 `python3 -m venv venv`
-
-### Linux / macOS 用户
 
 在终端中执行以下命令进入虚拟环境：
 
 `source venv/bin/activate`
 
-### Windows 用户
+## 安装依赖
 
-在 PowerShell 中执行以下命令进入虚拟环境：
-
-`venv\Scripts\activate`
-
-## 5.3 安装依赖
-
-仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
+仓库根目录下有 `requirements.txt`，在虚拟环境中执行以下命令安装依赖：
 
 `pip install -r requirements.txt`
 
-## 5.4 构建本地网页
+## 构建本地网页
 
 执行以下命令：
 
