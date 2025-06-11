@@ -1,5 +1,5 @@
 nav:
-  - 首页: index.md
+  - 首页: /README.md
   - 校园生活:
       - 开学前准备: campus-life/01-FirstLesson-Of-School.md
       - 课程与分数计算: campus-life/02-Different-Courses.md
