@@ -49,8 +49,6 @@
 
 ## 参考链接
 
-- [山东第二医科大学指南](https://github.com/Mikachu2333/sdsmu_welcome_tex)
-
 - [Wiki 来源与文化](https://zh.wikipedia.org/wiki/Wiki)
 
 - [Wiki 软件列举](https://zh.wikipedia.org/wiki/Wiki%E8%BB%9F%E9%AB%94)
