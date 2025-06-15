@@ -47,13 +47,13 @@ printenv
 env
 ```
 
-### Linux设置临时环境变量
+### Linux 设置临时环境变量
 
 ```bash
 export VARIABLE_NAME=value
 ```
 
-### Linux设置永久环境变量
+### Linux 设置永久环境变量
 
 将 `export VARIABLE_NAME=value` 添加到以下文件之一：
 
