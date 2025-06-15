@@ -3,7 +3,7 @@
 感谢[RainChan](https://github.com/mzdluo123)对于项目的认可，
 本章节依据 [SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial)项目进行补充
 
-本教程([**SurfingTutorial**：https://github.com/mzdluo123/SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial))是给新大学生的网上冲浪和计算机使用教程。
+本教程 ([**SurfingTutorial**：https://github.com/mzdluo123/SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial)) 是给新大学生的网上冲浪和计算机使用教程。
 主要面向的是在上大学之前接触计算机较少的计算机专业同学，目的是让他们能在网络上顺利自学之后的计算机编程语言和相关内容。
 
 ---
