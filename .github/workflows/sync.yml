@@ -18,9 +18,9 @@ jobs:
         id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
         with:
-          upstream_sync_repo: Ac-Wiki/Ac-Wiki
+          upstream_sync_repo: Ac-Wiki/AcWiKi
           upstream_sync_branch: main
-          target_sync_repo: Ac-Wiki/Ac-Wiki
+          target_sync_repo: Ac-Wiki/AcWiKi
           target_sync_branch: main
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
           test_mode: false
