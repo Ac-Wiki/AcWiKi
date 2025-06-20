@@ -237,12 +237,12 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 #### 📚 学术论文搜索平台
 
-除了传统的中国知网(CNKI)，还有许多优质的学术资源搜索平台：
+除了传统的中国知网 (CNKI)，还有许多优质的学术资源搜索平台：
 
 **免费开放获取平台：**
 
 - [谷歌学术](https://scholar.google.com/) - 全球最大的学术搜索引擎，涵盖各个学科领域
-- [Semantic Scholar](https://www.semanticscholar.org/) - AI驱动的学术搜索引擎，提供智能推荐
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI 驱动的学术搜索引擎，提供智能推荐
 - [CORE](https://core.ac.uk/) - 全球最大的开放获取研究论文聚合器
 - [arXiv](https://arxiv.org/) - 理工科预印本服务器，最新研究成果
 - [bioRxiv](https://www.biorxiv.org/) - 生物学预印本服务器
